@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Esam Alareqi — AI Engineering, Agentic AI Workflows, Automation Developer">
+<img src="assets/header.svg" width="100%" alt="Esam Alareqi, AI Engineering, Agentic AI Workflows, Automation Developer">
 
 <img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=22&duration=3200&pause=900&color=10B981&center=true&vCenter=true&width=620&height=48&lines=AI+%26+Data+Science+Undergraduate;Agentic+AI+Workflow+%26+Automation+Developer;Exploring+LLMs%2C+RAG+%26+AI+Agents;Aspiring+AI+Engineer" alt="Typing animation: AI and Data Science undergraduate, agentic AI workflow and automation developer, exploring LLMs, RAG and AI Agents, aspiring AI Engineer">
 
@@ -68,7 +68,7 @@ The repositories on this profile are university coursework and personal study pr
 ## Education
 
 **Bachelor of Computer Science (Artificial Intelligence & Data Science)**
-Taylor's University — Kuala Lumpur, Malaysia — Third Year
+Taylor's University, Kuala Lumpur, Malaysia. Third Year.
 
 - Coursework in machine learning, deep learning, computer vision, and natural language processing
 - Data science foundations: data mining, preprocessing, visualization, and statistical analysis
@@ -130,7 +130,7 @@ Taylor's University — Kuala Lumpur, Malaysia — Third Year
 ## Featured Projects
 
 <details>
-<summary><b>Flower Image Classification using ResNet50</b> — Transfer learning with TensorFlow, deployed on Hugging Face Spaces</summary>
+<summary><b>Flower Image Classification using ResNet50</b>: Transfer learning with TensorFlow, deployed on Hugging Face Spaces</summary>
 <br>
 
 An image classification project that fine-tunes a pretrained ResNet50 model with TensorFlow and Keras to classify flower species. The model was evaluated with a confusion matrix and classification report, wrapped in a Gradio interface, and deployed to Hugging Face Spaces.
@@ -149,7 +149,7 @@ In plain terms: I taught an existing image-recognition model to identify flower 
 </details>
 
 <details>
-<summary><b>Satellite Image Classification</b> — CNN and transfer learning on satellite imagery</summary>
+<summary><b>Satellite Image Classification</b>: CNN and transfer learning on satellite imagery</summary>
 <br>
 
 A computer vision project that classifies satellite images using convolutional neural networks and transfer learning. The work covers image preprocessing, model training, and evaluation of the results.
@@ -168,7 +168,7 @@ In plain terms: I built a model that looks at satellite pictures and identifies 
 </details>
 
 <details>
-<summary><b>AI Engineering Capstone</b> — LangChain, RAG, and LLM application</summary>
+<summary><b>AI Engineering Capstone</b>: LangChain, RAG, and LLM application</summary>
 <br>
 
 The capstone project of the IBM AI Engineering track. It applies LangChain and Retrieval-Augmented Generation to build a generative AI application backed by a large language model.
@@ -187,7 +187,7 @@ In plain terms: I built an application that retrieves relevant documents and fee
 </details>
 
 <details>
-<summary><b>Smart Urban Noise Monitoring System</b> — IoT system design with LoRaWAN for smart cities</summary>
+<summary><b>Smart Urban Noise Monitoring System</b>: IoT system design with LoRaWAN for smart cities</summary>
 <br>
 
 An IoT coursework project that designs a noise monitoring system for urban environments using LoRaWAN connectivity, aimed at smart-city use cases.
@@ -206,7 +206,7 @@ In plain terms: I designed a network of low-power sensors that could measure cit
 </details>
 
 <details>
-<summary><b>PM2.5 Air Pollution Prediction</b> — Regression modeling with feature engineering</summary>
+<summary><b>PM2.5 Air Pollution Prediction</b>: Regression modeling with feature engineering</summary>
 <br>
 
 A data science project that predicts PM2.5 air pollution levels using regression models. The work covers data cleaning, feature engineering, and model evaluation.
@@ -225,7 +225,7 @@ In plain terms: I cleaned real air-quality data and trained models to estimate f
 </details>
 
 <details>
-<summary><b>CareerConnect</b> — Academic group project, built with teammates</summary>
+<summary><b>CareerConnect</b>: Academic group project, built with teammates</summary>
 <br>
 
 A group coursework project developed collaboratively with teammates. My contributions were system analysis, UI design, documentation, and software design. Implementation work was shared across the team.
@@ -251,7 +251,7 @@ In plain terms: my teammates and I designed a career platform as a class project
 
 ## Experience
 
-**Student — Taylor's University** · Kuala Lumpur, Malaysia
+**Student, Taylor's University**, Kuala Lumpur, Malaysia
 
 Third-year Computer Science (AI & Data Science) undergraduate. My practical experience so far comes from coursework, certifications, and personal projects.
 
@@ -260,10 +260,7 @@ Third-year Computer Science (AI & Data Science) undergraduate. My practical expe
 - Contributed system analysis, UI design, and documentation to a team software project
 - Completed the IBM AI Engineering Professional Certificate program
 
-<img src="https://img.shields.io/badge/Python-10B981?style=flat-square&logo=python&logoColor=white&labelColor=0A1410" alt="Python">
-<img src="https://img.shields.io/badge/TensorFlow-14B8A6?style=flat-square&logo=tensorflow&logoColor=white&labelColor=0A1410" alt="TensorFlow">
-<img src="https://img.shields.io/badge/Scikit--learn-0F766E?style=flat-square&logo=scikitlearn&logoColor=white&labelColor=0A1410" alt="Scikit-learn">
-<img src="https://img.shields.io/badge/LangChain-F59E0B?style=flat-square&labelColor=0A1410" alt="LangChain">
+<img src="https://img.shields.io/badge/Python-10B981?style=flat-square&logo=python&logoColor=white&labelColor=0A1410" alt="Python"> <img src="https://img.shields.io/badge/TensorFlow-14B8A6?style=flat-square&logo=tensorflow&logoColor=white&labelColor=0A1410" alt="TensorFlow"> <img src="https://img.shields.io/badge/Scikit--learn-0F766E?style=flat-square&logo=scikitlearn&logoColor=white&labelColor=0A1410" alt="Scikit-learn"> <img src="https://img.shields.io/badge/LangChain-F59E0B?style=flat-square&labelColor=0A1410" alt="LangChain">
 
 <img src="assets/divider.svg" width="100%" alt="">
 
@@ -294,7 +291,7 @@ Third-year Computer Science (AI & Data Science) undergraduate. My practical expe
 - Google AI Essentials
 - SQL and Relational Databases
 
-**Certification Roadmap — 5-Step Path (targets, not yet earned)**
+**Certification Roadmap: 5-Step Path (targets, not yet earned)**
 
 <div align="center">
 
