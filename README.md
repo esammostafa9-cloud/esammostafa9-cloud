@@ -28,6 +28,16 @@
 <a href="https://github.com/esammostafa9-cloud?tab=followers"><img src="https://img.shields.io/github/followers/esammostafa9-cloud?style=flat-square&color=14B8A6&labelColor=0A1410&label=Followers" alt="GitHub followers"></a>
 <a href="https://github.com/esammostafa9-cloud"><img src="https://img.shields.io/github/stars/esammostafa9-cloud?style=flat-square&color=F59E0B&labelColor=0A1410&label=Stars" alt="GitHub stars"></a>
 
+<br><br>
+
+<a href="#about"><img src="https://img.shields.io/badge/About-10B981?style=for-the-badge&labelColor=0A1410" alt="About"></a>
+<a href="#education"><img src="https://img.shields.io/badge/Education-14B8A6?style=for-the-badge&labelColor=0A1410" alt="Education"></a>
+<a href="#tech-stack"><img src="https://img.shields.io/badge/Tech%20Stack-0F766E?style=for-the-badge&labelColor=0A1410" alt="Tech Stack"></a>
+<a href="#featured-projects"><img src="https://img.shields.io/badge/Projects-F59E0B?style=for-the-badge&labelColor=0A1410" alt="Projects"></a>
+<a href="#certifications"><img src="https://img.shields.io/badge/Certifications-10B981?style=for-the-badge&labelColor=0A1410" alt="Certifications"></a>
+<a href="#github-analytics"><img src="https://img.shields.io/badge/Analytics-14B8A6?style=for-the-badge&labelColor=0A1410" alt="Analytics"></a>
+<a href="#connect"><img src="https://img.shields.io/badge/Connect-0F766E?style=for-the-badge&labelColor=0A1410" alt="Connect"></a>
+
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="">
@@ -39,18 +49,6 @@ I am Esam Mustafa Ali Abduljalil Alareqi, a third-year Bachelor of Computer Scie
 My goal is to build production-ready AI systems that solve real-world problems in Machine Learning, Computer Vision, and Generative AI, and to contribute to open-source AI projects. I have completed the IBM AI Engineering Professional Certificate, along with courses in generative AI, AI fundamentals, and SQL. I am currently studying Large Language Models, Retrieval-Augmented Generation, LangChain, the Model Context Protocol, AI Agents, and MLOps, and I build agentic AI workflows with tools like Claude Code and Google Antigravity.
 
 The repositories on this profile are university coursework and personal study projects. They document what I am learning: image classification with transfer learning, RAG pipelines with LangChain, IoT system design, and data analysis.
-
-<div align="center">
-
-| Focus Area | Current State |
-|:---|:---|
-| Machine Learning | Hands-on through coursework and certifications |
-| Deep Learning & Computer Vision | Hands-on projects with CNNs and transfer learning |
-| Generative AI, LLMs & RAG | Studying, with a LangChain capstone project |
-| Agentic AI Workflows & Automation | Building with Claude Code, Google Antigravity, and MCP |
-| MLOps & Deployment | Foundational, using Gradio and Hugging Face Spaces |
-
-</div>
 
 <img src="assets/divider.svg" width="100%" alt="">
 
@@ -91,41 +89,15 @@ Taylor's University — Kuala Lumpur, Malaysia — Third Year
 
 <div align="center">
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=py,java,mysql,html,css,js&theme=dark" alt="Python, Java, SQL, HTML, CSS, JavaScript">
-
-**AI & Machine Learning**
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,anaconda&theme=dark" alt="TensorFlow, PyTorch, Scikit-learn, OpenCV, Anaconda">
-
-**Cloud & Deployment**
-
-<img src="https://skillicons.dev/icons?i=aws,azure,git,github,githubactions,vscode&theme=dark" alt="AWS, Microsoft Azure, Git, GitHub, GitHub Actions, VS Code">
+| Domain | Technologies |
+|:---|:---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=py,java,mysql,html,css,js&theme=dark" alt="Python, Java, SQL, HTML, CSS, JavaScript"> |
+| **AI & Machine Learning** | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,anaconda&theme=dark" alt="TensorFlow, PyTorch, Scikit-learn, OpenCV, Anaconda"> |
+| **Generative AI & Agents** | <img src="https://img.shields.io/badge/LangChain-10B981?style=flat-square&logo=langchain&logoColor=white&labelColor=0A1410" alt="LangChain"> <img src="https://img.shields.io/badge/RAG-14B8A6?style=flat-square&labelColor=0A1410" alt="RAG"> <img src="https://img.shields.io/badge/Claude%20Code-0F766E?style=flat-square&logo=claude&logoColor=white&labelColor=0A1410" alt="Claude Code"> <img src="https://img.shields.io/badge/Google%20Antigravity-10B981?style=flat-square&logo=google&logoColor=white&labelColor=0A1410" alt="Google Antigravity"> <img src="https://img.shields.io/badge/MCP-14B8A6?style=flat-square&labelColor=0A1410" alt="MCP"> <img src="https://img.shields.io/badge/AI%20Agents-F59E0B?style=flat-square&labelColor=0A1410" alt="AI Agents"> <br> <img src="https://img.shields.io/badge/Gemini%20API-0F766E?style=flat-square&logo=googlegemini&logoColor=white&labelColor=0A1410" alt="Gemini API"> <img src="https://img.shields.io/badge/OpenAI%20API-10B981?style=flat-square&logo=openai&logoColor=white&labelColor=0A1410" alt="OpenAI API"> <img src="https://img.shields.io/badge/Hugging%20Face-14B8A6?style=flat-square&logo=huggingface&logoColor=white&labelColor=0A1410" alt="Hugging Face"> <img src="https://img.shields.io/badge/Transformers-0F766E?style=flat-square&labelColor=0A1410" alt="Transformers"> <img src="https://img.shields.io/badge/Keras-10B981?style=flat-square&logo=keras&logoColor=white&labelColor=0A1410" alt="Keras"> |
+| **Data & Analytics** | <img src="https://img.shields.io/badge/Pandas-10B981?style=flat-square&logo=pandas&logoColor=white&labelColor=0A1410" alt="Pandas"> <img src="https://img.shields.io/badge/NumPy-14B8A6?style=flat-square&logo=numpy&logoColor=white&labelColor=0A1410" alt="NumPy"> <img src="https://img.shields.io/badge/Matplotlib-0F766E?style=flat-square&labelColor=0A1410" alt="Matplotlib"> <img src="https://img.shields.io/badge/Tableau-10B981?style=flat-square&labelColor=0A1410" alt="Tableau"> <img src="https://img.shields.io/badge/Power%20BI-14B8A6?style=flat-square&labelColor=0A1410" alt="Power BI"> <img src="https://img.shields.io/badge/Excel-0F766E?style=flat-square&labelColor=0A1410" alt="Excel"> |
+| **Cloud & Deployment** | <img src="https://skillicons.dev/icons?i=aws,azure,git,github,githubactions,vscode&theme=dark" alt="AWS, Microsoft Azure, Git, GitHub, GitHub Actions, VS Code"> <br> <img src="https://img.shields.io/badge/Gradio-10B981?style=flat-square&labelColor=0A1410" alt="Gradio"> <img src="https://img.shields.io/badge/Hugging%20Face%20Spaces-F59E0B?style=flat-square&labelColor=0A1410" alt="Hugging Face Spaces"> |
 
 <br>
-
-<img src="https://img.shields.io/badge/Keras-10B981?style=flat-square&logo=keras&logoColor=white&labelColor=0A1410" alt="Keras">
-<img src="https://img.shields.io/badge/Hugging%20Face-14B8A6?style=flat-square&logo=huggingface&logoColor=white&labelColor=0A1410" alt="Hugging Face">
-<img src="https://img.shields.io/badge/Transformers-0F766E?style=flat-square&labelColor=0A1410" alt="Transformers">
-<img src="https://img.shields.io/badge/LangChain-10B981?style=flat-square&logo=langchain&logoColor=white&labelColor=0A1410" alt="LangChain">
-<img src="https://img.shields.io/badge/Gemini%20API-14B8A6?style=flat-square&logo=googlegemini&logoColor=white&labelColor=0A1410" alt="Gemini API">
-<img src="https://img.shields.io/badge/OpenAI%20API-0F766E?style=flat-square&logo=openai&logoColor=white&labelColor=0A1410" alt="OpenAI API">
-<br>
-<img src="https://img.shields.io/badge/Claude%20Code-10B981?style=flat-square&logo=claude&logoColor=white&labelColor=0A1410" alt="Claude Code">
-<img src="https://img.shields.io/badge/Google%20Antigravity-14B8A6?style=flat-square&logo=google&logoColor=white&labelColor=0A1410" alt="Google Antigravity">
-<img src="https://img.shields.io/badge/MCP-0F766E?style=flat-square&labelColor=0A1410" alt="Model Context Protocol">
-<img src="https://img.shields.io/badge/AI%20Agents-F59E0B?style=flat-square&labelColor=0A1410" alt="AI Agents">
-<br>
-<img src="https://img.shields.io/badge/Pandas-10B981?style=flat-square&logo=pandas&logoColor=white&labelColor=0A1410" alt="Pandas">
-<img src="https://img.shields.io/badge/NumPy-14B8A6?style=flat-square&logo=numpy&logoColor=white&labelColor=0A1410" alt="NumPy">
-<img src="https://img.shields.io/badge/Matplotlib-0F766E?style=flat-square&labelColor=0A1410" alt="Matplotlib">
-<img src="https://img.shields.io/badge/Tableau-10B981?style=flat-square&labelColor=0A1410" alt="Tableau">
-<img src="https://img.shields.io/badge/Power%20BI-14B8A6?style=flat-square&labelColor=0A1410" alt="Power BI">
-<img src="https://img.shields.io/badge/Excel-0F766E?style=flat-square&labelColor=0A1410" alt="Excel">
-<img src="https://img.shields.io/badge/Gradio-10B981?style=flat-square&labelColor=0A1410" alt="Gradio">
-
-<br><br>
 
 **Study Tracks In Progress**
 
@@ -139,7 +111,6 @@ Taylor's University — Kuala Lumpur, Malaysia — Third Year
 <img src="https://img.shields.io/badge/MLOps-In%20Progress-FBBF24?style=flat-square&labelColor=0A1410" alt="MLOps in progress">
 
 </div>
-
 <img src="assets/divider.svg" width="100%" alt="">
 
 ## AI & Data Science Focus
@@ -148,14 +119,14 @@ Taylor's University — Kuala Lumpur, Malaysia — Third Year
 
 | Domain | Level | Details |
 |:---|:---:|:---|
-| Machine Learning | Hands-on | Regression, classification, feature engineering, model evaluation |
-| Deep Learning | Hands-on | CNNs, transfer learning with ResNet50, fine-tuning, ANN development |
-| Computer Vision | Hands-on | Image classification, preprocessing, confusion matrix analysis |
-| Generative AI & LLMs | Studying | LangChain, RAG, and LLM concepts applied in a capstone project |
-| Agentic AI & Automation | Hands-on | Agent workflows with Claude Code, Google Antigravity, and MCP |
-| Data Science | Hands-on | Pandas, NumPy, data cleaning, visualization with Tableau and Power BI |
-| NLP | Foundational | Coursework project on natural language processing |
-| MLOps & Deployment | Foundational | Gradio demos, Hugging Face Spaces, GitHub Actions |
+| Machine Learning | <img src="https://img.shields.io/badge/Hands--on-10B981?style=flat-square" alt="Hands-on"> | Regression, classification, feature engineering, model evaluation |
+| Deep Learning | <img src="https://img.shields.io/badge/Hands--on-10B981?style=flat-square" alt="Hands-on"> | CNNs, transfer learning with ResNet50, fine-tuning, ANN development |
+| Computer Vision | <img src="https://img.shields.io/badge/Hands--on-10B981?style=flat-square" alt="Hands-on"> | Image classification, preprocessing, confusion matrix analysis |
+| Generative AI & LLMs | <img src="https://img.shields.io/badge/Studying-FBBF24?style=flat-square" alt="Studying"> | LangChain, RAG, and LLM concepts applied in a capstone project |
+| Agentic AI & Automation | <img src="https://img.shields.io/badge/Hands--on-10B981?style=flat-square" alt="Hands-on"> | Agent workflows with Claude Code, Google Antigravity, and MCP |
+| Data Science | <img src="https://img.shields.io/badge/Hands--on-10B981?style=flat-square" alt="Hands-on"> | Pandas, NumPy, data cleaning, visualization with Tableau and Power BI |
+| NLP | <img src="https://img.shields.io/badge/Foundational-14B8A6?style=flat-square" alt="Foundational"> | Coursework project on natural language processing |
+| MLOps & Deployment | <img src="https://img.shields.io/badge/Foundational-14B8A6?style=flat-square" alt="Foundational"> | Gradio demos, Hugging Face Spaces, GitHub Actions |
 
 </div>
 
@@ -332,19 +303,13 @@ Third-year Computer Science (AI & Data Science) undergraduate. My practical expe
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Preparatory-Step%201-10B981?style=flat-square&labelColor=0A1410" alt="Preparatory: step 1">
-<img src="https://img.shields.io/badge/AI%20%26%20App%20Developer-Steps%202%E2%80%933-14B8A6?style=flat-square&labelColor=0A1410" alt="AI and App Developer: steps 2 to 3">
-<img src="https://img.shields.io/badge/Cloud%20%26%20Network-Steps%204%E2%80%935-F59E0B?style=flat-square&labelColor=0A1410" alt="Cloud and Network: steps 4 to 5">
-
-<br><br>
-
 | Step | Certification | Category | Key Skills |
 |:---:|:---|:---|:---|
-| 1 | GitHub Foundations | Preparatory | Source control (Git) · GitHub collaboration (PRs, issues) · dev workflow basics |
-| 2 | Microsoft Certified: Azure AI Fundamentals (AI-901) | AI & App Developer | Core AI concepts · responsible AI · Microsoft AI services |
-| 3 | Microsoft Certified: Azure AI App & Agent Developer (Associate) | AI & App Developer | Designing AI applications · building AI agents · agent orchestration & MLOps |
-| 4 | AWS Certified AI Practitioner (Foundational) | Cloud & Network | ML fundamentals on AWS · cross-cloud AI overview · security and compliance for AI |
-| 5 | Cisco Certified Network Associate (CCNA) | Cloud & Network | IP connectivity & routing · security fundamentals · automation & programmability |
+| 1 | GitHub Foundations | <img src="https://img.shields.io/badge/Preparatory-10B981?style=flat-square" alt="Preparatory"> | Source control (Git) · GitHub collaboration (PRs, issues) · dev workflow basics |
+| 2 | Microsoft Certified: Azure AI Fundamentals (AI-901) | <img src="https://img.shields.io/badge/AI%20%26%20App%20Developer-14B8A6?style=flat-square" alt="AI & App Developer"> | Core AI concepts · responsible AI · Microsoft AI services |
+| 3 | Microsoft Certified: Azure AI App & Agent Developer (Associate) | <img src="https://img.shields.io/badge/AI%20%26%20App%20Developer-14B8A6?style=flat-square" alt="AI & App Developer"> | Designing AI applications · building AI agents · agent orchestration & MLOps |
+| 4 | AWS Certified AI Practitioner (Foundational) | <img src="https://img.shields.io/badge/Cloud%20%26%20Network-F59E0B?style=flat-square" alt="Cloud & Network"> | ML fundamentals on AWS · cross-cloud AI overview · security and compliance for AI |
+| 5 | Cisco Certified Network Associate (CCNA) | <img src="https://img.shields.io/badge/Cloud%20%26%20Network-F59E0B?style=flat-square" alt="Cloud & Network"> | IP connectivity & routing · security fundamentals · automation & programmability |
 
 </div>
 

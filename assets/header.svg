@@ -50,12 +50,20 @@
       <stop offset="1" stop-color="#10B981" stop-opacity="0"/>
     </linearGradient>
     <radialGradient id="haloGrad" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#10B981" stop-opacity="0.17"/>
+      <stop offset="0" stop-color="#10B981" stop-opacity="0.20"/>
       <stop offset="1" stop-color="#10B981" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="haloGold" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#F59E0B" stop-opacity="0.06"/>
+      <stop offset="0" stop-color="#F59E0B" stop-opacity="0.10"/>
       <stop offset="1" stop-color="#F59E0B" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="haloTeal" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#14B8A6" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#14B8A6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="haloMint" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#34D399" stop-opacity="0.11"/>
+      <stop offset="1" stop-color="#34D399" stop-opacity="0"/>
     </radialGradient>
     <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
       <feGaussianBlur stdDeviation="9"/>
@@ -68,6 +76,12 @@
   <g clip-path="url(#panelClip)">
     <rect x="6" y="6" width="988" height="238" fill="url(#dots)"/>
     <g stroke="#10B981" stroke-width="1.2" fill="none" opacity="0.09"><path d="M230,32 L322,32 L336,46 L420,46"/><path d="M770,32 L678,32 L664,46 L580,46"/><path d="M230,218 L330,218 L344,204 L430,204"/><path d="M770,218 L670,218 L656,204 L570,204"/></g><circle cx="420" cy="46" r="2.4" fill="#10B981" opacity="0.20"/><circle cx="580" cy="46" r="2.4" fill="#10B981" opacity="0.20"/><circle cx="430" cy="204" r="2.4" fill="#10B981" opacity="0.20"/><circle cx="570" cy="204" r="2.4" fill="#10B981" opacity="0.20"/>
+    <ellipse cx="240" cy="95" rx="320" ry="130" fill="url(#haloTeal)">
+      <animate attributeName="cx" values="240;300;240" dur="11s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="760" cy="160" rx="320" ry="130" fill="url(#haloMint)">
+      <animate attributeName="cx" values="760;690;760" dur="13s" repeatCount="indefinite"/>
+    </ellipse>
     <ellipse cx="500.0" cy="125" rx="340" ry="100" fill="url(#haloGrad)"/>
     <ellipse cx="860" cy="40" rx="260" ry="90" fill="url(#haloGold)"/>
     <ellipse cx="140" cy="210" rx="260" ry="90" fill="url(#haloGold)"/>
