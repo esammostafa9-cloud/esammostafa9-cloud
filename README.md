@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Esam Alareqi — AI Engineering, Computer Vision, Generative AI">
+<img src="assets/header.svg" width="100%" alt="Esam Alareqi — AI Engineering, Agentic AI Workflows, Automation Developer">
 
 <img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=22&duration=3200&pause=900&color=10B981&center=true&vCenter=true&width=620&height=48&lines=AI+%26+Data+Science+Undergraduate;Agentic+AI+Workflow+%26+Automation+Developer;Exploring+LLMs%2C+RAG+%26+AI+Agents;Aspiring+AI+Engineer" alt="Typing animation: AI and Data Science undergraduate, agentic AI workflow and automation developer, exploring LLMs, RAG and AI Agents, aspiring AI Engineer">
 
@@ -32,7 +32,7 @@
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-## 🧠 About
+## About
 
 I am Esam Mustafa Ali Abduljalil Alareqi, a third-year Bachelor of Computer Science (Artificial Intelligence & Data Science) student at Taylor's University in Kuala Lumpur, Malaysia.
 
@@ -42,7 +42,7 @@ The repositories on this profile are university coursework and personal study pr
 
 <div align="center">
 
-| 🎯 Focus Area | 📌 Current State |
+| Focus Area | Current State |
 |:---|:---|
 | Machine Learning | Hands-on through coursework and certifications |
 | Deep Learning & Computer Vision | Hands-on projects with CNNs and transfer learning |
@@ -54,7 +54,7 @@ The repositories on this profile are university coursework and personal study pr
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-## 📬 Open To
+## Open To
 
 <div align="center">
 
@@ -67,7 +67,7 @@ The repositories on this profile are university coursework and personal study pr
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-## 🎓 Education
+## Education
 
 **Bachelor of Computer Science (Artificial Intelligence & Data Science)**
 Taylor's University — Kuala Lumpur, Malaysia — Third Year
@@ -87,7 +87,7 @@ Taylor's University — Kuala Lumpur, Malaysia — Third Year
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -142,7 +142,7 @@ Taylor's University — Kuala Lumpur, Malaysia — Third Year
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-## 🤖 AI & Data Science Focus
+## AI & Data Science Focus
 
 <div align="center">
 
@@ -161,10 +161,10 @@ Taylor's University — Kuala Lumpur, Malaysia — Third Year
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <details>
-<summary><b>🌸 Flower Image Classification using ResNet50</b> — Transfer learning with TensorFlow, deployed on Hugging Face Spaces</summary>
+<summary><b>Flower Image Classification using ResNet50</b> — Transfer learning with TensorFlow, deployed on Hugging Face Spaces</summary>
 <br>
 
 An image classification project that fine-tunes a pretrained ResNet50 model with TensorFlow and Keras to classify flower species. The model was evaluated with a confusion matrix and classification report, wrapped in a Gradio interface, and deployed to Hugging Face Spaces.
@@ -183,7 +183,7 @@ In plain terms: I taught an existing image-recognition model to identify flower 
 </details>
 
 <details>
-<summary><b>🛰️ Satellite Image Classification</b> — CNN and transfer learning on satellite imagery</summary>
+<summary><b>Satellite Image Classification</b> — CNN and transfer learning on satellite imagery</summary>
 <br>
 
 A computer vision project that classifies satellite images using convolutional neural networks and transfer learning. The work covers image preprocessing, model training, and evaluation of the results.
@@ -202,7 +202,7 @@ In plain terms: I built a model that looks at satellite pictures and identifies 
 </details>
 
 <details>
-<summary><b>📚 AI Engineering Capstone</b> — LangChain, RAG, and LLM application</summary>
+<summary><b>AI Engineering Capstone</b> — LangChain, RAG, and LLM application</summary>
 <br>
 
 The capstone project of the IBM AI Engineering track. It applies LangChain and Retrieval-Augmented Generation to build a generative AI application backed by a large language model.
@@ -221,7 +221,7 @@ In plain terms: I built an application that retrieves relevant documents and fee
 </details>
 
 <details>
-<summary><b>🔊 Smart Urban Noise Monitoring System</b> — IoT system design with LoRaWAN for smart cities</summary>
+<summary><b>Smart Urban Noise Monitoring System</b> — IoT system design with LoRaWAN for smart cities</summary>
 <br>
 
 An IoT coursework project that designs a noise monitoring system for urban environments using LoRaWAN connectivity, aimed at smart-city use cases.
@@ -240,7 +240,7 @@ In plain terms: I designed a network of low-power sensors that could measure cit
 </details>
 
 <details>
-<summary><b>🌫️ PM2.5 Air Pollution Prediction</b> — Regression modeling with feature engineering</summary>
+<summary><b>PM2.5 Air Pollution Prediction</b> — Regression modeling with feature engineering</summary>
 <br>
 
 A data science project that predicts PM2.5 air pollution levels using regression models. The work covers data cleaning, feature engineering, and model evaluation.
@@ -259,7 +259,7 @@ In plain terms: I cleaned real air-quality data and trained models to estimate f
 </details>
 
 <details>
-<summary><b>💼 CareerConnect</b> — Academic group project, built with teammates</summary>
+<summary><b>CareerConnect</b> — Academic group project, built with teammates</summary>
 <br>
 
 A group coursework project developed collaboratively with teammates. My contributions were system analysis, UI design, documentation, and software design. Implementation work was shared across the team.
@@ -283,7 +283,7 @@ In plain terms: my teammates and I designed a career platform as a class project
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-## 💼 Experience
+## Experience
 
 **Student — Taylor's University** · Kuala Lumpur, Malaysia
 
@@ -301,7 +301,7 @@ Third-year Computer Science (AI & Data Science) undergraduate. My practical expe
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-## 🏆 Achievements
+## Achievements
 
 <div align="center">
 
@@ -319,7 +319,7 @@ Third-year Computer Science (AI & Data Science) undergraduate. My practical expe
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-## 📜 Certifications
+## Certifications
 
 **Completed**
 
@@ -350,7 +350,7 @@ Third-year Computer Science (AI & Data Science) undergraduate. My practical expe
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-## 👨‍💻 Coding Profiles
+## Coding Profiles
 
 <div align="center">
 
@@ -361,7 +361,7 @@ Third-year Computer Science (AI & Data Science) undergraduate. My practical expe
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -380,7 +380,7 @@ Third-year Computer Science (AI & Data Science) undergraduate. My practical expe
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -390,7 +390,7 @@ Third-year Computer Science (AI & Data Science) undergraduate. My practical expe
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -400,7 +400,7 @@ Third-year Computer Science (AI & Data Science) undergraduate. My practical expe
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-## 🎯 Current Focus
+## Current Focus
 
 ```yaml
 learning:
@@ -430,7 +430,7 @@ open_to:
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-## 🤝 Connect
+## Connect
 
 <div align="center">
 

@@ -22,6 +22,11 @@
     <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
       <circle cx="1.3" cy="1.3" r="1.3" fill="#10B981" opacity="0.07"/>
     </pattern>
+    <radialGradient id="vignette" cx="0.5" cy="0.5" r="0.72">
+      <stop offset="0" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="0.72" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0.32"/>
+    </radialGradient>
 
     <clipPath id="fPanelClip"><rect x="6" y="6" width="988" height="98" rx="14"/></clipPath>
   </defs>
@@ -29,6 +34,8 @@
   <rect x="6" y="6" width="988" height="98" rx="14" fill="url(#bgGrad)"/>
   <g clip-path="url(#fPanelClip)">
     <rect x="6" y="6" width="988" height="98" fill="url(#dots)"/>
+    <g stroke="#10B981" stroke-width="1.2" fill="none" opacity="0.09"><path d="M180,30 L300,30 L312,42 L400,42"/><path d="M820,80 L700,80 L688,68 L600,68"/></g><circle cx="400" cy="42" r="2.4" fill="#10B981" opacity="0.20"/><circle cx="600" cy="68" r="2.4" fill="#10B981" opacity="0.20"/>
+    <rect x="6" y="6" width="988" height="98" fill="url(#vignette)"/>
   </g>
   <rect x="6" y="6" width="988" height="98" rx="14" fill="none" stroke="url(#borderGrad)" stroke-width="1.6"/>
   <rect x="13" y="13" width="974" height="84" rx="10" fill="none" stroke="#10B981" stroke-opacity="0.16" stroke-width="1"/>
