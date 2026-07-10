@@ -76,12 +76,7 @@ Taylor's University — Kuala Lumpur, Malaysia — Third Year
 - Systems coursework covering computer networks and operating systems
 - Applied group work, including the CareerConnect academic project
 
-<img src="https://img.shields.io/badge/Machine%20Learning-10B981?style=flat-square&labelColor=0A1410" alt="Machine Learning">
-<img src="https://img.shields.io/badge/Deep%20Learning-14B8A6?style=flat-square&labelColor=0A1410" alt="Deep Learning">
-<img src="https://img.shields.io/badge/Computer%20Vision-0F766E?style=flat-square&labelColor=0A1410" alt="Computer Vision">
-<img src="https://img.shields.io/badge/Data%20Science-F59E0B?style=flat-square&labelColor=0A1410" alt="Data Science">
-<img src="https://img.shields.io/badge/NLP-10B981?style=flat-square&labelColor=0A1410" alt="Natural Language Processing">
-<img src="https://img.shields.io/badge/Software%20Engineering-14B8A6?style=flat-square&labelColor=0A1410" alt="Software Engineering">
+<img src="https://img.shields.io/badge/Machine%20Learning-10B981?style=flat-square&labelColor=0A1410" alt="Machine Learning"> <img src="https://img.shields.io/badge/Deep%20Learning-14B8A6?style=flat-square&labelColor=0A1410" alt="Deep Learning"> <img src="https://img.shields.io/badge/Computer%20Vision-0F766E?style=flat-square&labelColor=0A1410" alt="Computer Vision"> <img src="https://img.shields.io/badge/Data%20Science-F59E0B?style=flat-square&labelColor=0A1410" alt="Data Science"> <img src="https://img.shields.io/badge/NLP-10B981?style=flat-square&labelColor=0A1410" alt="Natural Language Processing"> <img src="https://img.shields.io/badge/Software%20Engineering-14B8A6?style=flat-square&labelColor=0A1410" alt="Software Engineering">
 
 <img src="assets/divider.svg" width="100%" alt="">
 
