@@ -1,0 +1,28 @@
+# Secrets & credentials — never commit
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+*.p12
+credentials*
+secrets*
+*.secret
+
+# Prompt source documents (planning material, not profile content)
+GitHub_Profile_README_Prompt_Claude.md
+\# GitHub Profile README Prompt.txt
+
+# OS / editor noise
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.swp
+.vscode/
+.idea/
+
+# Python tooling artifacts
+__pycache__/
+*.pyc
+.venv/
+venv/
