@@ -48,4 +48,7 @@
   <rect x="-9" y="-9" width="18" height="18" fill="none" stroke="#FBBF24" stroke-width="1" opacity="0.5" transform="translate(500.0,55.0) rotate(45)">
     <animate attributeName="opacity" values="0.2;0.6;0.2" dur="3s" repeatCount="indefinite"/>
   </rect>
+  <path d="M0,-3 L0.9,-0.9 L3,0 L0.9,0.9 L0,3 L-0.9,0.9 L-3,0 L-0.9,-0.9 Z" fill="#FBBF24" transform="translate(390,32)"><animate attributeName="opacity" values="0;1;0" dur="3.7s" begin="0.5s" repeatCount="indefinite"/></path>
+  <path d="M0,-3 L0.9,-0.9 L3,0 L0.9,0.9 L0,3 L-0.9,0.9 L-3,0 L-0.9,-0.9 Z" fill="#6EE7B7" transform="translate(610,78)"><animate attributeName="opacity" values="0;1;0" dur="4.2s" begin="1.6s" repeatCount="indefinite"/></path>
+  <path d="M0,-2.5 L0.8,-0.8 L2.5,0 L0.8,0.8 L0,2.5 L-0.8,0.8 L-2.5,0 L-0.8,-0.8 Z" fill="#6EE7B7" transform="translate(500,24)"><animate attributeName="opacity" values="0;1;0" dur="3.3s" begin="2.4s" repeatCount="indefinite"/></path>
 </svg>

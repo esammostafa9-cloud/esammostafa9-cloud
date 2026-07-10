@@ -2,16 +2,16 @@
 
 <img src="assets/header.svg" width="100%" alt="Esam Alareqi — AI Engineering, Computer Vision, Generative AI">
 
-<img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=22&duration=3200&pause=900&color=10B981&center=true&vCenter=true&width=620&height=48&lines=AI+%26+Data+Science+Undergraduate;Building+ML+%26+Computer+Vision+Projects;Exploring+LLMs%2C+RAG+%26+AI+Agents;Aspiring+AI+Engineer" alt="Typing animation: AI and Data Science undergraduate, building ML and Computer Vision projects, exploring LLMs, RAG and AI Agents, aspiring AI Engineer">
+<img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=22&duration=3200&pause=900&color=10B981&center=true&vCenter=true&width=620&height=48&lines=AI+%26+Data+Science+Undergraduate;Agentic+AI+Workflow+%26+Automation+Developer;Exploring+LLMs%2C+RAG+%26+AI+Agents;Aspiring+AI+Engineer" alt="Typing animation: AI and Data Science undergraduate, agentic AI workflow and automation developer, exploring LLMs, RAG and AI Agents, aspiring AI Engineer">
 
 <br>
 
 <img src="https://img.shields.io/badge/University-Taylor%27s%20University-10B981?style=flat-square&labelColor=0A1410" alt="Taylor's University">
 <img src="https://img.shields.io/badge/Degree-BCS%20(AI%20%26%20Data%20Science)-14B8A6?style=flat-square&labelColor=0A1410" alt="Bachelor of Computer Science (AI and Data Science)">
 <img src="https://img.shields.io/badge/Year-Third--Year%20Undergraduate-0F766E?style=flat-square&labelColor=0A1410" alt="Third-Year Undergraduate">
-<img src="https://img.shields.io/badge/Certifications-5%20Completed-F59E0B?style=flat-square&labelColor=0A1410" alt="5 Certifications Completed">
+<img src="https://img.shields.io/badge/Certifications-4%20Completed-F59E0B?style=flat-square&labelColor=0A1410" alt="4 Certifications Completed">
 <br>
-<img src="https://img.shields.io/badge/Focus-AI%20Engineering%20%C2%B7%20ML%20%C2%B7%20Computer%20Vision-10B981?style=flat-square&labelColor=0A1410" alt="Focus: AI Engineering, Machine Learning, Computer Vision">
+<img src="https://img.shields.io/badge/Focus-AI%20Engineering%20%C2%B7%20Agentic%20AI%20%C2%B7%20Automation-10B981?style=flat-square&labelColor=0A1410" alt="Focus: AI Engineering, Agentic AI, Automation">
 <img src="https://img.shields.io/badge/Studying-LLMs%20%C2%B7%20RAG%20%C2%B7%20MLOps-FBBF24?style=flat-square&labelColor=0A1410" alt="Studying LLMs, RAG, MLOps">
 <img src="https://img.shields.io/badge/Location-Kuala%20Lumpur%2C%20Malaysia-14B8A6?style=flat-square&labelColor=0A1410" alt="Kuala Lumpur, Malaysia">
 
@@ -29,13 +29,13 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10B981,50:14B8A6,100:F59E0B&height=3" width="100%" alt="">
+<img src="assets/divider.svg" width="100%" alt="">
 
 ## 🧠 About
 
 I am Esam Mustafa Ali Abduljalil Alareqi, a third-year Bachelor of Computer Science (Artificial Intelligence & Data Science) student at Taylor's University in Kuala Lumpur, Malaysia.
 
-My goal is to build production-ready AI systems that solve real-world problems in Machine Learning, Computer Vision, and Generative AI, and to contribute to open-source AI projects. I have completed the IBM AI Engineering and IBM Data Science Professional Certificates, along with courses in generative AI, AI fundamentals, and SQL. I am currently studying Large Language Models, Retrieval-Augmented Generation, LangChain, the Model Context Protocol, AI Agents, and MLOps.
+My goal is to build production-ready AI systems that solve real-world problems in Machine Learning, Computer Vision, and Generative AI, and to contribute to open-source AI projects. I have completed the IBM AI Engineering Professional Certificate, along with courses in generative AI, AI fundamentals, and SQL. I am currently studying Large Language Models, Retrieval-Augmented Generation, LangChain, the Model Context Protocol, AI Agents, and MLOps, and I build agentic AI workflows with tools like Claude Code and Google Antigravity.
 
 The repositories on this profile are university coursework and personal study projects. They document what I am learning: image classification with transfer learning, RAG pipelines with LangChain, IoT system design, and data analysis.
 
@@ -46,12 +46,12 @@ The repositories on this profile are university coursework and personal study pr
 | Machine Learning | Hands-on through coursework and certifications |
 | Deep Learning & Computer Vision | Hands-on projects with CNNs and transfer learning |
 | Generative AI, LLMs & RAG | Studying, with a LangChain capstone project |
-| AI Agents & MCP | Studying |
+| Agentic AI Workflows & Automation | Building with Claude Code, Google Antigravity, and MCP |
 | MLOps & Deployment | Foundational, using Gradio and Hugging Face Spaces |
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10B981,50:14B8A6,100:F59E0B&height=3" width="100%" alt="">
+<img src="assets/divider.svg" width="100%" alt="">
 
 ## 📬 Open To
 
@@ -64,7 +64,7 @@ The repositories on this profile are university coursework and personal study pr
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10B981,50:14B8A6,100:F59E0B&height=3" width="100%" alt="">
+<img src="assets/divider.svg" width="100%" alt="">
 
 ## 🎓 Education
 
@@ -84,7 +84,7 @@ Taylor's University — Kuala Lumpur, Malaysia — Third Year
 <img src="https://img.shields.io/badge/NLP-10B981?style=flat-square&labelColor=0A1410" alt="Natural Language Processing">
 <img src="https://img.shields.io/badge/Software%20Engineering-14B8A6?style=flat-square&labelColor=0A1410" alt="Software Engineering">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10B981,50:14B8A6,100:F59E0B&height=3" width="100%" alt="">
+<img src="assets/divider.svg" width="100%" alt="">
 
 ## 🛠️ Tech Stack
 
@@ -98,9 +98,9 @@ Taylor's University — Kuala Lumpur, Malaysia — Third Year
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,anaconda&theme=dark" alt="TensorFlow, PyTorch, Scikit-learn, OpenCV, Anaconda">
 
-**Deployment & Tools**
+**Cloud & Deployment**
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode&theme=dark" alt="Git, GitHub, GitHub Actions, VS Code">
+<img src="https://skillicons.dev/icons?i=aws,azure,git,github,githubactions,vscode&theme=dark" alt="AWS, Microsoft Azure, Git, GitHub, GitHub Actions, VS Code">
 
 <br>
 
@@ -110,6 +110,11 @@ Taylor's University — Kuala Lumpur, Malaysia — Third Year
 <img src="https://img.shields.io/badge/LangChain-10B981?style=flat-square&logo=langchain&logoColor=white&labelColor=0A1410" alt="LangChain">
 <img src="https://img.shields.io/badge/Gemini%20API-14B8A6?style=flat-square&logo=googlegemini&logoColor=white&labelColor=0A1410" alt="Gemini API">
 <img src="https://img.shields.io/badge/OpenAI%20API-0F766E?style=flat-square&logo=openai&logoColor=white&labelColor=0A1410" alt="OpenAI API">
+<br>
+<img src="https://img.shields.io/badge/Claude%20Code-10B981?style=flat-square&logo=claude&logoColor=white&labelColor=0A1410" alt="Claude Code">
+<img src="https://img.shields.io/badge/Google%20Antigravity-14B8A6?style=flat-square&logo=google&logoColor=white&labelColor=0A1410" alt="Google Antigravity">
+<img src="https://img.shields.io/badge/MCP-0F766E?style=flat-square&labelColor=0A1410" alt="Model Context Protocol">
+<img src="https://img.shields.io/badge/AI%20Agents-F59E0B?style=flat-square&labelColor=0A1410" alt="AI Agents">
 <br>
 <img src="https://img.shields.io/badge/Pandas-10B981?style=flat-square&logo=pandas&logoColor=white&labelColor=0A1410" alt="Pandas">
 <img src="https://img.shields.io/badge/NumPy-14B8A6?style=flat-square&logo=numpy&logoColor=white&labelColor=0A1410" alt="NumPy">
@@ -134,7 +139,7 @@ Taylor's University — Kuala Lumpur, Malaysia — Third Year
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10B981,50:14B8A6,100:F59E0B&height=3" width="100%" alt="">
+<img src="assets/divider.svg" width="100%" alt="">
 
 ## 🤖 AI & Data Science Focus
 
@@ -146,14 +151,14 @@ Taylor's University — Kuala Lumpur, Malaysia — Third Year
 | Deep Learning | Hands-on | CNNs, transfer learning with ResNet50, fine-tuning, ANN development |
 | Computer Vision | Hands-on | Image classification, preprocessing, confusion matrix analysis |
 | Generative AI & LLMs | Studying | LangChain, RAG, and LLM concepts applied in a capstone project |
-| AI Agents & MCP | Studying | Agent design patterns and the Model Context Protocol |
+| Agentic AI & Automation | Hands-on | Agent workflows with Claude Code, Google Antigravity, and MCP |
 | Data Science | Hands-on | Pandas, NumPy, data cleaning, visualization with Tableau and Power BI |
 | NLP | Foundational | Coursework project on natural language processing |
 | MLOps & Deployment | Foundational | Gradio demos, Hugging Face Spaces, GitHub Actions |
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10B981,50:14B8A6,100:F59E0B&height=3" width="100%" alt="">
+<img src="assets/divider.svg" width="100%" alt="">
 
 ## 🚀 Featured Projects
 
@@ -275,7 +280,7 @@ In plain terms: my teammates and I designed a career platform as a class project
 
 **Additional academic work:** climate change data visualization, data mining preprocessing pipeline, NLP project, artificial neural network development, deep learning image recognition, software engineering and database design, Java OOP, data structures and algorithms, computer networks, operating systems, and an AI agents initiative.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10B981,50:14B8A6,100:F59E0B&height=3" width="100%" alt="">
+<img src="assets/divider.svg" width="100%" alt="">
 
 ## 💼 Experience
 
@@ -286,14 +291,14 @@ Third-year Computer Science (AI & Data Science) undergraduate. My practical expe
 - Built and evaluated machine learning and deep learning models in university and certification projects
 - Deployed a computer vision demo with Gradio on Hugging Face Spaces
 - Contributed system analysis, UI design, and documentation to a team software project
-- Completed the IBM AI Engineering and IBM Data Science Professional Certificate programs
+- Completed the IBM AI Engineering Professional Certificate program
 
 <img src="https://img.shields.io/badge/Python-10B981?style=flat-square&logo=python&logoColor=white&labelColor=0A1410" alt="Python">
 <img src="https://img.shields.io/badge/TensorFlow-14B8A6?style=flat-square&logo=tensorflow&logoColor=white&labelColor=0A1410" alt="TensorFlow">
 <img src="https://img.shields.io/badge/Scikit--learn-0F766E?style=flat-square&logo=scikitlearn&logoColor=white&labelColor=0A1410" alt="Scikit-learn">
 <img src="https://img.shields.io/badge/LangChain-F59E0B?style=flat-square&labelColor=0A1410" alt="LangChain">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10B981,50:14B8A6,100:F59E0B&height=3" width="100%" alt="">
+<img src="assets/divider.svg" width="100%" alt="">
 
 ## 🏆 Achievements
 
@@ -302,7 +307,6 @@ Third-year Computer Science (AI & Data Science) undergraduate. My practical expe
 | Recognition | Details |
 |:---|:---|
 | IBM AI Engineering Professional Certificate | Completed certification program |
-| IBM Data Science Professional Certificate | Completed certification program |
 | AWS Generative AI Applications | Completed course |
 | Google AI Essentials | Completed course |
 | SQL and Relational Databases | Completed course |
@@ -312,14 +316,13 @@ Third-year Computer Science (AI & Data Science) undergraduate. My practical expe
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10B981,50:14B8A6,100:F59E0B&height=3" width="100%" alt="">
+<img src="assets/divider.svg" width="100%" alt="">
 
 ## 📜 Certifications
 
 **Completed**
 
 - IBM AI Engineering Professional Certificate
-- IBM Data Science Professional Certificate
 - AWS Generative AI Applications
 - Google AI Essentials
 - SQL and Relational Databases
@@ -344,7 +347,7 @@ Third-year Computer Science (AI & Data Science) undergraduate. My practical expe
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10B981,50:14B8A6,100:F59E0B&height=3" width="100%" alt="">
+<img src="assets/divider.svg" width="100%" alt="">
 
 ## 👨‍💻 Coding Profiles
 
@@ -355,7 +358,7 @@ Third-year Computer Science (AI & Data Science) undergraduate. My practical expe
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10B981,50:14B8A6,100:F59E0B&height=3" width="100%" alt="">
+<img src="assets/divider.svg" width="100%" alt="">
 
 ## 📊 GitHub Analytics
 
@@ -374,7 +377,7 @@ Third-year Computer Science (AI & Data Science) undergraduate. My practical expe
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10B981,50:14B8A6,100:F59E0B&height=3" width="100%" alt="">
+<img src="assets/divider.svg" width="100%" alt="">
 
 ## 📈 Contribution Activity
 
@@ -384,7 +387,7 @@ Third-year Computer Science (AI & Data Science) undergraduate. My practical expe
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10B981,50:14B8A6,100:F59E0B&height=3" width="100%" alt="">
+<img src="assets/divider.svg" width="100%" alt="">
 
 ## 🐍 Contribution Snake
 
@@ -394,7 +397,7 @@ Third-year Computer Science (AI & Data Science) undergraduate. My practical expe
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10B981,50:14B8A6,100:F59E0B&height=3" width="100%" alt="">
+<img src="assets/divider.svg" width="100%" alt="">
 
 ## 🎯 Current Focus
 
@@ -409,10 +412,12 @@ learning:
   - MLOps
 
 building:
+  - Agentic AI workflows and automations
   - Computer vision classifiers with transfer learning
   - RAG pipelines with LangChain
 
 exploring:
+  - Agentic developer tools (Claude Code, Google Antigravity)
   - Open-source AI projects
   - Production-ready AI system design
 
@@ -422,7 +427,7 @@ open_to:
   - Open-source contribution
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10B981,50:14B8A6,100:F59E0B&height=3" width="100%" alt="">
+<img src="assets/divider.svg" width="100%" alt="">
 
 ## 🤝 Connect
 
@@ -434,7 +439,7 @@ open_to:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10B981,50:14B8A6,100:F59E0B&height=3" width="100%" alt="">
+<img src="assets/divider.svg" width="100%" alt="">
 
 <div align="center">
 
