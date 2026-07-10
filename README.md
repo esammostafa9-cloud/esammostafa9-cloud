@@ -417,3 +417,4 @@ open_to:
 <img src="assets/footer.svg" width="100%" alt="Footer">
 
 </div>
+
