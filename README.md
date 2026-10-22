@@ -18,9 +18,15 @@
 
 ## About
 
-I build multi-agent and RAG systems, and I measure whether they are reliable: evaluating how models behave, judging the quality of their outputs and setting the policies that keep them dependable in production.
+AI engineer in training who builds agentic systems meant for production, not just demos. Third-year Computer Science (Artificial Intelligence & Data Science) student at Taylor's University, Kuala Lumpur, and co-founder of Nabily.
 
-Third-year AI & Data Science student at Taylor's University and co-founder of Nabily. **Open to industrial training and work opportunities.**
+- **Agentic systems:** multi-agent workflows with LangGraph, Google ADK and MCP that plan, call tools and integrate third-party APIs.
+- **Retrieval-augmented generation:** document Q&A pipelines with embeddings, vector stores (pgvector, ChromaDB) and FastAPI backends.
+- **Evaluation and reliability:** measuring how models behave, judging the quality of their outputs and setting the policies that keep LLM applications dependable.
+- **Applied machine learning:** computer vision and predictive models with TensorFlow, PyTorch and scikit-learn, from data cleaning to deployment.
+
+**Currently:** building the agent backend at Nabily and Collabwisely, a multiplayer AI workspace.<br>
+**Looking for:** industrial training or an internship in AI engineering.
 
 ## Featured Projects
 
@@ -168,6 +174,12 @@ Architected the agent-based backend, where AI agents orchestrate workflows and t
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=esammostafa9-cloud&theme=tokyonight" width="100%" alt="GitHub profile summary: contributions, public repositories and contribution graph for the last year">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/esammostafa9-cloud/esammostafa9-cloud/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/esammostafa9-cloud/esammostafa9-cloud/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/esammostafa9-cloud/esammostafa9-cloud/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake eating the contribution graph">
+</picture>
 
 </div>
 
