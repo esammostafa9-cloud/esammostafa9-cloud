@@ -16,13 +16,13 @@
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-## About
+<img src="assets/sections/about.svg" width="100%" alt="About">
 
 I am an AI engineer in training, focused on building agentic systems that hold up in production. My work centres on multi-agent workflows, retrieval-augmented generation and model evaluation: designing agents that plan, use tools and work with external services, grounding them in reliable retrieval, and measuring how they behave so that their outputs can be trusted.
 
 I am in my third year of a Bachelor of Computer Science, specialising in Artificial Intelligence and Data Science, at Taylor's University in Kuala Lumpur, with a solid foundation in machine learning, deep learning and computer vision. I am currently seeking industrial training or an internship in AI engineering, where I can contribute to real products and keep growing alongside experienced engineers.
 
-## Featured Projects
+<img src="assets/sections/projects.svg" width="100%" alt="Featured Projects">
 
 | Project | What it is | Stack |
 | --- | --- | --- |
@@ -34,7 +34,7 @@ I am in my third year of a Bachelor of Computer Science, specialising in Artific
 | **FloraVision** *(private)* | ResNet-50 transfer learning on about 3,670 images across 5 flower classes, trained in two phases to 92% test accuracy. Deployed as a public Gradio app on Hugging Face Spaces. | TensorFlow, Keras, Gradio |
 | [Satellite Image Classification](https://github.com/esammostafa9-cloud/resisc45-scene-classification) | Fine-tuned ResNet-50 that sorts satellite images into the 45 land-use classes of NWPU-RESISC45, at 94.41% test accuracy. | Python, TensorFlow, Keras |
 
-## Experience & Education
+<img src="assets/sections/experience.svg" width="100%" alt="Experience & Education">
 
 **Co-founder** · Nabily · *Sep 2026 – present*<br>
 Architected the agent-based backend, where AI agents orchestrate workflows and third-party API integrations, with a TypeScript web app and a Neon PostgreSQL database.
@@ -44,7 +44,7 @@ Architected the agent-based backend, where AI agents orchestrate workflows and t
 - Coursework in machine learning, deep learning, computer vision, databases and software engineering.
 - Group capstone: Collabwisely, a multiplayer AI workspace.
 
-## Tech Stack
+<img src="assets/sections/stack.svg" width="100%" alt="Tech Stack">
 
 <div align="center">
 
@@ -129,7 +129,7 @@ Architected the agent-based backend, where AI agents orchestrate workflows and t
 
 </div>
 
-## Certifications
+<img src="assets/sections/certifications.svg" width="100%" alt="Certifications">
 
 <div align="center">
 
@@ -163,7 +163,7 @@ Architected the agent-based backend, where AI agents orchestrate workflows and t
 
 </details>
 
-## GitHub Activity
+<img src="assets/sections/activity.svg" width="100%" alt="GitHub Activity">
 
 <div align="center">
 
