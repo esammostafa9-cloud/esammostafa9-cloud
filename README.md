@@ -25,7 +25,7 @@ I am in my third year of a Bachelor of Computer Science, specialising in Artific
 
 ## Featured Projects
 
-| Project | What it is<br><img src="assets/spacer-wide.svg" width="100%" height="1" alt=""> | Stack |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="assets/table/th-project-dark.svg"><img src="assets/table/th-project-light.svg" height="26" alt="Project"></picture><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/table/th-what-it-is-dark.svg"><img src="assets/table/th-what-it-is-light.svg" height="26" alt="What it is"></picture><br><img src="assets/spacer-wide.svg" width="100%" height="1" alt=""> | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/table/th-stack-dark.svg"><img src="assets/table/th-stack-light.svg" height="26" alt="Stack"></picture><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | --- | --- | --- |
 | **Nabily** *(co-founder, private)* | Agentic platform that checks whether student deals and discounts are still valid in real time. AI agents run the workflows and third-party API integrations behind a TypeScript web app. | TypeScript, Python, LangGraph, Neon PostgreSQL |
 | **Collabwisely** *(group capstone, private)* | Multiplayer AI workspace where a team and its AI agents plan, build and review together, with a verifiable record of who did what. In active development. | Next.js, FastAPI, LangGraph, PostgreSQL |
@@ -50,7 +50,7 @@ Architected the agent-based backend, where AI agents orchestrate workflows and t
 <div align="center">
 
 <table>
-<tr><th align="left">Domain<br><img src="assets/spacer.svg" width="200" height="1" alt=""></th><th align="left">Technologies<br><img src="assets/spacer-wide.svg" width="100%" height="1" alt=""></th></tr>
+<tr><th align="left"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/table/th-domain-dark.svg"><img src="assets/table/th-domain-light.svg" height="26" alt="Domain"></picture><br><img src="assets/spacer.svg" width="200" height="1" alt=""></th><th align="left"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/table/th-technologies-dark.svg"><img src="assets/table/th-technologies-light.svg" height="26" alt="Technologies"></picture><br><img src="assets/spacer-wide.svg" width="100%" height="1" alt=""></th></tr>
 <tr><td><b>Languages</b><br><sub>Core programming</sub></td><td>
 <a href="https://www.python.org"><img src="https://skillicons.dev/icons?theme=dark&i=py" width="48" height="48" title="Python" alt="Python"></a>
 <a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?theme=dark&i=ts" width="48" height="48" title="TypeScript" alt="TypeScript"></a>
@@ -146,7 +146,7 @@ Architected the agent-based backend, where AI agents orchestrate workflows and t
 <details open>
 <summary><b>All certifications (13)</b></summary>
 
-| Certification<br><img src="assets/spacer-wide.svg" width="100%" height="1" alt=""> | Provider | Status |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="assets/table/th-certification-dark.svg"><img src="assets/table/th-certification-light.svg" height="26" alt="Certification"></picture><br><img src="assets/spacer-wide.svg" width="100%" height="1" alt=""> | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/table/th-provider-dark.svg"><img src="assets/table/th-provider-light.svg" height="26" alt="Provider"></picture><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/table/th-status-dark.svg"><img src="assets/table/th-status-light.svg" height="26" alt="Status"></picture><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | --- | --- | --- |
 | AI Engineering Professional Certificate, incl. Generative AI Applications Specialist | IBM | Earned |
 | AWS Certified AI Practitioner | AWS | Earned |
