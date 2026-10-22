@@ -8,6 +8,8 @@
 
 <a href="https://www.linkedin.com/in/esam-alareqi9027b230a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==" alt="LinkedIn"></a>&nbsp;
 <a href="mailto:esammostafa9@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;
+<a href="https://www.kaggle.com/esamalareqi"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>&nbsp;
+<a href="https://www.credly.com/users/esam-mustafa-ali-abduljalil-al-areqi"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"></a>&nbsp;
 <a href="https://github.com/esammostafa9-cloud?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"></a>
 
 </div>
@@ -22,66 +24,15 @@ Third-year AI & Data Science student at Taylor's University and co-founder of Na
 
 ## Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Nabily
-<sub>Co-founder · Private · Sep 2026 – present</sub>
-
-Agentic platform that checks in real time whether student deals and discounts are still valid. AI agents run the workflows and third-party API integrations behind a TypeScript web app.
-
-`TypeScript` `Python` `LangGraph` `Neon PostgreSQL`
-
-<!-- TODO: link the website or a write-up -->
-
-</td>
-<td width="50%" valign="top">
-
-### Sentinel RAG
-<sub>Personal · Deployment to Render in progress</sub>
-
-Natural-language Q&A over multiple PDFs with Llama 3.3 70B on Groq. Local BGE embeddings and a persistent ChromaDB store behind a FastAPI backend and a custom frontend.
-
-`Python` `LangChain` `Groq` `ChromaDB` `FastAPI`
-
-<!-- TODO: link the repository and live demo -->
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### The Council
-<sub>Google × Kaggle AI Agents capstone · Team of 4</sub>
-
-Recruits an expert panel, runs a structured debate, fact-checks claims through MCP and synthesizes a verdict.
-
-`Python` `Google ADK` `Gemini` `MCP` `FastAPI`
-
-[Repository →](https://github.com/6rzan/The-Council)
-
-</td>
-<td width="50%" valign="top">
-
-### Collabwisely
-<sub>Group capstone · Private · In active development</sub>
-
-Multiplayer AI workspace where a team and its AI agents plan, build and review together, with a verifiable record of who did what.
-
-`Next.js` `FastAPI` `LangGraph` `PostgreSQL`
-
-<!-- TODO: link a demo video or write-up -->
-
-</td>
-</tr>
-</table>
-
-**More projects**
-
-- **[Satellite Image Classification](https://github.com/esammostafa9-cloud/resisc45-scene-classification)**: fine-tuned ResNet-50 on the 45 land-use classes of NWPU-RESISC45, **94.41%** test accuracy.
-- **FloraVision**: ResNet-50 transfer learning on about 3,670 images across 5 flower classes, **92%** test accuracy, deployed as a public Gradio app on Hugging Face Spaces. <!-- TODO: link the Hugging Face Space -->
-- **Hotel Booking Cancellation Predictor**: 119,390 booking records cleaned of 5 leakage features, duplicates and 747 invalid entries; Random Forest at **ROC-AUC 0.883**, with recall raised from 0.56 to **0.74** by threshold tuning.
+| Project | What it is | Stack |
+| --- | --- | --- |
+| **Nabily** *(co-founder, private)* | Agentic platform that checks whether student deals and discounts are still valid in real time. AI agents run the workflows and third-party API integrations behind a TypeScript web app. | TypeScript, Python, LangGraph, Neon PostgreSQL |
+| **Collabwisely** *(group capstone, private)* | Multiplayer AI workspace where a team and its AI agents plan, build and review together, with a verifiable record of who did what. In active development. | Next.js, FastAPI, LangGraph, PostgreSQL |
+| **Sentinel RAG** | Natural-language Q&A over multiple PDFs, powered by Llama 3.3 70B through the Groq API. Local BGE embeddings and a persistent ChromaDB store behind a FastAPI backend and a custom frontend. Deployment to Render in progress. | Python, LangChain, Groq, ChromaDB, FastAPI |
+| [The Council](https://github.com/6rzan/The-Council) *(team of 4)* | Google and Kaggle AI Agents capstone. Recruits an expert panel, runs a structured debate, fact-checks claims through MCP and synthesizes a verdict. | Python, Google ADK, Gemini, MCP, FastAPI |
+| **Hotel Booking Cancellation Predictor** | Predicts cancellations at booking time from 119,390 records, after removing 5 leakage features, duplicates and 747 invalid entries. Random Forest reached ROC-AUC 0.883; threshold tuning raised recall from 0.56 to 0.74. | Python, scikit-learn, Pandas |
+| **FloraVision** *(private)* | ResNet-50 transfer learning on about 3,670 images across 5 flower classes, trained in two phases to 92% test accuracy. Deployed as a public Gradio app on Hugging Face Spaces. | TensorFlow, Keras, Gradio |
+| [Satellite Image Classification](https://github.com/esammostafa9-cloud/resisc45-scene-classification) | Fine-tuned ResNet-50 that sorts satellite images into the 45 land-use classes of NWPU-RESISC45, at 94.41% test accuracy. | Python, TensorFlow, Keras |
 
 ## Experience & Education
 
@@ -118,7 +69,7 @@ Architected the agent-based backend, where AI agents orchestrate workflows and t
 <img src="https://img.shields.io/badge/GitHub-Foundations-2DA44E?style=for-the-badge&labelColor=181717&logo=github&logoColor=white" alt="GitHub Foundations">
 <img src="https://img.shields.io/badge/Google-AI%20Essentials-4285F4?style=for-the-badge&labelColor=1A73E8&logo=google&logoColor=white" alt="Google AI Essentials">
 
-<!-- TODO: wrap each badge in a link to its Credly verification page -->
+<a href="https://www.credly.com/users/esam-mustafa-ali-abduljalil-al-areqi">View all verified badges on Credly →</a>
 
 </div>
 
