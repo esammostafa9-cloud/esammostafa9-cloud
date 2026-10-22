@@ -4,20 +4,13 @@
 
 </div>
 
-<img src="assets/portrait-dark.svg#gh-dark-mode-only" align="left" width="320" alt="ASCII art portrait of Esam Alareqi">
-<img src="assets/portrait-light.svg#gh-light-mode-only" align="left" width="320" alt="ASCII art portrait of Esam Alareqi">
-
+<!-- The portrait floats left. The card beside it is sliced so its buttons can be links: the pieces stack with
+     align="top" (no line gaps) and must stay on these lines with no spaces. -->
 <div align="center">
-
-<br>
-
-<img src="assets/info-card-dark.svg#gh-dark-mode-only" width="460" alt="Focus: AI Engineering, Agentic AI and Automation, RAG, Model Evaluation and Policies. Open to work and industrial training. Taylor's University, third-year BCS.">
-<img src="assets/info-card-light.svg#gh-light-mode-only" width="460" alt="Focus: AI Engineering, Agentic AI and Automation, RAG, Model Evaluation and Policies. Open to work and industrial training. Taylor's University, third-year BCS.">
-
-<br>
-
-<a href="https://www.linkedin.com/in/esam-alareqi9027b230a"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/link-linkedin-dark.svg"><img src="assets/badges/link-linkedin-light.svg" width="92" alt="LinkedIn"></picture></a><a href="mailto:esammostafa9@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/link-gmail-dark.svg"><img src="assets/badges/link-gmail-light.svg" width="92" alt="Email"></picture></a><a href="https://www.kaggle.com/esamalareqi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/link-kaggle-dark.svg"><img src="assets/badges/link-kaggle-light.svg" width="92" alt="Kaggle"></picture></a><a href="https://www.credly.com/users/esam-mustafa-ali-abduljalil-al-areqi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/link-credly-dark.svg"><img src="assets/badges/link-credly-light.svg" width="92" alt="Credly"></picture></a><a href="https://github.com/esammostafa9-cloud?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/link-github-dark.svg"><img src="assets/badges/link-github-light.svg" width="92" alt="GitHub repositories"></picture></a>
-
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/portrait-dark.svg"><img src="assets/portrait-light.svg" width="384" align="left" alt="ASCII art portrait of Esam Alareqi"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/intro/card-top-dark.svg"><img src="assets/intro/card-top-light.svg" width="384" align="top" alt="Focus: AI Engineering, RAG, Agentic AI and Automation, Model Evaluation and Policies. Open to work and industrial training. Taylor's University, third-year BCS."></picture><br>
+<a href="https://www.linkedin.com/in/esam-alareqi9027b230a"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/intro/link-linkedin-dark.svg"><img src="assets/intro/link-linkedin-light.svg" width="84" align="top" alt="LinkedIn"></picture></a><a href="mailto:esammostafa9@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/intro/link-gmail-dark.svg"><img src="assets/intro/link-gmail-light.svg" width="72" align="top" alt="Email"></picture></a><a href="https://www.kaggle.com/esamalareqi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/intro/link-kaggle-dark.svg"><img src="assets/intro/link-kaggle-light.svg" width="72" align="top" alt="Kaggle"></picture></a><a href="https://www.credly.com/users/esam-mustafa-ali-abduljalil-al-areqi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/intro/link-credly-dark.svg"><img src="assets/intro/link-credly-light.svg" width="72" align="top" alt="Credly"></picture></a><a href="https://github.com/esammostafa9-cloud?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/intro/link-github-dark.svg"><img src="assets/intro/link-github-light.svg" width="84" align="top" alt="GitHub repositories"></picture></a><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/intro/card-bottom-dark.svg"><img src="assets/intro/card-bottom-light.svg" width="384" align="top" alt=""></picture>
 </div>
 
 <br clear="left">
