@@ -73,7 +73,7 @@ Architected the agent-based backend, where AI agents orchestrate workflows and t
 
 </div>
 
-<details>
+<details open>
 <summary><b>All certifications (13)</b></summary>
 
 | Certification | Provider | Status |
