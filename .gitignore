@@ -28,3 +28,7 @@ __pycache__/
 *.pyc
 .venv/
 venv/
+
+# Local Obsidian vaults
+Git profile repo/
+github repo/
