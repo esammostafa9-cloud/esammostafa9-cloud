@@ -27,15 +27,16 @@ I am in my third year of a Bachelor of Computer Science, specialising in Artific
 
 ## Featured Projects
 
-| <img src="assets/table/th-project.svg" width="100%" height="32" alt="Project"> | <img src="assets/table/th-what-it-is.svg" width="100%" height="32" alt="What it is"> | <img src="assets/table/th-stack.svg" width="100%" height="32" alt="Stack"> |
-| --- | --- | --- |
-| **Nabily** *(co-founder, private)* | Agentic platform that checks whether student deals and discounts are still valid in real time. AI agents run the workflows and third-party API integrations behind a TypeScript web app. | TypeScript, Python, LangGraph, Neon PostgreSQL |
-| **Collabwisely** *(group capstone, private)* | Multiplayer AI workspace where a team and its AI agents plan, build and review together, with a verifiable record of who did what. In active development. | Next.js, FastAPI, LangGraph, PostgreSQL |
-| **Sentinel RAG** | Natural-language Q&A over multiple PDFs, powered by Llama 3.3 70B through the Groq API. Local BGE embeddings and a persistent ChromaDB store behind a FastAPI backend and a custom frontend. Deployment to Render in progress. | Python, LangChain, Groq, ChromaDB, FastAPI |
-| [The Council](https://github.com/6rzan/The-Council) *(team of 4)* | Google and Kaggle AI Agents capstone. Recruits an expert panel, runs a structured debate, fact-checks claims through MCP and synthesizes a verdict. | Python, Google ADK, Gemini, MCP, FastAPI |
-| **Hotel Booking Cancellation Predictor** | Predicts cancellations at booking time from 119,390 records, after removing 5 leakage features, duplicates and 747 invalid entries. Random Forest reached ROC-AUC 0.883; threshold tuning raised recall from 0.56 to 0.74. | Python, scikit-learn, Pandas |
-| **FloraVision** *(private)* | ResNet-50 transfer learning on about 3,670 images across 5 flower classes, trained in two phases to 92% test accuracy. Deployed as a public Gradio app on Hugging Face Spaces. | TensorFlow, Keras, Gradio |
-| [Satellite Image Classification](https://github.com/esammostafa9-cloud/resisc45-scene-classification) | Fine-tuned ResNet-50 that sorts satellite images into the 45 land-use classes of NWPU-RESISC45, at 94.41% test accuracy. | Python, TensorFlow, Keras |
+<table>
+<tr><th width="18%"><img src="assets/table/th-project.svg" width="100%" height="32" alt="Project"></th><th width="62%"><img src="assets/table/th-what-it-is.svg" width="100%" height="32" alt="What it is"></th><th width="20%"><img src="assets/table/th-stack.svg" width="100%" height="32" alt="Stack"></th></tr>
+<tr><td><b>Nabily</b> <i>(co-founder, private)</i></td><td>Agentic platform that checks whether student deals and discounts are still valid in real time. AI agents run the workflows and third-party API integrations behind a TypeScript web app.</td><td>TypeScript, Python, LangGraph, Neon PostgreSQL</td></tr>
+<tr><td><b>Collabwisely</b> <i>(group capstone, private)</i></td><td>Multiplayer AI workspace where a team and its AI agents plan, build and review together, with a verifiable record of who did what. In active development.</td><td>Next.js, FastAPI, LangGraph, PostgreSQL</td></tr>
+<tr><td><b>Sentinel RAG</b></td><td>Natural-language Q&amp;A over multiple PDFs, powered by Llama 3.3 70B through the Groq API. Local BGE embeddings and a persistent ChromaDB store behind a FastAPI backend and a custom frontend. Deployment to Render in progress.</td><td>Python, LangChain, Groq, ChromaDB, FastAPI</td></tr>
+<tr><td><a href="https://github.com/6rzan/The-Council">The Council</a> <i>(team of 4)</i></td><td>Google and Kaggle AI Agents capstone. Recruits an expert panel, runs a structured debate, fact-checks claims through MCP and synthesizes a verdict.</td><td>Python, Google ADK, Gemini, MCP, FastAPI</td></tr>
+<tr><td><b>Hotel Booking Cancellation Predictor</b></td><td>Predicts cancellations at booking time from 119,390 records, after removing 5 leakage features, duplicates and 747 invalid entries. Random Forest reached ROC-AUC 0.883; threshold tuning raised recall from 0.56 to 0.74.</td><td>Python, scikit-learn, Pandas</td></tr>
+<tr><td><b>FloraVision</b> <i>(private)</i></td><td>ResNet-50 transfer learning on about 3,670 images across 5 flower classes, trained in two phases to 92% test accuracy. Deployed as a public Gradio app on Hugging Face Spaces.</td><td>TensorFlow, Keras, Gradio</td></tr>
+<tr><td><a href="https://github.com/esammostafa9-cloud/resisc45-scene-classification">Satellite Image Classification</a></td><td>Fine-tuned ResNet-50 that sorts satellite images into the 45 land-use classes of NWPU-RESISC45, at 94.41% test accuracy.</td><td>Python, TensorFlow, Keras</td></tr>
+</table>
 
 ## Experience & Education
 
@@ -52,7 +53,7 @@ Architected the agent-based backend, where AI agents orchestrate workflows and t
 <div align="center">
 
 <table>
-<tr><th><img src="assets/table/th-domain.svg" width="100%" height="32" alt="Domain"></th><th><img src="assets/table/th-technologies.svg" width="100%" height="32" alt="Technologies"></th></tr>
+<tr><th width="19%"><img src="assets/table/th-domain.svg" width="100%" height="32" alt="Domain"></th><th width="81%"><img src="assets/table/th-technologies.svg" width="100%" height="32" alt="Technologies"></th></tr>
 <tr><td><b>Languages</b><br><sub>Core programming</sub></td><td>
 <a href="https://www.python.org"><img src="https://skillicons.dev/icons?theme=dark&i=py" width="48" height="48" title="Python" alt="Python"></a>
 <a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?theme=dark&i=ts" width="48" height="48" title="TypeScript" alt="TypeScript"></a>
@@ -148,21 +149,22 @@ Architected the agent-based backend, where AI agents orchestrate workflows and t
 <details open>
 <summary><b>All certifications (13)</b></summary>
 
-| <img src="assets/table/th-certification.svg" width="100%" height="32" alt="Certification"> | <img src="assets/table/th-provider.svg" width="100%" height="32" alt="Provider"> | <img src="assets/table/th-status.svg" width="100%" height="32" alt="Status"> |
-| --- | --- | --- |
-| AI Engineering Professional Certificate, incl. Generative AI Applications Specialist | IBM | Earned |
-| AWS Certified AI Practitioner | AWS | Earned |
-| GitHub Foundations | GitHub | Earned |
-| Oracle Certified Foundations Associate | Oracle | Earned |
-| Google AI Essentials Specialization | Google | Earned |
-| Generative AI Applications | AWS | Earned |
-| Java Foundations | Oracle Academy | Earned |
-| Networking Devices and Initial Configuration | Cisco | Earned |
-| SQL and Relational Databases | Online course | Earned |
-| Memory for AI Applications, badge | MongoDB | Earned |
-| Azure AI App and Agent Developer Associate (AI-103) | Microsoft | In progress |
-| AWS Certified Cloud Practitioner | AWS | In progress |
-| AWS Certified Machine Learning Engineer, Associate | AWS | In progress |
+<table>
+<tr><th width="68%"><img src="assets/table/th-certification.svg" width="100%" height="32" alt="Certification"></th><th width="16%"><img src="assets/table/th-provider.svg" width="100%" height="32" alt="Provider"></th><th width="16%"><img src="assets/table/th-status.svg" width="100%" height="32" alt="Status"></th></tr>
+<tr><td>AI Engineering Professional Certificate, incl. Generative AI Applications Specialist</td><td>IBM</td><td>Earned</td></tr>
+<tr><td>AWS Certified AI Practitioner</td><td>AWS</td><td>Earned</td></tr>
+<tr><td>GitHub Foundations</td><td>GitHub</td><td>Earned</td></tr>
+<tr><td>Oracle Certified Foundations Associate</td><td>Oracle</td><td>Earned</td></tr>
+<tr><td>Google AI Essentials Specialization</td><td>Google</td><td>Earned</td></tr>
+<tr><td>Generative AI Applications</td><td>AWS</td><td>Earned</td></tr>
+<tr><td>Java Foundations</td><td>Oracle Academy</td><td>Earned</td></tr>
+<tr><td>Networking Devices and Initial Configuration</td><td>Cisco</td><td>Earned</td></tr>
+<tr><td>SQL and Relational Databases</td><td>Online course</td><td>Earned</td></tr>
+<tr><td>Memory for AI Applications, badge</td><td>MongoDB</td><td>Earned</td></tr>
+<tr><td>Azure AI App and Agent Developer Associate (AI-103)</td><td>Microsoft</td><td>In progress</td></tr>
+<tr><td>AWS Certified Cloud Practitioner</td><td>AWS</td><td>In progress</td></tr>
+<tr><td>AWS Certified Machine Learning Engineer, Associate</td><td>AWS</td><td>In progress</td></tr>
+</table>
 
 </details>
 
