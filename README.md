@@ -14,11 +14,6 @@
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/esam-alareqi9027b230a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==" alt="LinkedIn"></a>
-<a href="mailto:esammostafa9@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-
-<br><br>
-
 <img src="https://komarev.com/ghpvc/?username=esammostafa9-cloud&color=10B981&style=flat-square&label=Profile+Views" alt="Profile views">
 <a href="https://github.com/esammostafa9-cloud?tab=followers"><img src="https://img.shields.io/github/followers/esammostafa9-cloud?style=flat-square&color=14B8A6&labelColor=0A1410&label=Followers" alt="GitHub followers"></a>
 <a href="https://github.com/esammostafa9-cloud"><img src="https://img.shields.io/github/stars/esammostafa9-cloud?style=flat-square&color=F59E0B&labelColor=0A1410&label=Stars" alt="GitHub stars"></a>
@@ -41,6 +36,14 @@
 A dedicated and passionate agentic AI developer building production-level AI systems. I design multi-agent workflows and retrieval-augmented generation (RAG) applications, with a strong focus on model evaluation: measuring how models behave, judging the quality of their outputs, and setting the policies that keep them reliable in production.
 
 **Open to work**, and currently looking for industrial training and hands-on industry experience.
+
+**Experience highlights**
+
+- **Co-founder, Nabily:** architected the agent-based backend of an agentic platform that verifies student deals in real time (TypeScript, Neon PostgreSQL, AI agents)
+- **Capstone, Collabwisely:** building a multiplayer AI workspace where a team and its AI agents collaborate
+- **Google and Kaggle AI Agents capstone, The Council:** built a multi-agent deliberation system in a team of four
+- **Sentinel RAG:** document Q&A over multiple PDFs with LangChain, Groq (Llama 3.3 70B), ChromaDB and FastAPI
+- **FloraVision:** deployed a ResNet-50 flower classifier as a public Gradio app on Hugging Face Spaces
 
 <img src="assets/divider.svg" width="100%" alt="">
 
@@ -219,22 +222,6 @@ In plain terms: the model looks at a satellite photo and says whether it shows a
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-## Experience
-
-**Student, Taylor's University**, Kuala Lumpur, Malaysia
-
-Third-year Computer Science (AI & Data Science) undergraduate, building AI products alongside my degree.
-
-- Co-founded Nabily and architected its agent-based backend (TypeScript, Neon PostgreSQL, AI agents)
-- Building Collabwisely, a multiplayer AI workspace, as our group capstone
-- Collaborated in a four-person team on the Google and Kaggle AI Agents capstone (The Council)
-- Built a RAG document Q&A app with LangChain, Groq and ChromaDB behind a FastAPI backend
-- Deployed a ResNet-50 flower classifier as a public Gradio app on Hugging Face Spaces
-
-<img src="https://img.shields.io/badge/Python-10B981?style=flat-square&logo=python&logoColor=white&labelColor=0A1410" alt="Python"> <img src="https://img.shields.io/badge/TypeScript-14B8A6?style=flat-square&logo=typescript&logoColor=white&labelColor=0A1410" alt="TypeScript"> <img src="https://img.shields.io/badge/LangGraph-0F766E?style=flat-square&labelColor=0A1410" alt="LangGraph"> <img src="https://img.shields.io/badge/FastAPI-F59E0B?style=flat-square&logo=fastapi&logoColor=white&labelColor=0A1410" alt="FastAPI">
-
-<img src="assets/divider.svg" width="100%" alt="">
-
 ## Certifications
 
 **Completed**
@@ -261,52 +248,6 @@ Third-year Computer Science (AI & Data Science) undergraduate, building AI produ
 | AWS Certified Machine Learning Engineer, Associate | <img src="https://img.shields.io/badge/AWS-In%20Progress-FBBF24?style=flat-square&labelColor=0A1410" alt="AWS, in progress"> |
 
 </div>
-
-<img src="assets/divider.svg" width="100%" alt="">
-
-## Coding Profiles
-
-<div align="center">
-
-<a href="https://github.com/esammostafa9-cloud"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"></a>
-<a href="https://github.com/esammostafa9-cloud?tab=repositories"><img src="https://img.shields.io/badge/All%20Repositories-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=0A1410" alt="All repositories"></a>
-
-</div>
-
-<img src="assets/divider.svg" width="100%" alt="">
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/esammostafa9-cloud/esammostafa9-cloud/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation">
-
-</div>
-
-<img src="assets/divider.svg" width="100%" alt="">
-
-## Current Focus
-
-```yaml
-building:
-  - Nabily, an agentic student deal platform
-  - Collabwisely, a multiplayer AI workspace
-  - Sentinel RAG deployment on Render
-
-certifying:
-  - Microsoft Azure AI App and Agent Developer Associate (AI-103)
-  - AWS Certified Cloud Practitioner
-  - AWS Certified Machine Learning Engineer, Associate
-
-exploring:
-  - Multi-agent systems and MCP
-  - MLOps and production AI deployment
-
-open_to:
-  - AI / ML / Computer Vision internships
-  - Project collaboration
-  - Open-source contribution
-```
 
 <img src="assets/divider.svg" width="100%" alt="">
 
