@@ -169,11 +169,8 @@ Architected the agent-based backend, where AI agents orchestrate workflows and t
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=esammostafa9-cloud&theme=tokyonight" width="100%" alt="GitHub profile summary: contributions, public repositories and contribution graph for the last year">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/esammostafa9-cloud/esammostafa9-cloud/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/esammostafa9-cloud/esammostafa9-cloud/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/esammostafa9-cloud/esammostafa9-cloud/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake eating the contribution graph">
-</picture>
+<img src="https://raw.githubusercontent.com/esammostafa9-cloud/esammostafa9-cloud/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="100%" alt="Snake eating the contribution graph">
+<img src="https://raw.githubusercontent.com/esammostafa9-cloud/esammostafa9-cloud/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="100%" alt="Snake eating the contribution graph">
 
 </div>
 
