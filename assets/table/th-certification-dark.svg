@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="141" height="26" viewBox="0 0 141 26" role="img" aria-label="Certification">
-<defs>
-<linearGradient id="b" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0F2A21"/><stop offset="1" stop-color="#0A1A14"/></linearGradient>
-<linearGradient id="e" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0F766E"/><stop offset="0.5" stop-color="#10B981"/><stop offset="1" stop-color="#0F766E"/></linearGradient>
-</defs>
-<rect x="0.75" y="0.75" width="139.5" height="24.5" rx="6" fill="url(#b)" stroke="url(#e)" stroke-width="1.2"/>
-<rect x="8" y="8" width="3" height="10" rx="1.5" fill="#F59E0B"/>
-<text x="19" y="17.5" textLength="106.6" lengthAdjust="spacingAndGlyphs" font-family="Consolas, 'DejaVu Sans Mono', 'Courier New', monospace" font-size="13" font-weight="700" fill="#6EE7B7">Certification</text>
-</svg>

@@ -4,13 +4,15 @@
 
 </div>
 
-<!-- The portrait floats left. The card beside it is sliced so its buttons can be links: the pieces stack with
-     align="top" (no line gaps) and must stay on these lines with no spaces. -->
-<div align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/portrait-dark.svg"><img src="assets/portrait-light.svg" width="384" align="left" alt="ASCII art portrait of Esam Alareqi"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/intro/card-top-dark.svg"><img src="assets/intro/card-top-light.svg" width="384" align="top" alt="Focus: AI Engineering, RAG, Agentic AI and Automation, Model Evaluation and Policies. Open to work and industrial training. Taylor's University, third-year BCS."></picture><br>
-<a href="https://www.linkedin.com/in/esam-alareqi9027b230a"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/intro/link-linkedin-dark.svg"><img src="assets/intro/link-linkedin-light.svg" width="84" align="top" alt="LinkedIn"></picture></a><a href="mailto:esammostafa9@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/intro/link-gmail-dark.svg"><img src="assets/intro/link-gmail-light.svg" width="72" align="top" alt="Email"></picture></a><a href="https://www.kaggle.com/esamalareqi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/intro/link-kaggle-dark.svg"><img src="assets/intro/link-kaggle-light.svg" width="72" align="top" alt="Kaggle"></picture></a><a href="https://www.credly.com/users/esam-mustafa-ali-abduljalil-al-areqi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/intro/link-credly-dark.svg"><img src="assets/intro/link-credly-light.svg" width="72" align="top" alt="Credly"></picture></a><a href="https://github.com/esammostafa9-cloud?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/intro/link-github-dark.svg"><img src="assets/intro/link-github-light.svg" width="84" align="top" alt="GitHub repositories"></picture></a><br>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/intro/card-bottom-dark.svg"><img src="assets/intro/card-bottom-light.svg" width="384" align="top" alt=""></picture>
+<!-- The portrait floats left; the card is right-aligned beside it. Both are 48%
+     wide so their frames line up with the header's at any width. The card is
+     sliced so its buttons can be links: the pieces stack with align="top" (no
+     line gaps) and must stay on these lines with no spaces. -->
+<div align="right">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/portrait-dark.svg"><img src="assets/portrait-light.svg" width="48%" align="left" alt="ASCII art portrait of Esam Alareqi"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/intro/card-top-dark.svg"><img src="assets/intro/card-top-light.svg" width="48%" align="top" alt="Focus: AI Engineering, RAG, Agentic AI and Automation, Model Evaluation and Policies. Open to work and industrial training. Taylor's University, third-year BCS."></picture><br>
+<a href="https://www.linkedin.com/in/esam-alareqi9027b230a"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/intro/link-linkedin-dark.svg"><img src="assets/intro/link-linkedin-light.svg" width="10.7485%" align="top" alt="LinkedIn"></picture></a><a href="mailto:esammostafa9@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/intro/link-gmail-dark.svg"><img src="assets/intro/link-gmail-light.svg" width="8.8344%" align="top" alt="Email"></picture></a><a href="https://www.kaggle.com/esamalareqi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/intro/link-kaggle-dark.svg"><img src="assets/intro/link-kaggle-light.svg" width="8.8344%" align="top" alt="Kaggle"></picture></a><a href="https://www.credly.com/users/esam-mustafa-ali-abduljalil-al-areqi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/intro/link-credly-dark.svg"><img src="assets/intro/link-credly-light.svg" width="8.8344%" align="top" alt="Credly"></picture></a><a href="https://github.com/esammostafa9-cloud?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/intro/link-github-dark.svg"><img src="assets/intro/link-github-light.svg" width="10.7485%" align="top" alt="GitHub repositories"></picture></a><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/intro/card-bottom-dark.svg"><img src="assets/intro/card-bottom-light.svg" width="48%" align="top" alt=""></picture>
 </div>
 
 <br clear="left">
@@ -25,7 +27,7 @@ I am in my third year of a Bachelor of Computer Science, specialising in Artific
 
 ## Featured Projects
 
-| <picture><source media="(prefers-color-scheme: dark)" srcset="assets/table/th-project-dark.svg"><img src="assets/table/th-project-light.svg" height="26" alt="Project"></picture><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/table/th-what-it-is-dark.svg"><img src="assets/table/th-what-it-is-light.svg" height="26" alt="What it is"></picture><br><img src="assets/spacer-wide.svg" width="100%" height="1" alt=""> | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/table/th-stack-dark.svg"><img src="assets/table/th-stack-light.svg" height="26" alt="Stack"></picture><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| <img src="assets/table/th-project.svg" width="100%" height="32" alt="Project"> | <img src="assets/table/th-what-it-is.svg" width="100%" height="32" alt="What it is"> | <img src="assets/table/th-stack.svg" width="100%" height="32" alt="Stack"> |
 | --- | --- | --- |
 | **Nabily** *(co-founder, private)* | Agentic platform that checks whether student deals and discounts are still valid in real time. AI agents run the workflows and third-party API integrations behind a TypeScript web app. | TypeScript, Python, LangGraph, Neon PostgreSQL |
 | **Collabwisely** *(group capstone, private)* | Multiplayer AI workspace where a team and its AI agents plan, build and review together, with a verifiable record of who did what. In active development. | Next.js, FastAPI, LangGraph, PostgreSQL |
@@ -50,7 +52,7 @@ Architected the agent-based backend, where AI agents orchestrate workflows and t
 <div align="center">
 
 <table>
-<tr><th align="left"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/table/th-domain-dark.svg"><img src="assets/table/th-domain-light.svg" height="26" alt="Domain"></picture><br><img src="assets/spacer.svg" width="200" height="1" alt=""></th><th align="left"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/table/th-technologies-dark.svg"><img src="assets/table/th-technologies-light.svg" height="26" alt="Technologies"></picture><br><img src="assets/spacer-wide.svg" width="100%" height="1" alt=""></th></tr>
+<tr><th><img src="assets/table/th-domain.svg" width="100%" height="32" alt="Domain"></th><th><img src="assets/table/th-technologies.svg" width="100%" height="32" alt="Technologies"></th></tr>
 <tr><td><b>Languages</b><br><sub>Core programming</sub></td><td>
 <a href="https://www.python.org"><img src="https://skillicons.dev/icons?theme=dark&i=py" width="48" height="48" title="Python" alt="Python"></a>
 <a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?theme=dark&i=ts" width="48" height="48" title="TypeScript" alt="TypeScript"></a>
@@ -146,7 +148,7 @@ Architected the agent-based backend, where AI agents orchestrate workflows and t
 <details open>
 <summary><b>All certifications (13)</b></summary>
 
-| <picture><source media="(prefers-color-scheme: dark)" srcset="assets/table/th-certification-dark.svg"><img src="assets/table/th-certification-light.svg" height="26" alt="Certification"></picture><br><img src="assets/spacer-wide.svg" width="100%" height="1" alt=""> | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/table/th-provider-dark.svg"><img src="assets/table/th-provider-light.svg" height="26" alt="Provider"></picture><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/table/th-status-dark.svg"><img src="assets/table/th-status-light.svg" height="26" alt="Status"></picture><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| <img src="assets/table/th-certification.svg" width="100%" height="32" alt="Certification"> | <img src="assets/table/th-provider.svg" width="100%" height="32" alt="Provider"> | <img src="assets/table/th-status.svg" width="100%" height="32" alt="Status"> |
 | --- | --- | --- |
 | AI Engineering Professional Certificate, incl. Generative AI Applications Specialist | IBM | Earned |
 | AWS Certified AI Practitioner | AWS | Earned |
