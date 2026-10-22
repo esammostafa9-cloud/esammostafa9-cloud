@@ -17,7 +17,7 @@ jobs:
     timeout-minutes: 10
     steps:
       - name: Generate snake animations
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3.5.0
         with:
           github_user_name: esammostafa9-cloud
           outputs: |
@@ -25,7 +25,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#10B981&color_dots=#0D1117,#0F766E,#14B8A6,#10B981,#F59E0B
 
       - name: Publish to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: crazy-max/ghaction-github-pages@df5cc2bfa78282ded844b354faee141f06b41865 # v4.2.0
         with:
           target_branch: output
           build_dir: dist
