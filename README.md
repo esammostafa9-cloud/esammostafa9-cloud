@@ -89,6 +89,14 @@ A dedicated and passionate agentic AI developer building production-level AI sys
 | AWS Certified Cloud Practitioner | AWS | In progress |
 | AWS Certified Machine Learning Engineer, Associate | AWS | In progress |
 
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=esammostafa9-cloud&theme=tokyonight" width="100%" alt="GitHub profile summary: contributions, public repositories and contribution graph for the last year">
+
+</div>
+
 <img src="assets/divider.svg" width="100%" alt="">
 
 <div align="center">
