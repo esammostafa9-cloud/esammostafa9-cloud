@@ -2,25 +2,20 @@
 
 <img src="assets/header.svg" width="100%" alt="Esam Alareqi, AI Engineering, Agentic AI Workflows, Automation Developer">
 
-<img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=22&duration=3200&pause=900&color=10B981&center=true&vCenter=true&width=620&height=48&lines=AI+%26+Data+Science+Undergraduate;Agentic+AI+Workflow+%26+Automation+Developer;Exploring+LLMs%2C+RAG+%26+AI+Agents;Aspiring+AI+Engineer" alt="Typing animation: AI and Data Science undergraduate, agentic AI workflow and automation developer, exploring LLMs, RAG and AI Agents, aspiring AI Engineer">
+<img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=22&duration=3200&pause=900&color=10B981&center=true&vCenter=true&width=620&height=48&lines=AI+%26+Data+Science+Undergraduate;Agentic+AI+Workflow+%26+Automation+Developer;Building+RAG+%26+Multi-Agent+Systems;Aspiring+AI+Engineer" alt="Typing animation: AI and Data Science undergraduate, agentic AI workflow and automation developer, building RAG and multi-agent systems, aspiring AI Engineer">
 
 <br>
 
 <img src="https://img.shields.io/badge/University-Taylor%27s%20University-10B981?style=flat-square&labelColor=0A1410" alt="Taylor's University">
 <img src="https://img.shields.io/badge/Degree-BCS%20(AI%20%26%20Data%20Science)-14B8A6?style=flat-square&labelColor=0A1410" alt="Bachelor of Computer Science (AI and Data Science)">
 <img src="https://img.shields.io/badge/Year-Third--Year%20Undergraduate-0F766E?style=flat-square&labelColor=0A1410" alt="Third-Year Undergraduate">
-<img src="https://img.shields.io/badge/Certifications-4%20Completed-F59E0B?style=flat-square&labelColor=0A1410" alt="4 Certifications Completed">
 <br>
-<img src="https://img.shields.io/badge/Focus-AI%20Engineering%20%C2%B7%20Agentic%20AI%20%C2%B7%20Automation-10B981?style=flat-square&labelColor=0A1410" alt="Focus: AI Engineering, Agentic AI, Automation">
-<img src="https://img.shields.io/badge/Studying-LLMs%20%C2%B7%20RAG%20%C2%B7%20MLOps-FBBF24?style=flat-square&labelColor=0A1410" alt="Studying LLMs, RAG, MLOps">
-<img src="https://img.shields.io/badge/Location-Kuala%20Lumpur%2C%20Malaysia-14B8A6?style=flat-square&labelColor=0A1410" alt="Kuala Lumpur, Malaysia">
+<img src="https://img.shields.io/badge/Focus-AI%20Engineering%20%C2%B7%20Agentic%20AI%20%26%20Automation%20%C2%B7%20RAG%20%C2%B7%20Model%20Evaluation%20%26%20Policies-10B981?style=flat-square&labelColor=0A1410" alt="Focus: AI Engineering, Agentic AI and Automation, RAG, Model Evaluation and Policies">
 
 <br><br>
 
-<a href="https://github.com/esammostafa9-cloud?tab=repositories"><img src="https://img.shields.io/badge/Projects-0A1410?style=for-the-badge&logo=github&logoColor=10B981" alt="Projects"></a>
 <a href="https://www.linkedin.com/in/esam-alareqi9027b230a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==" alt="LinkedIn"></a>
 <a href="mailto:esammostafa9@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://github.com/esammostafa9-cloud"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
 <br><br>
 
@@ -35,7 +30,6 @@
 <a href="#tech-stack"><img src="https://img.shields.io/badge/Tech%20Stack-0F766E?style=for-the-badge&labelColor=0A1410" alt="Tech Stack"></a>
 <a href="#featured-projects"><img src="https://img.shields.io/badge/Projects-F59E0B?style=for-the-badge&labelColor=0A1410" alt="Projects"></a>
 <a href="#certifications"><img src="https://img.shields.io/badge/Certifications-10B981?style=for-the-badge&labelColor=0A1410" alt="Certifications"></a>
-<a href="#github-analytics"><img src="https://img.shields.io/badge/Analytics-14B8A6?style=for-the-badge&labelColor=0A1410" alt="Analytics"></a>
 <a href="#connect"><img src="https://img.shields.io/badge/Connect-0F766E?style=for-the-badge&labelColor=0A1410" alt="Connect"></a>
 
 </div>
@@ -44,24 +38,9 @@
 
 ## About
 
-I am Esam Mustafa Ali Abduljalil Alareqi, a third-year Bachelor of Computer Science (Artificial Intelligence & Data Science) student at Taylor's University in Kuala Lumpur, Malaysia.
+A dedicated and passionate agentic AI developer building production-level AI systems. I design multi-agent workflows and retrieval-augmented generation (RAG) applications, with a strong focus on model evaluation: measuring how models behave, judging the quality of their outputs, and setting the policies that keep them reliable in production.
 
-My goal is to build production-ready AI systems that solve real-world problems in Machine Learning, Computer Vision, and Generative AI, and to contribute to open-source AI projects. I have completed the IBM AI Engineering Professional Certificate, along with courses in generative AI, AI fundamentals, and SQL. I am currently studying Large Language Models, Retrieval-Augmented Generation, LangChain, the Model Context Protocol, AI Agents, and MLOps, and I build agentic AI workflows with tools like Claude Code and Google Antigravity.
-
-The repositories on this profile are university coursework and personal study projects. They document what I am learning: image classification with transfer learning, RAG pipelines with LangChain, IoT system design, and data analysis.
-
-<img src="assets/divider.svg" width="100%" alt="">
-
-## Open To
-
-<div align="center">
-
-<a href="mailto:esammostafa9@gmail.com"><img src="https://img.shields.io/badge/AI%20%2F%20ML%20Engineering%20Internships-10B981?style=for-the-badge&labelColor=0A1410" alt="AI and ML Engineering internships"></a>
-<a href="mailto:esammostafa9@gmail.com"><img src="https://img.shields.io/badge/Computer%20Vision%20Internships-14B8A6?style=for-the-badge&labelColor=0A1410" alt="Computer Vision internships"></a>
-<a href="mailto:esammostafa9@gmail.com"><img src="https://img.shields.io/badge/Project%20Collaboration-F59E0B?style=for-the-badge&labelColor=0A1410" alt="Project collaboration"></a>
-<a href="https://github.com/esammostafa9-cloud?tab=repositories"><img src="https://img.shields.io/badge/Open%20Source%20Contribution-0F766E?style=for-the-badge&labelColor=0A1410" alt="Open source contribution"></a>
-
-</div>
+**Open to work**, and currently looking for industrial training and hands-on industry experience.
 
 <img src="assets/divider.svg" width="100%" alt="">
 
@@ -70,11 +49,10 @@ The repositories on this profile are university coursework and personal study pr
 **Bachelor of Computer Science (Artificial Intelligence & Data Science)**
 Taylor's University, Kuala Lumpur, Malaysia. Third Year.
 
-- Coursework in machine learning, deep learning, computer vision, and natural language processing
-- Data science foundations: data mining, preprocessing, visualization, and statistical analysis
-- Software engineering, database design, data structures and algorithms in Java and Python
-- Systems coursework covering computer networks and operating systems
-- Applied group work, including the CareerConnect academic project
+- Coursework in machine learning, deep learning, and computer vision
+- Data science foundations: data cleaning, preprocessing, and visualisation
+- Software engineering, databases, and programming in Python, Java, SQL, and R
+- Group capstone: Collabwisely, a multiplayer AI workspace
 
 <img src="https://img.shields.io/badge/Machine%20Learning-10B981?style=flat-square&labelColor=0A1410" alt="Machine Learning"> <img src="https://img.shields.io/badge/Deep%20Learning-14B8A6?style=flat-square&labelColor=0A1410" alt="Deep Learning"> <img src="https://img.shields.io/badge/Computer%20Vision-0F766E?style=flat-square&labelColor=0A1410" alt="Computer Vision"> <img src="https://img.shields.io/badge/Data%20Science-F59E0B?style=flat-square&labelColor=0A1410" alt="Data Science"> <img src="https://img.shields.io/badge/NLP-10B981?style=flat-square&labelColor=0A1410" alt="Natural Language Processing"> <img src="https://img.shields.io/badge/Software%20Engineering-14B8A6?style=flat-square&labelColor=0A1410" alt="Software Engineering">
 
@@ -86,26 +64,17 @@ Taylor's University, Kuala Lumpur, Malaysia. Third Year.
 
 | Domain | Technologies |
 |:---|:---|
-| **Languages** | <img src="https://skillicons.dev/icons?i=py,java,mysql,html,css,js&theme=dark" alt="Python, Java, SQL, HTML, CSS, JavaScript"> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=java,py,ts,js,mysql,r,go&theme=dark" alt="Java, Python, TypeScript, JavaScript, SQL, R, Go"> |
 | **AI & Machine Learning** | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,anaconda&theme=dark" alt="TensorFlow, PyTorch, Scikit-learn, OpenCV, Anaconda"> |
-| **Generative AI & Agents** | <img src="https://img.shields.io/badge/LangChain-10B981?style=flat-square&logo=langchain&logoColor=white&labelColor=0A1410" alt="LangChain"> <img src="https://img.shields.io/badge/RAG-14B8A6?style=flat-square&labelColor=0A1410" alt="RAG"> <img src="https://img.shields.io/badge/Claude%20Code-0F766E?style=flat-square&logo=claude&logoColor=white&labelColor=0A1410" alt="Claude Code"> <img src="https://img.shields.io/badge/Google%20Antigravity-10B981?style=flat-square&logo=google&logoColor=white&labelColor=0A1410" alt="Google Antigravity"> <img src="https://img.shields.io/badge/MCP-14B8A6?style=flat-square&labelColor=0A1410" alt="MCP"> <img src="https://img.shields.io/badge/AI%20Agents-F59E0B?style=flat-square&labelColor=0A1410" alt="AI Agents"> <br> <img src="https://img.shields.io/badge/Gemini%20API-0F766E?style=flat-square&logo=googlegemini&logoColor=white&labelColor=0A1410" alt="Gemini API"> <img src="https://img.shields.io/badge/OpenAI%20API-10B981?style=flat-square&logo=openai&logoColor=white&labelColor=0A1410" alt="OpenAI API"> <img src="https://img.shields.io/badge/Hugging%20Face-14B8A6?style=flat-square&logo=huggingface&logoColor=white&labelColor=0A1410" alt="Hugging Face"> <img src="https://img.shields.io/badge/Transformers-0F766E?style=flat-square&labelColor=0A1410" alt="Transformers"> <img src="https://img.shields.io/badge/Keras-10B981?style=flat-square&logo=keras&logoColor=white&labelColor=0A1410" alt="Keras"> |
-| **Data & Analytics** | <img src="https://img.shields.io/badge/Pandas-10B981?style=flat-square&logo=pandas&logoColor=white&labelColor=0A1410" alt="Pandas"> <img src="https://img.shields.io/badge/NumPy-14B8A6?style=flat-square&logo=numpy&logoColor=white&labelColor=0A1410" alt="NumPy"> <img src="https://img.shields.io/badge/Matplotlib-0F766E?style=flat-square&labelColor=0A1410" alt="Matplotlib"> <img src="https://img.shields.io/badge/Tableau-10B981?style=flat-square&labelColor=0A1410" alt="Tableau"> <img src="https://img.shields.io/badge/Power%20BI-14B8A6?style=flat-square&labelColor=0A1410" alt="Power BI"> <img src="https://img.shields.io/badge/Excel-0F766E?style=flat-square&labelColor=0A1410" alt="Excel"> |
-| **Cloud & Deployment** | <img src="https://skillicons.dev/icons?i=aws,azure,git,github,githubactions,vscode&theme=dark" alt="AWS, Microsoft Azure, Git, GitHub, GitHub Actions, VS Code"> <br> <img src="https://img.shields.io/badge/Gradio-10B981?style=flat-square&labelColor=0A1410" alt="Gradio"> <img src="https://img.shields.io/badge/Hugging%20Face%20Spaces-F59E0B?style=flat-square&labelColor=0A1410" alt="Hugging Face Spaces"> |
-
-<br>
-
-**Study Tracks In Progress**
-
-<img src="https://img.shields.io/badge/Advanced%20Deep%20Learning-In%20Progress-FBBF24?style=flat-square&labelColor=0A1410" alt="Advanced Deep Learning in progress">
-<img src="https://img.shields.io/badge/Large%20Language%20Models-In%20Progress-FBBF24?style=flat-square&labelColor=0A1410" alt="Large Language Models in progress">
-<img src="https://img.shields.io/badge/RAG-In%20Progress-FBBF24?style=flat-square&labelColor=0A1410" alt="RAG in progress">
-<br>
-<img src="https://img.shields.io/badge/LangChain-In%20Progress-FBBF24?style=flat-square&labelColor=0A1410" alt="LangChain in progress">
-<img src="https://img.shields.io/badge/MCP-In%20Progress-FBBF24?style=flat-square&labelColor=0A1410" alt="Model Context Protocol in progress">
-<img src="https://img.shields.io/badge/AI%20Agents-In%20Progress-FBBF24?style=flat-square&labelColor=0A1410" alt="AI Agents in progress">
-<img src="https://img.shields.io/badge/MLOps-In%20Progress-FBBF24?style=flat-square&labelColor=0A1410" alt="MLOps in progress">
+| **Generative AI & Agents** | <img src="https://img.shields.io/badge/LangChain-10B981?style=flat-square&logo=langchain&logoColor=white&labelColor=0A1410" alt="LangChain"> <img src="https://img.shields.io/badge/LangGraph-14B8A6?style=flat-square&logo=langgraph&logoColor=white&labelColor=0A1410" alt="LangGraph"> <img src="https://img.shields.io/badge/RAG-0F766E?style=flat-square&labelColor=0A1410" alt="RAG"> <img src="https://img.shields.io/badge/Multi--Agent%20Systems-F59E0B?style=flat-square&labelColor=0A1410" alt="Multi-agent systems"> <br> <img src="https://img.shields.io/badge/Hugging%20Face%20Transformers-10B981?style=flat-square&logo=huggingface&logoColor=white&labelColor=0A1410" alt="Hugging Face Transformers"> <img src="https://img.shields.io/badge/MCP-14B8A6?style=flat-square&logo=modelcontextprotocol&logoColor=white&labelColor=0A1410" alt="MCP"> |
+| **AI Coding Tools** | <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code"> <br> <img src="https://img.shields.io/badge/Claude%20Code-F59E0B?style=flat-square&logo=claude&logoColor=white&labelColor=0A1410" alt="Claude Code"> <img src="https://img.shields.io/badge/Codex-10B981?style=flat-square&labelColor=0A1410" alt="Codex"> <img src="https://img.shields.io/badge/Cursor-14B8A6?style=flat-square&logo=cursor&logoColor=white&labelColor=0A1410" alt="Cursor"> <img src="https://img.shields.io/badge/OpenCode-0F766E?style=flat-square&labelColor=0A1410" alt="OpenCode"> <br> <img src="https://img.shields.io/badge/Google%20Antigravity-10B981?style=flat-square&logo=google&logoColor=white&labelColor=0A1410" alt="Google Antigravity"> <img src="https://img.shields.io/badge/Google%20Colab-F59E0B?style=flat-square&logo=googlecolab&logoColor=white&labelColor=0A1410" alt="Google Colab"> |
+| **Data & Analytics** | <img src="https://img.shields.io/badge/Pandas-10B981?style=flat-square&logo=pandas&logoColor=white&labelColor=0A1410" alt="Pandas"> <img src="https://img.shields.io/badge/NumPy-14B8A6?style=flat-square&logo=numpy&logoColor=white&labelColor=0A1410" alt="NumPy"> <img src="https://img.shields.io/badge/Matplotlib-0F766E?style=flat-square&labelColor=0A1410" alt="Matplotlib"> <br> <img src="https://img.shields.io/badge/Tableau-10B981?style=flat-square&labelColor=0A1410" alt="Tableau"> <img src="https://img.shields.io/badge/Power%20BI-14B8A6?style=flat-square&labelColor=0A1410" alt="Power BI"> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase&theme=dark" alt="PostgreSQL, SQL, Supabase"> <br> <img src="https://img.shields.io/badge/Neon-10B981?style=flat-square&logo=neon&logoColor=white&labelColor=0A1410" alt="Neon"> |
+| **Cloud & Deployment** | <img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,vercel&theme=dark" alt="AWS, Microsoft Azure, Cloudflare, Vercel"> <br> <img src="https://img.shields.io/badge/VPS-F59E0B?style=flat-square&logo=linux&logoColor=white&labelColor=0A1410" alt="VPS"> |
+| **Version Control** | <img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Git, GitHub"> |
 
 </div>
+
 <img src="assets/divider.svg" width="100%" alt="">
 
 ## AI & Data Science Focus
@@ -114,14 +83,13 @@ Taylor's University, Kuala Lumpur, Malaysia. Third Year.
 
 | Domain | Level | Details |
 |:---|:---:|:---|
-| Machine Learning | <img src="https://img.shields.io/badge/Hands--on-10B981?style=flat-square" alt="Hands-on"> | Regression, classification, feature engineering, model evaluation |
-| Deep Learning | <img src="https://img.shields.io/badge/Hands--on-10B981?style=flat-square" alt="Hands-on"> | CNNs, transfer learning with ResNet50, fine-tuning, ANN development |
-| Computer Vision | <img src="https://img.shields.io/badge/Hands--on-10B981?style=flat-square" alt="Hands-on"> | Image classification, preprocessing, confusion matrix analysis |
-| Generative AI & LLMs | <img src="https://img.shields.io/badge/Studying-FBBF24?style=flat-square" alt="Studying"> | LangChain, RAG, and LLM concepts applied in a capstone project |
-| Agentic AI & Automation | <img src="https://img.shields.io/badge/Hands--on-10B981?style=flat-square" alt="Hands-on"> | Agent workflows with Claude Code, Google Antigravity, and MCP |
-| Data Science | <img src="https://img.shields.io/badge/Hands--on-10B981?style=flat-square" alt="Hands-on"> | Pandas, NumPy, data cleaning, visualization with Tableau and Power BI |
-| NLP | <img src="https://img.shields.io/badge/Foundational-14B8A6?style=flat-square" alt="Foundational"> | Coursework project on natural language processing |
-| MLOps & Deployment | <img src="https://img.shields.io/badge/Foundational-14B8A6?style=flat-square" alt="Foundational"> | Gradio demos, Hugging Face Spaces, GitHub Actions |
+| Machine Learning | <img src="https://img.shields.io/badge/Hands--on-10B981?style=flat-square" alt="Hands-on"> | Classification, leakage removal, scikit-learn pipelines, threshold optimisation |
+| Deep Learning | <img src="https://img.shields.io/badge/Hands--on-10B981?style=flat-square" alt="Hands-on"> | CNNs, transfer learning with ResNet-50, two-phase fine-tuning, MLPs |
+| Computer Vision | <img src="https://img.shields.io/badge/Hands--on-10B981?style=flat-square" alt="Hands-on"> | Flower and satellite scene classification, error analysis |
+| Generative AI & LLMs | <img src="https://img.shields.io/badge/Hands--on-10B981?style=flat-square" alt="Hands-on"> | RAG with LangChain, Groq (Llama 3.3 70B), BGE embeddings, ChromaDB |
+| Agentic AI & Multi-Agent Systems | <img src="https://img.shields.io/badge/Hands--on-10B981?style=flat-square" alt="Hands-on"> | LangGraph, Google ADK, MCP, agent-based backends |
+| Data Science | <img src="https://img.shields.io/badge/Hands--on-10B981?style=flat-square" alt="Hands-on"> | Pandas, NumPy, data cleaning and preprocessing, visualisation with Tableau |
+| MLOps & Deployment | <img src="https://img.shields.io/badge/Hands--on-10B981?style=flat-square" alt="Hands-on"> | FastAPI, Gradio on Hugging Face Spaces, Render, GitHub Actions |
 
 </div>
 
@@ -130,122 +98,121 @@ Taylor's University, Kuala Lumpur, Malaysia. Third Year.
 ## Featured Projects
 
 <details>
-<summary><b>Flower Image Classification using ResNet50</b>: Transfer learning with TensorFlow, deployed on Hugging Face Spaces</summary>
+<summary><b>Nabily</b>: AI-powered student deal platform (co-founder) · Sep 2026, in progress</summary>
 <br>
 
-An image classification project that fine-tunes a pretrained ResNet50 model with TensorFlow and Keras to classify flower species. The model was evaluated with a confusion matrix and classification report, wrapped in a Gradio interface, and deployed to Hugging Face Spaces.
+An agentic platform that verifies whether student deals and discounts are still valid in real time. I co-founded the project and architected its agent-based backend, where AI agents orchestrate the workflows and third-party API integrations, supported by a TypeScript web application and a Neon PostgreSQL database.
 
 | Aspect | Detail |
 |:---|:---|
-| Stack | Python, TensorFlow, Keras, ResNet50, Gradio, Hugging Face Spaces |
-| Scale | Academic scope, single-model project on a public flower dataset |
-| Performance | Evaluated with a confusion matrix and classification report |
-| Security | Not applicable · academic scope |
-| Impact | Learning project demonstrating transfer learning and model deployment |
-| Repository | [flower-image-classification-resnet50](https://github.com/esammostafa9-cloud/flower-image-classification-resnet50) |
+| Role | Co-founder, backend and agent architecture |
+| Stack | TypeScript, Python, LangGraph, AI agents, Neon PostgreSQL |
+| Status | Private beta, in active development |
+| Repository | <img src="https://img.shields.io/badge/Private-Public%20release%20planned-F59E0B?style=flat-square&labelColor=0A1410" alt="Private repository, public release planned"> |
 
-In plain terms: I taught an existing image-recognition model to identify flower species, measured how well it did, and put it online so anyone can try it.
+In plain terms: AI agents check whether a student discount is still real before students rely on it.
 
 </details>
 
 <details>
-<summary><b>Satellite Image Classification</b>: CNN and transfer learning on satellite imagery</summary>
+<summary><b>Collabwisely</b>: Multiplayer AI workspace (group capstone) · Oct 2026, in progress</summary>
 <br>
 
-A computer vision project that classifies satellite images using convolutional neural networks and transfer learning. The work covers image preprocessing, model training, and evaluation of the results.
+A multiplayer AI workspace that lets a team and its AI agents collaborate in real time. Built as our university group capstone and currently in active development.
 
 | Aspect | Detail |
 |:---|:---|
-| Stack | Python, CNN, transfer learning, image preprocessing |
-| Scale | Academic scope, coursework dataset |
-| Performance | Evaluated with standard classification metrics |
-| Security | Not applicable · academic scope |
-| Impact | Learning project in remote-sensing image classification |
-| Repository | [satellite-image-classification](https://github.com/esammostafa9-cloud/satellite-image-classification) |
+| Role | Capstone team member |
+| Stack | Next.js, TypeScript, FastAPI, LangGraph, PostgreSQL |
+| Status | In active development |
+| Repository | <img src="https://img.shields.io/badge/Private-Open%20source%20planned-F59E0B?style=flat-square&labelColor=0A1410" alt="Private repository, open source planned"> |
 
-In plain terms: I built a model that looks at satellite pictures and identifies what type of land or scene they show.
+In plain terms: a shared workspace where a team and its AI helpers plan and build together, in the open.
 
 </details>
 
 <details>
-<summary><b>AI Engineering Capstone</b>: LangChain, RAG, and LLM application</summary>
+<summary><b>Sentinel RAG</b>: Document Q&amp;A with retrieval-augmented generation · Oct 2026, present</summary>
 <br>
 
-The capstone project of the IBM AI Engineering track. It applies LangChain and Retrieval-Augmented Generation to build a generative AI application backed by a large language model.
+A retrieval-augmented generation (RAG) application for multi-document PDF ingestion and natural-language querying, powered by Llama 3.3 70B through the Groq API. It uses local BGE embeddings and a persistent ChromaDB vector store, exposed through a FastAPI backend and a custom frontend. Deployment to Render is in progress.
 
 | Aspect | Detail |
 |:---|:---|
-| Stack | Python, LangChain, RAG, large language models, generative AI |
-| Scale | Academic scope, capstone project |
-| Performance | Not applicable · academic scope |
-| Security | Not applicable · academic scope |
-| Impact | Learning project in retrieval-augmented LLM applications |
-| Repository | [ai-engineering-capstone](https://github.com/esammostafa9-cloud/ai-engineering-capstone) |
+| Stack | Python, LangChain, Groq (Llama 3.3 70B), BGE embeddings, ChromaDB, FastAPI, Render |
+| Status | Built; deployment to Render in progress |
+| Repository | <img src="https://img.shields.io/badge/Repository-Coming%20soon-14B8A6?style=flat-square&labelColor=0A1410" alt="Repository coming soon"> |
 
-In plain terms: I built an application that retrieves relevant documents and feeds them to a language model so its answers are grounded in real source material.
+In plain terms: upload your PDFs, ask questions in plain English, and get answers drawn from those documents.
 
 </details>
 
 <details>
-<summary><b>Smart Urban Noise Monitoring System</b>: IoT system design with LoRaWAN for smart cities</summary>
+<summary><b>The Council</b>: Multi-agent deliberation system · 2026</summary>
 <br>
 
-An IoT coursework project that designs a noise monitoring system for urban environments using LoRaWAN connectivity, aimed at smart-city use cases.
+A four-person team project for the Google and Kaggle AI Agents capstone. Agents recruit an expert panel for a question, hold a structured debate, fact-check claims through MCP, and synthesize a verdict.
 
 | Aspect | Detail |
 |:---|:---|
-| Stack | IoT, LoRaWAN, smart-city system design |
-| Scale | Academic scope, system design project |
-| Performance | Not applicable · academic scope |
-| Security | Not applicable · academic scope |
-| Impact | Learning project in IoT architecture for smart cities |
-| Repository | [smart-urban-noise-monitoring](https://github.com/esammostafa9-cloud/smart-urban-noise-monitoring) |
+| Role | One of four team members |
+| Stack | Python, Google ADK, Gemini, MCP, FastAPI |
+| Repository | [6rzan/The-Council](https://github.com/6rzan/The-Council) |
 
-In plain terms: I designed a network of low-power sensors that could measure city noise levels and send readings over long-range radio.
+In plain terms: ask a hard question and a panel of AI experts debates it, checks the facts, and hands you a verdict.
 
 </details>
 
 <details>
-<summary><b>PM2.5 Air Pollution Prediction</b>: Regression modeling with feature engineering</summary>
+<summary><b>Hotel Booking Cancellation Predictor</b>: Booking-time cancellation prediction · Jul 2026</summary>
 <br>
 
-A data science project that predicts PM2.5 air pollution levels using regression models. The work covers data cleaning, feature engineering, and model evaluation.
+A cancellation prediction system built on 119,390 booking records. I removed 5 post-outcome leakage features, duplicates and 747 invalid entries, and wrapped the preprocessing in scikit-learn pipelines. I benchmarked Logistic Regression, a depth-tuned Random Forest and an MLP.
 
 | Aspect | Detail |
 |:---|:---|
-| Stack | Python, regression, feature engineering, data cleaning |
-| Scale | Academic scope, coursework dataset |
-| Performance | Evaluated with standard regression metrics |
-| Security | Not applicable · academic scope |
-| Impact | Learning project in environmental data modeling |
-| Repository | [pm25-air-pollution-prediction](https://github.com/esammostafa9-cloud/pm25-air-pollution-prediction) |
+| Stack | Python, scikit-learn, Pandas |
+| Scale | 119,390 booking records |
+| Results | Random Forest: ROC-AUC 0.883, average precision 0.757; threshold optimisation raised recall from 0.56 to 0.74 |
+| Repository | <img src="https://img.shields.io/badge/Repository-Coming%20soon-14B8A6?style=flat-square&labelColor=0A1410" alt="Repository coming soon"> |
 
-In plain terms: I cleaned real air-quality data and trained models to estimate fine-particle pollution levels from other measurements.
+In plain terms: at the moment a hotel booking is made, the model estimates whether it is likely to be cancelled.
 
 </details>
 
 <details>
-<summary><b>CareerConnect</b>: Academic group project, built with teammates</summary>
+<summary><b>FloraVision</b>: Flower image classifier · Jun to Jul 2026</summary>
 <br>
 
-A group coursework project developed collaboratively with teammates. My contributions were system analysis, UI design, documentation, and software design. Implementation work was shared across the team.
+A ResNet-50 transfer-learning classifier (ImageNet weights, custom classification head) trained with a two-phase strategy on about 3,670 images across 5 flower classes, then deployed as a public Gradio application on Hugging Face Spaces.
 
 | Aspect | Detail |
 |:---|:---|
-| Stack | System analysis, UI design, software design, documentation |
-| Scale | Academic scope, team project |
-| Performance | Not applicable · academic scope |
-| Security | Not applicable · academic scope |
-| Impact | Learning project in collaborative software development |
-| Repository | [careerconnect](https://github.com/esammostafa9-cloud/careerconnect) |
+| Stack | TensorFlow, Keras, ResNet-50, Gradio, Hugging Face Spaces |
+| Scale | About 3,670 images, 5 classes |
+| Results | 92% test accuracy |
+| Repository | <img src="https://img.shields.io/badge/Private-Coursework-F59E0B?style=flat-square&labelColor=0A1410" alt="Private repository"> |
 
-In plain terms: my teammates and I designed a career platform as a class project; I handled the analysis, interface design, and documentation side.
+In plain terms: show it a photo of a flower and it tells you which of five kinds it is.
 
 </details>
 
+<details>
+<summary><b>Satellite Image Classification</b>: Land-cover and scene classification · 2026</summary>
 <br>
 
-**Additional academic work:** climate change data visualization, data mining preprocessing pipeline, NLP project, artificial neural network development, deep learning image recognition, software engineering and database design, Java OOP, data structures and algorithms, computer networks, operating systems, and an AI agents initiative.
+Convolutional neural network and transfer-learning models for land-cover and scene classification of satellite imagery. A fine-tuned ResNet-50 reaches 94.41% accuracy across the 45 scene classes of NWPU-RESISC45.
+
+| Aspect | Detail |
+|:---|:---|
+| Stack | Python, TensorFlow / Keras, CNN, transfer learning (ResNet-50), Gradio |
+| Scale | 31,500 images, 45 classes |
+| Results | 94.41% test accuracy, 0.944 macro F1 |
+| Repository | [resisc45-scene-classification](https://github.com/esammostafa9-cloud/resisc45-scene-classification) |
+
+In plain terms: the model looks at a satellite photo and says whether it shows an airport, a farm, a harbour or one of 42 other kinds of place.
+
+</details>
 
 <img src="assets/divider.svg" width="100%" alt="">
 
@@ -253,32 +220,15 @@ In plain terms: my teammates and I designed a career platform as a class project
 
 **Student, Taylor's University**, Kuala Lumpur, Malaysia
 
-Third-year Computer Science (AI & Data Science) undergraduate. My practical experience so far comes from coursework, certifications, and personal projects.
+Third-year Computer Science (AI & Data Science) undergraduate, building AI products alongside my degree.
 
-- Built and evaluated machine learning and deep learning models in university and certification projects
-- Deployed a computer vision demo with Gradio on Hugging Face Spaces
-- Contributed system analysis, UI design, and documentation to a team software project
-- Completed the IBM AI Engineering Professional Certificate program
+- Co-founded Nabily and architected its agent-based backend (TypeScript, Neon PostgreSQL, AI agents)
+- Building Collabwisely, a multiplayer AI workspace, as our group capstone
+- Collaborated in a four-person team on the Google and Kaggle AI Agents capstone (The Council)
+- Built a RAG document Q&A app with LangChain, Groq and ChromaDB behind a FastAPI backend
+- Deployed a ResNet-50 flower classifier as a public Gradio app on Hugging Face Spaces
 
-<img src="https://img.shields.io/badge/Python-10B981?style=flat-square&logo=python&logoColor=white&labelColor=0A1410" alt="Python"> <img src="https://img.shields.io/badge/TensorFlow-14B8A6?style=flat-square&logo=tensorflow&logoColor=white&labelColor=0A1410" alt="TensorFlow"> <img src="https://img.shields.io/badge/Scikit--learn-0F766E?style=flat-square&logo=scikitlearn&logoColor=white&labelColor=0A1410" alt="Scikit-learn"> <img src="https://img.shields.io/badge/LangChain-F59E0B?style=flat-square&labelColor=0A1410" alt="LangChain">
-
-<img src="assets/divider.svg" width="100%" alt="">
-
-## Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|:---|:---|
-| IBM AI Engineering Professional Certificate | Completed certification program |
-| AWS Generative AI Applications | Completed course |
-| Google AI Essentials | Completed course |
-| SQL and Relational Databases | Completed course |
-| Model deployment | Computer vision demo live on Hugging Face Spaces |
-| Academic portfolio | Coursework projects across AI, computer vision, IoT, and data science |
-| Team collaboration | System analysis, UI design, and documentation on CareerConnect |
-
-</div>
+<img src="https://img.shields.io/badge/Python-10B981?style=flat-square&logo=python&logoColor=white&labelColor=0A1410" alt="Python"> <img src="https://img.shields.io/badge/TypeScript-14B8A6?style=flat-square&logo=typescript&logoColor=white&labelColor=0A1410" alt="TypeScript"> <img src="https://img.shields.io/badge/LangGraph-0F766E?style=flat-square&labelColor=0A1410" alt="LangGraph"> <img src="https://img.shields.io/badge/FastAPI-F59E0B?style=flat-square&logo=fastapi&logoColor=white&labelColor=0A1410" alt="FastAPI">
 
 <img src="assets/divider.svg" width="100%" alt="">
 
@@ -286,22 +236,26 @@ Third-year Computer Science (AI & Data Science) undergraduate. My practical expe
 
 **Completed**
 
-- IBM AI Engineering Professional Certificate
-- AWS Generative AI Applications
-- Google AI Essentials
+- **IBM AI Engineering Professional Certificate**, including the Generative AI Applications Specialist credential
+- **AWS Certified AI Practitioner**
+- **GitHub Foundations**
+- **Oracle Certified Foundations Associate**
+- Google AI Essentials Specialization
+- Java Foundations (Oracle Academy)
+- Networking Devices and Initial Configuration (Cisco)
+- Generative AI Applications (AWS)
 - SQL and Relational Databases
+- Memory for AI Applications badge (MongoDB)
 
-**Certification Roadmap: 5-Step Path (targets, not yet earned)**
+**In Progress**
 
 <div align="center">
 
-| Step | Certification | Category | Key Skills |
-|:---:|:---|:---|:---|
-| 1 | GitHub Foundations | <img src="https://img.shields.io/badge/Preparatory-10B981?style=flat-square" alt="Preparatory"> | Source control (Git) · GitHub collaboration (PRs, issues) · dev workflow basics |
-| 2 | Microsoft Certified: Azure AI Fundamentals (AI-901) | <img src="https://img.shields.io/badge/AI%20%26%20App%20Developer-14B8A6?style=flat-square" alt="AI & App Developer"> | Core AI concepts · responsible AI · Microsoft AI services |
-| 3 | Microsoft Certified: Azure AI App & Agent Developer (Associate) | <img src="https://img.shields.io/badge/AI%20%26%20App%20Developer-14B8A6?style=flat-square" alt="AI & App Developer"> | Designing AI applications · building AI agents · agent orchestration & MLOps |
-| 4 | AWS Certified AI Practitioner (Foundational) | <img src="https://img.shields.io/badge/Cloud%20%26%20Network-F59E0B?style=flat-square" alt="Cloud & Network"> | ML fundamentals on AWS · cross-cloud AI overview · security and compliance for AI |
-| 5 | Cisco Certified Network Associate (CCNA) | <img src="https://img.shields.io/badge/Cloud%20%26%20Network-F59E0B?style=flat-square" alt="Cloud & Network"> | IP connectivity & routing · security fundamentals · automation & programmability |
+| Certification | Provider |
+|:---|:---|
+| Microsoft Certified: Azure AI App and Agent Developer Associate (AI-103) | <img src="https://img.shields.io/badge/Microsoft-In%20Progress-FBBF24?style=flat-square&labelColor=0A1410" alt="Microsoft, in progress"> |
+| AWS Certified Cloud Practitioner | <img src="https://img.shields.io/badge/AWS-In%20Progress-FBBF24?style=flat-square&labelColor=0A1410" alt="AWS, in progress"> |
+| AWS Certified Machine Learning Engineer, Associate | <img src="https://img.shields.io/badge/AWS-In%20Progress-FBBF24?style=flat-square&labelColor=0A1410" alt="AWS, in progress"> |
 
 </div>
 
@@ -313,35 +267,6 @@ Third-year Computer Science (AI & Data Science) undergraduate. My practical expe
 
 <a href="https://github.com/esammostafa9-cloud"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"></a>
 <a href="https://github.com/esammostafa9-cloud?tab=repositories"><img src="https://img.shields.io/badge/All%20Repositories-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=0A1410" alt="All repositories"></a>
-
-</div>
-
-<img src="assets/divider.svg" width="100%" alt="">
-
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=esammostafa9-cloud&theme=github_dark" width="100%" alt="Profile summary card">
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=esammostafa9-cloud&show_icons=true&bg_color=0D1117&title_color=10B981&icon_color=F59E0B&text_color=D1FAE5&border_color=0F766E&ring_color=14B8A6&rank_icon=github" height="170" alt="GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esammostafa9-cloud&layout=compact&langs_count=8&bg_color=0D1117&title_color=10B981&text_color=D1FAE5&border_color=0F766E" height="170" alt="Top languages">
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=esammostafa9-cloud&background=0D1117&border=0F766E&ring=10B981&fire=F59E0B&currStreakLabel=14B8A6&currStreakNum=D1FAE5&sideNums=D1FAE5&sideLabels=14B8A6&dates=6EE7B7&stroke=0F766E" alt="GitHub streak stats">
-
-</div>
-
-<img src="assets/divider.svg" width="100%" alt="">
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=esammostafa9-cloud&bg_color=0A1410&color=D1FAE5&title_color=10B981&line=10B981&point=F59E0B&area=true&area_color=0F766E&hide_border=false" width="100%" alt="Contribution activity graph">
 
 </div>
 
@@ -360,24 +285,19 @@ Third-year Computer Science (AI & Data Science) undergraduate. My practical expe
 ## Current Focus
 
 ```yaml
-learning:
-  - Advanced Deep Learning
-  - Large Language Models
-  - Retrieval-Augmented Generation (RAG)
-  - LangChain
-  - Model Context Protocol (MCP)
-  - AI Agents
-  - MLOps
-
 building:
-  - Agentic AI workflows and automations
-  - Computer vision classifiers with transfer learning
-  - RAG pipelines with LangChain
+  - Nabily, an agentic student deal platform
+  - Collabwisely, a multiplayer AI workspace
+  - Sentinel RAG deployment on Render
+
+certifying:
+  - Microsoft Azure AI App and Agent Developer Associate (AI-103)
+  - AWS Certified Cloud Practitioner
+  - AWS Certified Machine Learning Engineer, Associate
 
 exploring:
-  - Agentic developer tools (Claude Code, Google Antigravity)
-  - Open-source AI projects
-  - Production-ready AI system design
+  - Multi-agent systems and MCP
+  - MLOps and production AI deployment
 
 open_to:
   - AI / ML / Computer Vision internships
