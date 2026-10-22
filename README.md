@@ -50,12 +50,70 @@ Architected the agent-based backend, where AI agents orchestrate workflows and t
 
 <table>
 <tr><th align="left">Domain<br><img src="assets/spacer.svg" width="200" height="1" alt=""></th><th align="left">Technologies<br><img src="assets/spacer.svg" width="560" height="1" alt=""></th></tr>
-<tr><td><b>Languages</b><br><sub>Core programming</sub></td><td><img src="https://skillicons.dev/icons?i=py,ts,js,java,mysql,r,go&theme=dark" alt="Python, TypeScript, JavaScript, Java, SQL, R, Go"></td></tr>
-<tr><td><b>Machine Learning</b><br><sub>Training and evaluation</sub></td><td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda&theme=dark" alt="PyTorch, TensorFlow, scikit-learn, OpenCV, Anaconda"></td></tr>
-<tr><td><b>AI Engineering</b><br><sub>LLMs, agents and RAG</sub></td><td><img src="assets/stack/llms.svg" height="48" alt="Hugging Face, Claude, Gemini, Llama, Mistral, OpenRouter"><br><img src="assets/stack/agents.svg" height="48" alt="LangChain, LangGraph, n8n, MCP"><br><img src="https://img.shields.io/badge/OpenAI-2D333B?style=for-the-badge" alt="OpenAI"> <img src="https://img.shields.io/badge/Groq-2D333B?style=for-the-badge" alt="Groq"> <img src="https://img.shields.io/badge/LangSmith-2D333B?style=for-the-badge" alt="LangSmith"> <img src="https://img.shields.io/badge/OpenClaw-2D333B?style=for-the-badge" alt="OpenClaw"> <img src="https://img.shields.io/badge/Google%20ADK-2D333B?style=for-the-badge&logo=google&logoColor=white" alt="Google ADK"> <img src="https://img.shields.io/badge/pgvector-2D333B?style=for-the-badge" alt="pgvector"> <img src="https://img.shields.io/badge/ChromaDB-2D333B?style=for-the-badge" alt="ChromaDB"> <img src="https://img.shields.io/badge/BGE%20Embeddings-2D333B?style=for-the-badge" alt="BGE Embeddings"></td></tr>
-<tr><td><b>AI Coding Tools</b><br><sub>Agentic development</sub></td><td><img src="assets/stack/coding.svg" height="48" alt="VS Code, Claude Code, Cursor, OpenCode, Google Colab"><br><img src="https://img.shields.io/badge/Codex-2D333B?style=for-the-badge" alt="Codex"> <img src="https://img.shields.io/badge/Google%20Antigravity-2D333B?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity"></td></tr>
-<tr><td><b>Data &amp; Databases</b><br><sub>Analysis, visualisation and storage</sub></td><td><img src="assets/stack/data.svg" height="48" alt="pandas, NumPy"> <img src="assets/stack/databases.svg" height="48" alt="PostgreSQL, SQL, Supabase, Neon"><br><img src="https://img.shields.io/badge/Matplotlib-2D333B?style=for-the-badge" alt="Matplotlib"> <img src="https://img.shields.io/badge/Tableau-2D333B?style=for-the-badge" alt="Tableau"> <img src="https://img.shields.io/badge/Power%20BI-2D333B?style=for-the-badge" alt="Power BI"></td></tr>
-<tr><td><b>MLOps &amp; Cloud</b><br><sub>Serving, CI/CD and hosting</sub></td><td><img src="assets/stack/mlops.svg" height="48" alt="Docker, GitHub Actions, FastAPI, Gradio, Hugging Face Spaces, Render, pytest, uv"><br><img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,vercel,linux,git,github&theme=dark" alt="AWS, Microsoft Azure, Cloudflare, Vercel, Linux VPS, Git, GitHub"><br><img src="https://img.shields.io/badge/Langfuse-2D333B?style=for-the-badge" alt="Langfuse"></td></tr>
+<tr><td><b>Languages</b><br><sub>Core programming</sub></td><td>
+<a href="https://www.python.org"><img src="https://skillicons.dev/icons?theme=dark&i=py" width="48" height="48" title="Python" alt="Python"></a>
+<a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?theme=dark&i=ts" width="48" height="48" title="TypeScript" alt="TypeScript"></a>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?theme=dark&i=js" width="48" height="48" title="JavaScript" alt="JavaScript"></a>
+<a href="https://www.java.com"><img src="https://skillicons.dev/icons?theme=dark&i=java" width="48" height="48" title="Java" alt="Java"></a>
+<a href="https://en.wikipedia.org/wiki/SQL"><img src="https://skillicons.dev/icons?theme=dark&i=mysql" width="48" height="48" title="SQL" alt="SQL"></a>
+<a href="https://www.r-project.org"><img src="https://skillicons.dev/icons?theme=dark&i=r" width="48" height="48" title="R" alt="R"></a>
+<a href="https://go.dev"><img src="https://skillicons.dev/icons?theme=dark&i=go" width="48" height="48" title="Go" alt="Go"></a>
+</td></tr>
+<tr><td><b>Machine Learning</b><br><sub>Training and evaluation</sub></td><td>
+<a href="https://pytorch.org"><img src="https://skillicons.dev/icons?theme=dark&i=pytorch" width="48" height="48" title="PyTorch" alt="PyTorch"></a>
+<a href="https://www.tensorflow.org"><img src="https://skillicons.dev/icons?theme=dark&i=tensorflow" width="48" height="48" title="TensorFlow" alt="TensorFlow"></a>
+<a href="https://scikit-learn.org"><img src="https://skillicons.dev/icons?theme=dark&i=sklearn" width="48" height="48" title="scikit-learn" alt="scikit-learn"></a>
+<a href="https://opencv.org"><img src="https://skillicons.dev/icons?theme=dark&i=opencv" width="48" height="48" title="OpenCV" alt="OpenCV"></a>
+<a href="https://www.anaconda.com"><img src="https://skillicons.dev/icons?theme=dark&i=anaconda" width="48" height="48" title="Anaconda" alt="Anaconda"></a>
+</td></tr>
+<tr><td><b>AI Engineering</b><br><sub>LLMs, agents and RAG</sub></td><td>
+<a href="https://huggingface.co"><img src="assets/stack/icons/hugging-face.svg" width="48" height="48" title="Hugging Face" alt="Hugging Face"></a>
+<a href="https://www.anthropic.com/claude"><img src="assets/stack/icons/claude.svg" width="48" height="48" title="Claude" alt="Claude"></a>
+<a href="https://gemini.google.com"><img src="assets/stack/icons/gemini.svg" width="48" height="48" title="Gemini" alt="Gemini"></a>
+<a href="https://www.llama.com"><img src="assets/stack/icons/llama.svg" width="48" height="48" title="Llama" alt="Llama"></a>
+<a href="https://mistral.ai"><img src="assets/stack/icons/mistral.svg" width="48" height="48" title="Mistral" alt="Mistral"></a>
+<a href="https://openrouter.ai"><img src="assets/stack/icons/openrouter.svg" width="48" height="48" title="OpenRouter" alt="OpenRouter"></a><br>
+<a href="https://www.langchain.com"><img src="assets/stack/icons/langchain.svg" width="48" height="48" title="LangChain" alt="LangChain"></a>
+<a href="https://www.langchain.com/langgraph"><img src="assets/stack/icons/langgraph.svg" width="48" height="48" title="LangGraph" alt="LangGraph"></a>
+<a href="https://n8n.io"><img src="assets/stack/icons/n8n.svg" width="48" height="48" title="n8n" alt="n8n"></a>
+<a href="https://modelcontextprotocol.io"><img src="assets/stack/icons/mcp.svg" width="48" height="48" title="Model Context Protocol (MCP)" alt="Model Context Protocol (MCP)"></a><br>
+<img src="https://img.shields.io/badge/OpenAI-2D333B?style=for-the-badge" alt="OpenAI"> <img src="https://img.shields.io/badge/Groq-2D333B?style=for-the-badge" alt="Groq"> <img src="https://img.shields.io/badge/LangSmith-2D333B?style=for-the-badge" alt="LangSmith"> <img src="https://img.shields.io/badge/OpenClaw-2D333B?style=for-the-badge" alt="OpenClaw"> <img src="https://img.shields.io/badge/Google%20ADK-2D333B?style=for-the-badge&logo=google&logoColor=white" alt="Google ADK"> <img src="https://img.shields.io/badge/pgvector-2D333B?style=for-the-badge" alt="pgvector"> <img src="https://img.shields.io/badge/ChromaDB-2D333B?style=for-the-badge" alt="ChromaDB"> <img src="https://img.shields.io/badge/BGE%20Embeddings-2D333B?style=for-the-badge" alt="BGE Embeddings">
+</td></tr>
+<tr><td><b>AI Coding Tools</b><br><sub>Agentic development</sub></td><td>
+<a href="https://code.visualstudio.com"><img src="assets/stack/icons/vs-code.svg" width="48" height="48" title="VS Code" alt="VS Code"></a>
+<a href="https://www.anthropic.com/claude-code"><img src="assets/stack/icons/claude-code.svg" width="48" height="48" title="Claude Code" alt="Claude Code"></a>
+<a href="https://cursor.com"><img src="assets/stack/icons/cursor.svg" width="48" height="48" title="Cursor" alt="Cursor"></a>
+<a href="https://opencode.ai"><img src="assets/stack/icons/opencode.svg" width="48" height="48" title="OpenCode" alt="OpenCode"></a>
+<a href="https://colab.research.google.com"><img src="assets/stack/icons/google-colab.svg" width="48" height="48" title="Google Colab" alt="Google Colab"></a><br>
+<img src="https://img.shields.io/badge/Codex-2D333B?style=for-the-badge" alt="Codex"> <img src="https://img.shields.io/badge/Google%20Antigravity-2D333B?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity">
+</td></tr>
+<tr><td><b>Data &amp; Databases</b><br><sub>Analysis, visualisation and storage</sub></td><td>
+<a href="https://pandas.pydata.org"><img src="assets/stack/icons/pandas.svg" width="48" height="48" title="pandas" alt="pandas"></a>
+<a href="https://numpy.org"><img src="assets/stack/icons/numpy.svg" width="48" height="48" title="NumPy" alt="NumPy"></a>
+<a href="https://www.postgresql.org"><img src="assets/stack/icons/postgresql.svg" width="48" height="48" title="PostgreSQL" alt="PostgreSQL"></a>
+<a href="https://en.wikipedia.org/wiki/SQL"><img src="assets/stack/icons/sql.svg" width="48" height="48" title="SQL" alt="SQL"></a>
+<a href="https://supabase.com"><img src="assets/stack/icons/supabase.svg" width="48" height="48" title="Supabase" alt="Supabase"></a>
+<a href="https://neon.com"><img src="assets/stack/icons/neon.svg" width="48" height="48" title="Neon" alt="Neon"></a><br>
+<img src="https://img.shields.io/badge/Matplotlib-2D333B?style=for-the-badge" alt="Matplotlib"> <img src="https://img.shields.io/badge/Tableau-2D333B?style=for-the-badge" alt="Tableau"> <img src="https://img.shields.io/badge/Power%20BI-2D333B?style=for-the-badge" alt="Power BI">
+</td></tr>
+<tr><td><b>MLOps &amp; Cloud</b><br><sub>Serving, CI/CD and hosting</sub></td><td>
+<a href="https://www.docker.com"><img src="assets/stack/icons/docker.svg" width="48" height="48" title="Docker" alt="Docker"></a>
+<a href="https://github.com/features/actions"><img src="assets/stack/icons/github-actions.svg" width="48" height="48" title="GitHub Actions" alt="GitHub Actions"></a>
+<a href="https://fastapi.tiangolo.com"><img src="assets/stack/icons/fastapi.svg" width="48" height="48" title="FastAPI" alt="FastAPI"></a>
+<a href="https://www.gradio.app"><img src="assets/stack/icons/gradio.svg" width="48" height="48" title="Gradio" alt="Gradio"></a>
+<a href="https://huggingface.co/spaces"><img src="assets/stack/icons/hugging-face-spaces.svg" width="48" height="48" title="Hugging Face Spaces" alt="Hugging Face Spaces"></a>
+<a href="https://render.com"><img src="assets/stack/icons/render.svg" width="48" height="48" title="Render" alt="Render"></a>
+<a href="https://pytest.org"><img src="assets/stack/icons/pytest.svg" width="48" height="48" title="pytest" alt="pytest"></a>
+<a href="https://docs.astral.sh/uv/"><img src="assets/stack/icons/uv.svg" width="48" height="48" title="uv" alt="uv"></a><br>
+<a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?theme=dark&i=aws" width="48" height="48" title="AWS" alt="AWS"></a>
+<a href="https://azure.microsoft.com"><img src="https://skillicons.dev/icons?theme=dark&i=azure" width="48" height="48" title="Microsoft Azure" alt="Microsoft Azure"></a>
+<a href="https://www.cloudflare.com"><img src="https://skillicons.dev/icons?theme=dark&i=cloudflare" width="48" height="48" title="Cloudflare" alt="Cloudflare"></a>
+<a href="https://vercel.com"><img src="https://skillicons.dev/icons?theme=dark&i=vercel" width="48" height="48" title="Vercel" alt="Vercel"></a>
+<a href="https://www.linux.org"><img src="https://skillicons.dev/icons?theme=dark&i=linux" width="48" height="48" title="Linux (VPS)" alt="Linux (VPS)"></a>
+<a href="https://git-scm.com"><img src="https://skillicons.dev/icons?theme=dark&i=git" width="48" height="48" title="Git" alt="Git"></a>
+<a href="https://github.com"><img src="https://skillicons.dev/icons?theme=dark&i=github" width="48" height="48" title="GitHub" alt="GitHub"></a><br>
+<img src="https://img.shields.io/badge/Langfuse-2D333B?style=for-the-badge" alt="Langfuse">
+</td></tr>
 </table>
 
 </div>
