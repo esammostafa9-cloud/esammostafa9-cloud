@@ -24,7 +24,7 @@ I am in my third year of a Bachelor of Computer Science, specialising in Artific
 
 ## Featured Projects
 
-| Project | What it is | Stack |
+| Project | What it is<br><img src="assets/spacer-wide.svg" width="100%" height="1" alt=""> | Stack |
 | --- | --- | --- |
 | **Nabily** *(co-founder, private)* | Agentic platform that checks whether student deals and discounts are still valid in real time. AI agents run the workflows and third-party API integrations behind a TypeScript web app. | TypeScript, Python, LangGraph, Neon PostgreSQL |
 | **Collabwisely** *(group capstone, private)* | Multiplayer AI workspace where a team and its AI agents plan, build and review together, with a verifiable record of who did what. In active development. | Next.js, FastAPI, LangGraph, PostgreSQL |
@@ -49,7 +49,7 @@ Architected the agent-based backend, where AI agents orchestrate workflows and t
 <div align="center">
 
 <table>
-<tr><th align="left">Domain<br><img src="assets/spacer.svg" width="200" height="1" alt=""></th><th align="left">Technologies<br><img src="assets/spacer.svg" width="560" height="1" alt=""></th></tr>
+<tr><th align="left">Domain<br><img src="assets/spacer.svg" width="200" height="1" alt=""></th><th align="left">Technologies<br><img src="assets/spacer-wide.svg" width="100%" height="1" alt=""></th></tr>
 <tr><td><b>Languages</b><br><sub>Core programming</sub></td><td>
 <a href="https://www.python.org"><img src="https://skillicons.dev/icons?theme=dark&i=py" width="48" height="48" title="Python" alt="Python"></a>
 <a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?theme=dark&i=ts" width="48" height="48" title="TypeScript" alt="TypeScript"></a>
@@ -145,7 +145,7 @@ Architected the agent-based backend, where AI agents orchestrate workflows and t
 <details open>
 <summary><b>All certifications (13)</b></summary>
 
-| Certification | Provider | Status |
+| Certification<br><img src="assets/spacer-wide.svg" width="100%" height="1" alt=""> | Provider | Status |
 | --- | --- | --- |
 | AI Engineering Professional Certificate, incl. Generative AI Applications Specialist | IBM | Earned |
 | AWS Certified AI Practitioner | AWS | Earned |
