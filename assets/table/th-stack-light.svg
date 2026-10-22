@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="34" role="img" aria-label="Stack">
-<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#10B981"/><stop offset="1" stop-color="#059669"/></linearGradient></defs>
-<rect width="100%" height="100%" rx="4" fill="url(#g)"/>
-<rect y="32" width="100%" height="2" fill="#F59E0B"/>
-<text x="50%" y="22" text-anchor="middle" font-family="Consolas, 'DejaVu Sans Mono', 'Courier New', monospace" font-size="13.5" font-weight="700" fill="#FFFFFF">Stack</text>
-</svg>

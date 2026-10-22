@@ -27,7 +27,7 @@ I am in my third year of a Bachelor of Computer Science, specialising in Artific
 
 ## Featured Projects
 
-| <picture><source media="(prefers-color-scheme: dark)" srcset="assets/table/th-project-dark.svg"><img src="assets/table/th-project-light.svg" width="100%" height="34" alt="Project"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/table/th-what-it-is-dark.svg"><img src="assets/table/th-what-it-is-light.svg" width="100%" height="34" alt="What it is"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/table/th-stack-dark.svg"><img src="assets/table/th-stack-light.svg" width="100%" height="34" alt="Stack"></picture> |
+| <img src="assets/table/th-project.svg" width="100%" height="32" alt="Project"> | <img src="assets/table/th-what-it-is.svg" width="100%" height="32" alt="What it is"> | <img src="assets/table/th-stack.svg" width="100%" height="32" alt="Stack"> |
 | --- | --- | --- |
 | **Nabily** *(co-founder, private)* | Agentic platform that checks whether student deals and discounts are still valid in real time. AI agents run the workflows and third-party API integrations behind a TypeScript web app. | TypeScript, Python, LangGraph, Neon PostgreSQL |
 | **Collabwisely** *(group capstone, private)* | Multiplayer AI workspace where a team and its AI agents plan, build and review together, with a verifiable record of who did what. In active development. | Next.js, FastAPI, LangGraph, PostgreSQL |
@@ -52,7 +52,7 @@ Architected the agent-based backend, where AI agents orchestrate workflows and t
 <div align="center">
 
 <table>
-<tr><th><picture><source media="(prefers-color-scheme: dark)" srcset="assets/table/th-domain-dark.svg"><img src="assets/table/th-domain-light.svg" width="100%" height="34" alt="Domain"></picture></th><th><picture><source media="(prefers-color-scheme: dark)" srcset="assets/table/th-technologies-dark.svg"><img src="assets/table/th-technologies-light.svg" width="100%" height="34" alt="Technologies"></picture></th></tr>
+<tr><th><img src="assets/table/th-domain.svg" width="100%" height="32" alt="Domain"></th><th><img src="assets/table/th-technologies.svg" width="100%" height="32" alt="Technologies"></th></tr>
 <tr><td><b>Languages</b><br><sub>Core programming</sub></td><td>
 <a href="https://www.python.org"><img src="https://skillicons.dev/icons?theme=dark&i=py" width="48" height="48" title="Python" alt="Python"></a>
 <a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?theme=dark&i=ts" width="48" height="48" title="TypeScript" alt="TypeScript"></a>
@@ -148,7 +148,7 @@ Architected the agent-based backend, where AI agents orchestrate workflows and t
 <details open>
 <summary><b>All certifications (13)</b></summary>
 
-| <picture><source media="(prefers-color-scheme: dark)" srcset="assets/table/th-certification-dark.svg"><img src="assets/table/th-certification-light.svg" width="100%" height="34" alt="Certification"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/table/th-provider-dark.svg"><img src="assets/table/th-provider-light.svg" width="100%" height="34" alt="Provider"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/table/th-status-dark.svg"><img src="assets/table/th-status-light.svg" width="100%" height="34" alt="Status"></picture> |
+| <img src="assets/table/th-certification.svg" width="100%" height="32" alt="Certification"> | <img src="assets/table/th-provider.svg" width="100%" height="32" alt="Provider"> | <img src="assets/table/th-status.svg" width="100%" height="32" alt="Status"> |
 | --- | --- | --- |
 | AI Engineering Professional Certificate, incl. Generative AI Applications Specialist | IBM | Earned |
 | AWS Certified AI Practitioner | AWS | Earned |
