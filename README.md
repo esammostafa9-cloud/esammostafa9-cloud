@@ -4,28 +4,15 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=22&duration=3200&pause=900&color=10B981&center=true&vCenter=true&width=620&height=48&lines=AI+%26+Data+Science+Undergraduate;Agentic+AI+Workflow+%26+Automation+Developer;Building+RAG+%26+Multi-Agent+Systems;Aspiring+AI+Engineer" alt="Typing animation: AI and Data Science undergraduate, agentic AI workflow and automation developer, building RAG and multi-agent systems, aspiring AI Engineer">
 
-<br>
-
-<img src="https://img.shields.io/badge/University-Taylor%27s%20University-10B981?style=flat-square&labelColor=0A1410" alt="Taylor's University">
-<img src="https://img.shields.io/badge/Degree-BCS%20(AI%20%26%20Data%20Science)-14B8A6?style=flat-square&labelColor=0A1410" alt="Bachelor of Computer Science (AI and Data Science)">
-<img src="https://img.shields.io/badge/Year-Third--Year%20Undergraduate-0F766E?style=flat-square&labelColor=0A1410" alt="Third-Year Undergraduate">
-<br>
 <img src="https://img.shields.io/badge/Focus-AI%20Engineering%20%C2%B7%20Agentic%20AI%20%26%20Automation%20%C2%B7%20RAG%20%C2%B7%20Model%20Evaluation%20%26%20Policies-10B981?style=flat-square&labelColor=0A1410" alt="Focus: AI Engineering, Agentic AI and Automation, RAG, Model Evaluation and Policies">
+<img src="https://img.shields.io/badge/Open%20to-Work%20%C2%B7%20Industrial%20Training-F59E0B?style=flat-square&labelColor=0A1410" alt="Open to work and industrial training">
+<img src="https://img.shields.io/badge/Taylor%27s%20University-Third--Year%20BCS-14B8A6?style=flat-square&labelColor=0A1410" alt="Taylor's University, third-year BCS">
 
-<br><br>
+<a href="https://www.linkedin.com/in/esam-alareqi9027b230a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==" alt="LinkedIn"></a>&nbsp;
+<a href="mailto:esammostafa9@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;
+<a href="https://github.com/esammostafa9-cloud?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"></a>
 
 <img src="https://komarev.com/ghpvc/?username=esammostafa9-cloud&color=10B981&style=flat-square&label=Profile+Views" alt="Profile views">
-<a href="https://github.com/esammostafa9-cloud?tab=followers"><img src="https://img.shields.io/github/followers/esammostafa9-cloud?style=flat-square&color=14B8A6&labelColor=0A1410&label=Followers" alt="GitHub followers"></a>
-<a href="https://github.com/esammostafa9-cloud"><img src="https://img.shields.io/github/stars/esammostafa9-cloud?style=flat-square&color=F59E0B&labelColor=0A1410&label=Stars" alt="GitHub stars"></a>
-
-<br><br>
-
-<a href="#about"><img src="https://img.shields.io/badge/About-10B981?style=for-the-badge&labelColor=0A1410" alt="About"></a>
-<a href="#education"><img src="https://img.shields.io/badge/Education-14B8A6?style=for-the-badge&labelColor=0A1410" alt="Education"></a>
-<a href="#tech-stack"><img src="https://img.shields.io/badge/Tech%20Stack-0F766E?style=for-the-badge&labelColor=0A1410" alt="Tech Stack"></a>
-<a href="#featured-projects"><img src="https://img.shields.io/badge/Projects-F59E0B?style=for-the-badge&labelColor=0A1410" alt="Projects"></a>
-<a href="#certifications"><img src="https://img.shields.io/badge/Certifications-10B981?style=for-the-badge&labelColor=0A1410" alt="Certifications"></a>
-<a href="#connect"><img src="https://img.shields.io/badge/Connect-0F766E?style=for-the-badge&labelColor=0A1410" alt="Connect"></a>
 
 </div>
 
@@ -37,29 +24,31 @@ A dedicated and passionate agentic AI developer building production-level AI sys
 
 **Open to work**, and currently looking for industrial training and hands-on industry experience.
 
-**Experience highlights**
+## Experience
 
-- **Co-founder, Nabily:** architected the agent-based backend of an agentic platform that verifies student deals in real time (TypeScript, Neon PostgreSQL, AI agents)
-- **Capstone, Collabwisely:** building a multiplayer AI workspace where a team and its AI agents collaborate
-- **Google and Kaggle AI Agents capstone, The Council:** built a multi-agent deliberation system in a team of four
-- **Sentinel RAG:** document Q&A over multiple PDFs with LangChain, Groq (Llama 3.3 70B), ChromaDB and FastAPI
-- **FloraVision:** deployed a ResNet-50 flower classifier as a public Gradio app on Hugging Face Spaces
+**Co-founder** · Nabily · *Sep 2026 – present*
 
-<img src="assets/divider.svg" width="100%" alt="">
+- Co-founded an agentic platform that verifies whether student deals and discounts are still valid in real time.
+- Architected the agent-based backend, where AI agents orchestrate workflows and third-party API integrations, supported by a TypeScript web app and a Neon PostgreSQL database.
 
 ## Education
 
-**Bachelor of Computer Science (Artificial Intelligence & Data Science)**
-Taylor's University, Kuala Lumpur, Malaysia. Third Year.
+**Bachelor of Computer Science (Artificial Intelligence & Data Science)** · Taylor's University, Kuala Lumpur · *Third year*
 
-- Coursework in machine learning, deep learning, and computer vision
-- Data science foundations: data cleaning, preprocessing, and visualisation
-- Software engineering, databases, and programming in Python, Java, SQL, and R
-- Group capstone: Collabwisely, a multiplayer AI workspace
+- Coursework in machine learning, deep learning, computer vision, databases and software engineering.
+- Group capstone: Collabwisely, a multiplayer AI workspace.
 
-<img src="https://img.shields.io/badge/Machine%20Learning-10B981?style=flat-square&labelColor=0A1410" alt="Machine Learning"> <img src="https://img.shields.io/badge/Deep%20Learning-14B8A6?style=flat-square&labelColor=0A1410" alt="Deep Learning"> <img src="https://img.shields.io/badge/Computer%20Vision-0F766E?style=flat-square&labelColor=0A1410" alt="Computer Vision"> <img src="https://img.shields.io/badge/Data%20Science-F59E0B?style=flat-square&labelColor=0A1410" alt="Data Science"> <img src="https://img.shields.io/badge/NLP-10B981?style=flat-square&labelColor=0A1410" alt="Natural Language Processing"> <img src="https://img.shields.io/badge/Software%20Engineering-14B8A6?style=flat-square&labelColor=0A1410" alt="Software Engineering">
+## Featured Projects
 
-<img src="assets/divider.svg" width="100%" alt="">
+| Project | What it is | Stack |
+| --- | --- | --- |
+| **Nabily** *(co-founder, private)* | Agentic platform that checks whether student deals and discounts are still valid in real time. AI agents run the workflows and third-party API integrations behind a TypeScript web app. | TypeScript, Python, LangGraph, Neon PostgreSQL |
+| **Collabwisely** *(group capstone, private)* | Multiplayer AI workspace where a team and its AI agents plan, build and review together, with a verifiable record of who did what. In active development. | Next.js, FastAPI, LangGraph, PostgreSQL |
+| **Sentinel RAG** | Natural-language Q&A over multiple PDFs, powered by Llama 3.3 70B through the Groq API. Local BGE embeddings and a persistent ChromaDB store behind a FastAPI backend and a custom frontend. Deployment to Render in progress. | Python, LangChain, Groq, ChromaDB, FastAPI |
+| [The Council](https://github.com/6rzan/The-Council) *(team of 4)* | Google and Kaggle AI Agents capstone. Recruits an expert panel, runs a structured debate, fact-checks claims through MCP and synthesizes a verdict. | Python, Google ADK, Gemini, MCP, FastAPI |
+| **Hotel Booking Cancellation Predictor** | Predicts cancellations at booking time from 119,390 records, after removing 5 leakage features, duplicates and 747 invalid entries. Random Forest reached ROC-AUC 0.883; threshold tuning raised recall from 0.56 to 0.74. | Python, scikit-learn, Pandas |
+| **FloraVision** *(private)* | ResNet-50 transfer learning on about 3,670 images across 5 flower classes, trained in two phases to 92% test accuracy. Deployed as a public Gradio app on Hugging Face Spaces. | TensorFlow, Keras, Gradio |
+| [Satellite Image Classification](https://github.com/esammostafa9-cloud/resisc45-scene-classification) | Fine-tuned ResNet-50 that sorts satellite images into the 45 land-use classes of NWPU-RESISC45, at 94.41% test accuracy. | Python, TensorFlow, Keras |
 
 ## Tech Stack
 
@@ -81,196 +70,28 @@ Taylor's University, Kuala Lumpur, Malaysia. Third Year.
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="">
-
-## AI & Data Science Focus
-
-<div align="center">
-
-| Domain | Level | Details |
-|:---|:---:|:---|
-| Machine Learning | <img src="https://img.shields.io/badge/Hands--on-10B981?style=flat-square" alt="Hands-on"> | Classification, leakage removal, scikit-learn pipelines, threshold optimisation |
-| Deep Learning | <img src="https://img.shields.io/badge/Hands--on-10B981?style=flat-square" alt="Hands-on"> | CNNs, transfer learning with ResNet-50, two-phase fine-tuning, MLPs |
-| Computer Vision | <img src="https://img.shields.io/badge/Hands--on-10B981?style=flat-square" alt="Hands-on"> | Flower and satellite scene classification, error analysis |
-| Generative AI & LLMs | <img src="https://img.shields.io/badge/Hands--on-10B981?style=flat-square" alt="Hands-on"> | RAG with LangChain, Groq (Llama 3.3 70B), BGE embeddings, ChromaDB |
-| Agentic AI & Multi-Agent Systems | <img src="https://img.shields.io/badge/Hands--on-10B981?style=flat-square" alt="Hands-on"> | LangGraph, Google ADK, MCP, agent-based backends |
-| Data Science | <img src="https://img.shields.io/badge/Hands--on-10B981?style=flat-square" alt="Hands-on"> | Pandas, NumPy, data cleaning and preprocessing, visualisation with Tableau |
-| MLOps & Deployment | <img src="https://img.shields.io/badge/Hands--on-10B981?style=flat-square" alt="Hands-on"> | FastAPI, Gradio on Hugging Face Spaces, Render, GitHub Actions |
-
-</div>
-
-<img src="assets/divider.svg" width="100%" alt="">
-
-## Featured Projects
-
-<details>
-<summary><b>Nabily</b>: AI-powered student deal platform (co-founder) · Sep 2026, in progress</summary>
-<br>
-
-An agentic platform that verifies whether student deals and discounts are still valid in real time. I co-founded the project and architected its agent-based backend, where AI agents orchestrate the workflows and third-party API integrations, supported by a TypeScript web application and a Neon PostgreSQL database.
-
-| Aspect | Detail |
-|:---|:---|
-| Role | Co-founder, backend and agent architecture |
-| Stack | TypeScript, Python, LangGraph, AI agents, Neon PostgreSQL |
-| Status | Private beta, in active development |
-| Repository | <img src="https://img.shields.io/badge/Private-Public%20release%20planned-F59E0B?style=flat-square&labelColor=0A1410" alt="Private repository, public release planned"> |
-
-In plain terms: AI agents check whether a student discount is still real before students rely on it.
-
-</details>
-
-<details>
-<summary><b>Collabwisely</b>: Multiplayer AI workspace (group capstone) · Oct 2026, in progress</summary>
-<br>
-
-A multiplayer AI workspace that lets a team and its AI agents collaborate in real time. Built as our university group capstone and currently in active development.
-
-| Aspect | Detail |
-|:---|:---|
-| Role | Capstone team member |
-| Stack | Next.js, TypeScript, FastAPI, LangGraph, PostgreSQL |
-| Status | In active development |
-| Repository | <img src="https://img.shields.io/badge/Private-Open%20source%20planned-F59E0B?style=flat-square&labelColor=0A1410" alt="Private repository, open source planned"> |
-
-In plain terms: a shared workspace where a team and its AI helpers plan and build together, in the open.
-
-</details>
-
-<details>
-<summary><b>Sentinel RAG</b>: Document Q&amp;A with retrieval-augmented generation · Oct 2026, present</summary>
-<br>
-
-A retrieval-augmented generation (RAG) application for multi-document PDF ingestion and natural-language querying, powered by Llama 3.3 70B through the Groq API. It uses local BGE embeddings and a persistent ChromaDB vector store, exposed through a FastAPI backend and a custom frontend. Deployment to Render is in progress.
-
-| Aspect | Detail |
-|:---|:---|
-| Stack | Python, LangChain, Groq (Llama 3.3 70B), BGE embeddings, ChromaDB, FastAPI, Render |
-| Status | Built; deployment to Render in progress |
-| Repository | <img src="https://img.shields.io/badge/Repository-Coming%20soon-14B8A6?style=flat-square&labelColor=0A1410" alt="Repository coming soon"> |
-
-In plain terms: upload your PDFs, ask questions in plain English, and get answers drawn from those documents.
-
-</details>
-
-<details>
-<summary><b>The Council</b>: Multi-agent deliberation system · 2026</summary>
-<br>
-
-A four-person team project for the Google and Kaggle AI Agents capstone. Agents recruit an expert panel for a question, hold a structured debate, fact-check claims through MCP, and synthesize a verdict.
-
-| Aspect | Detail |
-|:---|:---|
-| Role | One of four team members |
-| Stack | Python, Google ADK, Gemini, MCP, FastAPI |
-| Repository | [6rzan/The-Council](https://github.com/6rzan/The-Council) |
-
-In plain terms: ask a hard question and a panel of AI experts debates it, checks the facts, and hands you a verdict.
-
-</details>
-
-<details>
-<summary><b>Hotel Booking Cancellation Predictor</b>: Booking-time cancellation prediction · Jul 2026</summary>
-<br>
-
-A cancellation prediction system built on 119,390 booking records. I removed 5 post-outcome leakage features, duplicates and 747 invalid entries, and wrapped the preprocessing in scikit-learn pipelines. I benchmarked Logistic Regression, a depth-tuned Random Forest and an MLP.
-
-| Aspect | Detail |
-|:---|:---|
-| Stack | Python, scikit-learn, Pandas |
-| Scale | 119,390 booking records |
-| Results | Random Forest: ROC-AUC 0.883, average precision 0.757; threshold optimisation raised recall from 0.56 to 0.74 |
-| Repository | <img src="https://img.shields.io/badge/Repository-Coming%20soon-14B8A6?style=flat-square&labelColor=0A1410" alt="Repository coming soon"> |
-
-In plain terms: at the moment a hotel booking is made, the model estimates whether it is likely to be cancelled.
-
-</details>
-
-<details>
-<summary><b>FloraVision</b>: Flower image classifier · Jun to Jul 2026</summary>
-<br>
-
-A ResNet-50 transfer-learning classifier (ImageNet weights, custom classification head) trained with a two-phase strategy on about 3,670 images across 5 flower classes, then deployed as a public Gradio application on Hugging Face Spaces.
-
-| Aspect | Detail |
-|:---|:---|
-| Stack | TensorFlow, Keras, ResNet-50, Gradio, Hugging Face Spaces |
-| Scale | About 3,670 images, 5 classes |
-| Results | 92% test accuracy |
-| Repository | <img src="https://img.shields.io/badge/Private-Coursework-F59E0B?style=flat-square&labelColor=0A1410" alt="Private repository"> |
-
-In plain terms: show it a photo of a flower and it tells you which of five kinds it is.
-
-</details>
-
-<details>
-<summary><b>Satellite Image Classification</b>: Land-cover and scene classification · 2026</summary>
-<br>
-
-Convolutional neural network and transfer-learning models for land-cover and scene classification of satellite imagery. A fine-tuned ResNet-50 reaches 94.41% accuracy across the 45 scene classes of NWPU-RESISC45.
-
-| Aspect | Detail |
-|:---|:---|
-| Stack | Python, TensorFlow / Keras, CNN, transfer learning (ResNet-50), Gradio |
-| Scale | 31,500 images, 45 classes |
-| Results | 94.41% test accuracy, 0.944 macro F1 |
-| Repository | [resisc45-scene-classification](https://github.com/esammostafa9-cloud/resisc45-scene-classification) |
-
-In plain terms: the model looks at a satellite photo and says whether it shows an airport, a farm, a harbour or one of 42 other kinds of place.
-
-</details>
-
-<img src="assets/divider.svg" width="100%" alt="">
-
 ## Certifications
 
-**Completed**
-
-- **IBM AI Engineering Professional Certificate**, including the Generative AI Applications Specialist credential
-- **AWS Certified AI Practitioner**
-- **GitHub Foundations**
-- **Oracle Certified Foundations Associate**
-- Google AI Essentials Specialization
-- Java Foundations (Oracle Academy)
-- Networking Devices and Initial Configuration (Cisco)
-- Generative AI Applications (AWS)
-- SQL and Relational Databases
-- Memory for AI Applications badge (MongoDB)
-
-**In Progress**
-
-<div align="center">
-
-| Certification | Provider |
-|:---|:---|
-| Microsoft Certified: Azure AI App and Agent Developer Associate (AI-103) | <img src="https://img.shields.io/badge/Microsoft-In%20Progress-FBBF24?style=flat-square&labelColor=0A1410" alt="Microsoft, in progress"> |
-| AWS Certified Cloud Practitioner | <img src="https://img.shields.io/badge/AWS-In%20Progress-FBBF24?style=flat-square&labelColor=0A1410" alt="AWS, in progress"> |
-| AWS Certified Machine Learning Engineer, Associate | <img src="https://img.shields.io/badge/AWS-In%20Progress-FBBF24?style=flat-square&labelColor=0A1410" alt="AWS, in progress"> |
-
-</div>
-
-<img src="assets/divider.svg" width="100%" alt="">
-
-## Connect
-
-<div align="center">
-
-<a href="mailto:esammostafa9@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"></a>
-<a href="https://www.linkedin.com/in/esam-alareqi9027b230a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==" alt="LinkedIn"></a>
-<a href="https://github.com/esammostafa9-cloud"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://github.com/esammostafa9-cloud?tab=repositories"><img src="https://img.shields.io/badge/Projects-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=0A1410" alt="Projects"></a>
-
-</div>
+| Certification | Provider | Status |
+| --- | --- | --- |
+| AI Engineering Professional Certificate, incl. Generative AI Applications Specialist | IBM | Earned |
+| AWS Certified AI Practitioner | AWS | Earned |
+| GitHub Foundations | GitHub | Earned |
+| Oracle Certified Foundations Associate | Oracle | Earned |
+| Google AI Essentials Specialization | Google | Earned |
+| Generative AI Applications | AWS | Earned |
+| Java Foundations | Oracle Academy | Earned |
+| Networking Devices and Initial Configuration | Cisco | Earned |
+| SQL and Relational Databases | Online course | Earned |
+| Memory for AI Applications, badge | MongoDB | Earned |
+| Azure AI App and Agent Developer Associate (AI-103) | Microsoft | In progress |
+| AWS Certified Cloud Practitioner | AWS | In progress |
+| AWS Certified Machine Learning Engineer, Associate | AWS | In progress |
 
 <img src="assets/divider.svg" width="100%" alt="">
 
 <div align="center">
-
-*"I learn by building, and I share what I build."*
-
-<br>
 
 <img src="assets/footer.svg" width="100%" alt="Footer">
 
 </div>
-
