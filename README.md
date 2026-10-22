@@ -115,7 +115,8 @@ Architected the agent-based backend, where AI agents orchestrate workflows and t
 <a href="https://render.com"><img src="assets/stack/icons/render.svg" width="48" height="48" title="Render" alt="Render"></a>
 <a href="https://pytest.org"><img src="assets/stack/icons/pytest.svg" width="48" height="48" title="pytest" alt="pytest"></a>
 <a href="https://docs.astral.sh/uv/"><img src="assets/stack/icons/uv.svg" width="48" height="48" title="uv" alt="uv"></a>
-<a href="https://langfuse.com"><img src="assets/stack/icons/langfuse.svg" width="48" height="48" title="Langfuse" alt="Langfuse"></a><br>
+<a href="https://langfuse.com"><img src="assets/stack/icons/langfuse.svg" width="48" height="48" title="Langfuse" alt="Langfuse"></a>
+<a href="https://mlflow.org"><img src="assets/stack/icons/mlflow.svg" width="48" height="48" title="MLflow" alt="MLflow"></a><br>
 <a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?theme=dark&i=aws" width="48" height="48" title="AWS" alt="AWS"></a>
 <a href="https://azure.microsoft.com"><img src="https://skillicons.dev/icons?theme=dark&i=azure" width="48" height="48" title="Microsoft Azure" alt="Microsoft Azure"></a>
 <a href="https://www.cloudflare.com"><img src="https://skillicons.dev/icons?theme=dark&i=cloudflare" width="48" height="48" title="Cloudflare" alt="Cloudflare"></a>
