@@ -72,20 +72,28 @@ Architected the agent-based backend, where AI agents orchestrate workflows and t
 <a href="https://gemini.google.com"><img src="assets/stack/icons/gemini.svg" width="48" height="48" title="Gemini" alt="Gemini"></a>
 <a href="https://www.llama.com"><img src="assets/stack/icons/llama.svg" width="48" height="48" title="Llama" alt="Llama"></a>
 <a href="https://mistral.ai"><img src="assets/stack/icons/mistral.svg" width="48" height="48" title="Mistral" alt="Mistral"></a>
-<a href="https://openrouter.ai"><img src="assets/stack/icons/openrouter.svg" width="48" height="48" title="OpenRouter" alt="OpenRouter"></a><br>
+<a href="https://openrouter.ai"><img src="assets/stack/icons/openrouter.svg" width="48" height="48" title="OpenRouter" alt="OpenRouter"></a>
+<a href="https://openai.com"><img src="assets/stack/icons/openai.svg" width="48" height="48" title="OpenAI" alt="OpenAI"></a>
+<a href="https://groq.com"><img src="assets/stack/icons/groq.svg" width="48" height="48" title="Groq" alt="Groq"></a><br>
 <a href="https://www.langchain.com"><img src="assets/stack/icons/langchain.svg" width="48" height="48" title="LangChain" alt="LangChain"></a>
 <a href="https://www.langchain.com/langgraph"><img src="assets/stack/icons/langgraph.svg" width="48" height="48" title="LangGraph" alt="LangGraph"></a>
 <a href="https://n8n.io"><img src="assets/stack/icons/n8n.svg" width="48" height="48" title="n8n" alt="n8n"></a>
-<a href="https://modelcontextprotocol.io"><img src="assets/stack/icons/mcp.svg" width="48" height="48" title="Model Context Protocol (MCP)" alt="Model Context Protocol (MCP)"></a><br>
-<img src="https://img.shields.io/badge/OpenAI-2D333B?style=for-the-badge" alt="OpenAI"> <img src="https://img.shields.io/badge/Groq-2D333B?style=for-the-badge" alt="Groq"> <img src="https://img.shields.io/badge/LangSmith-2D333B?style=for-the-badge" alt="LangSmith"> <img src="https://img.shields.io/badge/OpenClaw-2D333B?style=for-the-badge" alt="OpenClaw"> <img src="https://img.shields.io/badge/Google%20ADK-2D333B?style=for-the-badge&logo=google&logoColor=white" alt="Google ADK"> <img src="https://img.shields.io/badge/pgvector-2D333B?style=for-the-badge" alt="pgvector"> <img src="https://img.shields.io/badge/ChromaDB-2D333B?style=for-the-badge" alt="ChromaDB"> <img src="https://img.shields.io/badge/BGE%20Embeddings-2D333B?style=for-the-badge" alt="BGE Embeddings">
+<a href="https://modelcontextprotocol.io"><img src="assets/stack/icons/mcp.svg" width="48" height="48" title="Model Context Protocol (MCP)" alt="Model Context Protocol (MCP)"></a>
+<a href="https://www.langchain.com/langsmith"><img src="assets/stack/icons/langsmith.svg" width="48" height="48" title="LangSmith" alt="LangSmith"></a>
+<a href="https://openclaw.ai"><img src="assets/stack/icons/openclaw.svg" width="48" height="48" title="OpenClaw" alt="OpenClaw"></a>
+<a href="https://google.github.io/adk-docs/"><img src="assets/stack/icons/google-adk.svg" width="48" height="48" title="Google Agent Development Kit (ADK)" alt="Google Agent Development Kit (ADK)"></a><br>
+<a href="https://github.com/pgvector/pgvector"><img src="assets/stack/icons/pgvector.svg" width="48" height="48" title="pgvector (PostgreSQL vector search)" alt="pgvector (PostgreSQL vector search)"></a>
+<a href="https://www.trychroma.com"><img src="assets/stack/icons/chromadb.svg" width="48" height="48" title="ChromaDB" alt="ChromaDB"></a>
+<a href="https://huggingface.co/BAAI"><img src="assets/stack/icons/bge-embeddings.svg" width="48" height="48" title="BGE Embeddings (BAAI)" alt="BGE Embeddings (BAAI)"></a>
 </td></tr>
 <tr><td><b>AI Coding Tools</b><br><sub>Agentic development</sub></td><td>
 <a href="https://code.visualstudio.com"><img src="assets/stack/icons/vs-code.svg" width="48" height="48" title="VS Code" alt="VS Code"></a>
 <a href="https://www.anthropic.com/claude-code"><img src="assets/stack/icons/claude-code.svg" width="48" height="48" title="Claude Code" alt="Claude Code"></a>
 <a href="https://cursor.com"><img src="assets/stack/icons/cursor.svg" width="48" height="48" title="Cursor" alt="Cursor"></a>
 <a href="https://opencode.ai"><img src="assets/stack/icons/opencode.svg" width="48" height="48" title="OpenCode" alt="OpenCode"></a>
-<a href="https://colab.research.google.com"><img src="assets/stack/icons/google-colab.svg" width="48" height="48" title="Google Colab" alt="Google Colab"></a><br>
-<img src="https://img.shields.io/badge/Codex-2D333B?style=for-the-badge" alt="Codex"> <img src="https://img.shields.io/badge/Google%20Antigravity-2D333B?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity">
+<a href="https://colab.research.google.com"><img src="assets/stack/icons/google-colab.svg" width="48" height="48" title="Google Colab" alt="Google Colab"></a>
+<a href="https://openai.com/codex"><img src="assets/stack/icons/codex.svg" width="48" height="48" title="Codex" alt="Codex"></a>
+<a href="https://antigravity.google"><img src="assets/stack/icons/google-antigravity.svg" width="48" height="48" title="Google Antigravity" alt="Google Antigravity"></a>
 </td></tr>
 <tr><td><b>Data &amp; Databases</b><br><sub>Analysis, visualisation and storage</sub></td><td>
 <a href="https://pandas.pydata.org"><img src="assets/stack/icons/pandas.svg" width="48" height="48" title="pandas" alt="pandas"></a>
@@ -93,8 +101,10 @@ Architected the agent-based backend, where AI agents orchestrate workflows and t
 <a href="https://www.postgresql.org"><img src="assets/stack/icons/postgresql.svg" width="48" height="48" title="PostgreSQL" alt="PostgreSQL"></a>
 <a href="https://en.wikipedia.org/wiki/SQL"><img src="assets/stack/icons/sql.svg" width="48" height="48" title="SQL" alt="SQL"></a>
 <a href="https://supabase.com"><img src="assets/stack/icons/supabase.svg" width="48" height="48" title="Supabase" alt="Supabase"></a>
-<a href="https://neon.com"><img src="assets/stack/icons/neon.svg" width="48" height="48" title="Neon" alt="Neon"></a><br>
-<img src="https://img.shields.io/badge/Matplotlib-2D333B?style=for-the-badge" alt="Matplotlib"> <img src="https://img.shields.io/badge/Tableau-2D333B?style=for-the-badge" alt="Tableau"> <img src="https://img.shields.io/badge/Power%20BI-2D333B?style=for-the-badge" alt="Power BI">
+<a href="https://neon.com"><img src="assets/stack/icons/neon.svg" width="48" height="48" title="Neon" alt="Neon"></a>
+<a href="https://matplotlib.org"><img src="assets/stack/icons/matplotlib.svg" width="48" height="48" title="Matplotlib" alt="Matplotlib"></a>
+<a href="https://www.tableau.com"><img src="assets/stack/icons/tableau.svg" width="48" height="48" title="Tableau" alt="Tableau"></a>
+<a href="https://www.microsoft.com/power-platform/products/power-bi"><img src="assets/stack/icons/power-bi.svg" width="48" height="48" title="Power BI" alt="Power BI"></a>
 </td></tr>
 <tr><td><b>MLOps &amp; Cloud</b><br><sub>Serving, CI/CD and hosting</sub></td><td>
 <a href="https://www.docker.com"><img src="assets/stack/icons/docker.svg" width="48" height="48" title="Docker" alt="Docker"></a>
@@ -104,15 +114,15 @@ Architected the agent-based backend, where AI agents orchestrate workflows and t
 <a href="https://huggingface.co/spaces"><img src="assets/stack/icons/hugging-face-spaces.svg" width="48" height="48" title="Hugging Face Spaces" alt="Hugging Face Spaces"></a>
 <a href="https://render.com"><img src="assets/stack/icons/render.svg" width="48" height="48" title="Render" alt="Render"></a>
 <a href="https://pytest.org"><img src="assets/stack/icons/pytest.svg" width="48" height="48" title="pytest" alt="pytest"></a>
-<a href="https://docs.astral.sh/uv/"><img src="assets/stack/icons/uv.svg" width="48" height="48" title="uv" alt="uv"></a><br>
+<a href="https://docs.astral.sh/uv/"><img src="assets/stack/icons/uv.svg" width="48" height="48" title="uv" alt="uv"></a>
+<a href="https://langfuse.com"><img src="assets/stack/icons/langfuse.svg" width="48" height="48" title="Langfuse" alt="Langfuse"></a><br>
 <a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?theme=dark&i=aws" width="48" height="48" title="AWS" alt="AWS"></a>
 <a href="https://azure.microsoft.com"><img src="https://skillicons.dev/icons?theme=dark&i=azure" width="48" height="48" title="Microsoft Azure" alt="Microsoft Azure"></a>
 <a href="https://www.cloudflare.com"><img src="https://skillicons.dev/icons?theme=dark&i=cloudflare" width="48" height="48" title="Cloudflare" alt="Cloudflare"></a>
 <a href="https://vercel.com"><img src="https://skillicons.dev/icons?theme=dark&i=vercel" width="48" height="48" title="Vercel" alt="Vercel"></a>
 <a href="https://www.linux.org"><img src="https://skillicons.dev/icons?theme=dark&i=linux" width="48" height="48" title="Linux (VPS)" alt="Linux (VPS)"></a>
 <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?theme=dark&i=git" width="48" height="48" title="Git" alt="Git"></a>
-<a href="https://github.com"><img src="https://skillicons.dev/icons?theme=dark&i=github" width="48" height="48" title="GitHub" alt="GitHub"></a><br>
-<img src="https://img.shields.io/badge/Langfuse-2D333B?style=for-the-badge" alt="Langfuse">
+<a href="https://github.com"><img src="https://skillicons.dev/icons?theme=dark&i=github" width="48" height="48" title="GitHub" alt="GitHub"></a>
 </td></tr>
 </table>
 
