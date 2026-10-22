@@ -18,15 +18,9 @@
 
 ## About
 
-AI engineer in training who builds agentic systems meant for production, not just demos. Third-year Computer Science (Artificial Intelligence & Data Science) student at Taylor's University, Kuala Lumpur, and co-founder of Nabily.
+I am an AI engineer in training, focused on building agentic systems that hold up in production. My work centres on multi-agent workflows, retrieval-augmented generation and model evaluation: designing agents that plan, use tools and work with external services, grounding them in reliable retrieval, and measuring how they behave so that their outputs can be trusted.
 
-- **Agentic systems:** multi-agent workflows with LangGraph, Google ADK and MCP that plan, call tools and integrate third-party APIs.
-- **Retrieval-augmented generation:** document Q&A pipelines with embeddings, vector stores (pgvector, ChromaDB) and FastAPI backends.
-- **Evaluation and reliability:** measuring how models behave, judging the quality of their outputs and setting the policies that keep LLM applications dependable.
-- **Applied machine learning:** computer vision and predictive models with TensorFlow, PyTorch and scikit-learn, from data cleaning to deployment.
-
-**Currently:** building the agent backend at Nabily and Collabwisely, a multiplayer AI workspace.<br>
-**Looking for:** industrial training or an internship in AI engineering.
+I am in my third year of a Bachelor of Computer Science, specialising in Artificial Intelligence and Data Science, at Taylor's University in Kuala Lumpur, with a solid foundation in machine learning, deep learning and computer vision. I am currently seeking industrial training or an internship in AI engineering, where I can contribute to real products and keep growing alongside experienced engineers.
 
 ## Featured Projects
 
