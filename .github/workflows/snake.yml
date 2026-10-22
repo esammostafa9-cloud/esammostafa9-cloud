@@ -21,8 +21,8 @@ jobs:
         with:
           github_user_name: esammostafa9-cloud
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#10B981&color_dots=#0D1117,#0F766E,#14B8A6,#10B981,#F59E0B
+            dist/github-contribution-grid-snake.svg?color_snake=#10B981&color_dots=#EBEDF0,#A7F3D0,#34D399,#10B981,#047857
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#F59E0B&color_dots=#161B22,#0E4D3A,#0F766E,#10B981,#34D399
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@df5cc2bfa78282ded844b354faee141f06b41865 # v4.2.0
