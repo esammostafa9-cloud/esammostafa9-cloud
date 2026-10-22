@@ -9,11 +9,10 @@
 
 <div align="center">
 
-<br><br>
+<br>
 
-<img src="https://img.shields.io/badge/Focus-AI%20Engineering%20%C2%B7%20Agentic%20AI%20%26%20Automation%20%C2%B7%20RAG%20%C2%B7%20Model%20Evaluation%20%26%20Policies-10B981?style=flat-square&labelColor=0A1410" width="440" alt="Focus: AI Engineering, Agentic AI and Automation, RAG, Model Evaluation and Policies"><br>
-<img src="https://img.shields.io/badge/Open%20to-Work%20%C2%B7%20Industrial%20Training-F59E0B?style=flat-square&labelColor=0A1410" alt="Open to work and industrial training"><br>
-<img src="https://img.shields.io/badge/Taylor%27s%20University-Third--Year%20BCS-14B8A6?style=flat-square&labelColor=0A1410" alt="Taylor's University, third-year BCS">
+<img src="assets/info-card-dark.svg#gh-dark-mode-only" width="460" alt="Focus: AI Engineering, Agentic AI and Automation, RAG, Model Evaluation and Policies. Open to work and industrial training. Taylor's University, third-year BCS.">
+<img src="assets/info-card-light.svg#gh-light-mode-only" width="460" alt="Focus: AI Engineering, Agentic AI and Automation, RAG, Model Evaluation and Policies. Open to work and industrial training. Taylor's University, third-year BCS.">
 
 <br>
 

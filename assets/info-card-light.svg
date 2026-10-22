@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="470" height="196" viewBox="0 0 470 196" role="img" aria-label="Focus: AI Engineering, Agentic AI and Automation, RAG, Model Evaluation and Policies. Open to work and industrial training. Taylor's University, third-year BCS.">
+<defs>
+<linearGradient id="cBg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#F0FDF4"/></linearGradient>
+<linearGradient id="cBorder" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0F766E"/><stop offset="0.35" stop-color="#10B981"/><stop offset="0.5" stop-color="#F59E0B"/><stop offset="0.65" stop-color="#10B981"/><stop offset="1" stop-color="#0F766E"/></linearGradient>
+</defs>
+<rect x="2" y="2" width="466" height="192" rx="14" fill="url(#cBg)"/>
+<g font-family="Consolas, 'DejaVu Sans Mono', 'Courier New', monospace" font-size="12.5">
+<text x="26" y="44"><tspan fill="#047857" font-weight="700">esam@alareqi</tspan><tspan fill="#1F2328">:</tspan><tspan fill="#B45309">~</tspan><tspan fill="#1F2328">$ whoami</tspan></text>
+<rect x="26" y="58" width="418" height="1" fill="#047857" fill-opacity="0.35"/>
+<text x="26" y="84"><tspan fill="#047857" font-weight="700">Focus</tspan><tspan fill="#A7F3D0"> .......</tspan></text>
+<text x="122.3" y="84" fill="#1F2328">AI Engineering · Agentic AI &amp; Automation</text>
+<text x="122.3" y="106" fill="#1F2328">RAG · Model Evaluation &amp; Policies</text>
+<text x="26" y="134"><tspan fill="#047857" font-weight="700">Open to</tspan><tspan fill="#A7F3D0"> .....</tspan></text>
+<text x="122.3" y="134" fill="#1F2328">Work · Industrial Training</text>
+<text x="26" y="162"><tspan fill="#047857" font-weight="700">University</tspan><tspan fill="#A7F3D0"> ..</tspan></text>
+<text x="122.3" y="162" fill="#1F2328">Taylor's University · Third-Year BCS</text>
+</g>
+<rect x="9" y="9" width="452" height="178" rx="10" fill="none" stroke="#10B981" stroke-opacity="0.28" stroke-width="1"/>
+<rect x="2" y="2" width="466" height="192" rx="14" fill="none" stroke="url(#cBorder)" stroke-width="1.6"/>
+<path d="M8,24 V8 H24 M446,8 H462 V24 M8,172 V188 H24 M446,188 H462 V172" fill="none" stroke="#F59E0B" stroke-width="1.6" stroke-opacity="0.85"/>
+</svg>
