@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="620" viewBox="0 0 640 620" role="img" aria-label="ASCII art portrait of Esam Alareqi">
+<svg xmlns="http://www.w3.org/2000/svg" width="652" height="620" viewBox="-6 0 652 620" role="img" aria-label="ASCII art portrait of Esam Alareqi">
 <defs>
 <style>.l1{fill-opacity:0.22}.l2{fill-opacity:0.33}.l3{fill-opacity:0.44}.l4{fill-opacity:0.55}.l5{fill-opacity:0.67}.l6{fill-opacity:0.78}.l7{fill-opacity:0.89}.l8{fill-opacity:1.00}.r{opacity:0;animation:rIn 12s ease-out infinite}@keyframes rIn{0%{opacity:0}2.5%{opacity:1;filter:brightness(1.8)}5%{opacity:1;filter:none}82%{opacity:1}90%{opacity:0}100%{opacity:0}}.beam{opacity:0;animation:beam 12s linear 0.3s infinite}@keyframes beam{0%{opacity:1;transform:translateY(0)}24%{opacity:1}25.7%{opacity:0;transform:translateY(560px)}100%{opacity:0;transform:translateY(560px)}}@media (prefers-reduced-motion:reduce){.r{animation:none;opacity:1}.beam{display:none}}</style>
 <linearGradient id="pBg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#F0FDF4"/></linearGradient>
