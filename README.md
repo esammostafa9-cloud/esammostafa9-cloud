@@ -56,19 +56,15 @@ Architected the agent-based backend, where AI agents orchestrate workflows and t
 <tr><th width="19%"><img src="assets/table/th-domain.svg" width="100%" height="32" alt="Domain"></th><th width="81%"><img src="assets/table/th-technologies.svg" width="100%" height="32" alt="Technologies"></th></tr>
 <tr><td><b>Languages</b><br><sub>Core programming</sub></td><td>
 <a href="https://www.python.org"><img src="https://skillicons.dev/icons?theme=dark&i=py" width="48" height="48" title="Python" alt="Python"></a>
-<a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?theme=dark&i=ts" width="48" height="48" title="TypeScript" alt="TypeScript"></a>
 <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?theme=dark&i=js" width="48" height="48" title="JavaScript" alt="JavaScript"></a>
 <a href="https://www.java.com"><img src="https://skillicons.dev/icons?theme=dark&i=java" width="48" height="48" title="Java" alt="Java"></a>
-<a href="https://en.wikipedia.org/wiki/SQL"><img src="https://skillicons.dev/icons?theme=dark&i=mysql" width="48" height="48" title="SQL" alt="SQL"></a>
 <a href="https://www.r-project.org"><img src="https://skillicons.dev/icons?theme=dark&i=r" width="48" height="48" title="R" alt="R"></a>
-<a href="https://go.dev"><img src="https://skillicons.dev/icons?theme=dark&i=go" width="48" height="48" title="Go" alt="Go"></a>
 </td></tr>
 <tr><td><b>Machine Learning</b><br><sub>Training and evaluation</sub></td><td>
 <a href="https://pytorch.org"><img src="https://skillicons.dev/icons?theme=dark&i=pytorch" width="48" height="48" title="PyTorch" alt="PyTorch"></a>
 <a href="https://www.tensorflow.org"><img src="https://skillicons.dev/icons?theme=dark&i=tensorflow" width="48" height="48" title="TensorFlow" alt="TensorFlow"></a>
 <a href="https://scikit-learn.org"><img src="https://skillicons.dev/icons?theme=dark&i=sklearn" width="48" height="48" title="scikit-learn" alt="scikit-learn"></a>
 <a href="https://opencv.org"><img src="https://skillicons.dev/icons?theme=dark&i=opencv" width="48" height="48" title="OpenCV" alt="OpenCV"></a>
-<a href="https://www.anaconda.com"><img src="https://skillicons.dev/icons?theme=dark&i=anaconda" width="48" height="48" title="Anaconda" alt="Anaconda"></a>
 </td></tr>
 <tr><td><b>AI Engineering</b><br><sub>LLMs, agents and RAG</sub></td><td>
 <a href="https://huggingface.co"><img src="assets/stack/icons/hugging-face.svg" width="48" height="48" title="Hugging Face" alt="Hugging Face"></a>
@@ -82,10 +78,8 @@ Architected the agent-based backend, where AI agents orchestrate workflows and t
 <a href="https://www.langchain.com"><img src="assets/stack/icons/langchain.svg" width="48" height="48" title="LangChain" alt="LangChain"></a>
 <a href="https://www.langchain.com/langgraph"><img src="assets/stack/icons/langgraph.svg" width="48" height="48" title="LangGraph" alt="LangGraph"></a>
 <a href="https://n8n.io"><img src="assets/stack/icons/n8n.svg" width="48" height="48" title="n8n" alt="n8n"></a>
-<a href="https://modelcontextprotocol.io"><img src="assets/stack/icons/mcp.svg" width="48" height="48" title="Model Context Protocol (MCP)" alt="Model Context Protocol (MCP)"></a>
 <a href="https://www.langchain.com/langsmith"><img src="assets/stack/icons/langsmith.svg" width="48" height="48" title="LangSmith" alt="LangSmith"></a>
 <a href="https://openclaw.ai"><img src="assets/stack/icons/openclaw.svg" width="48" height="48" title="OpenClaw" alt="OpenClaw"></a>
-<a href="https://google.github.io/adk-docs/"><img src="assets/stack/icons/google-adk.svg" width="48" height="48" title="Google Agent Development Kit (ADK)" alt="Google Agent Development Kit (ADK)"></a><br>
 <a href="https://github.com/pgvector/pgvector"><img src="assets/stack/icons/pgvector.svg" width="48" height="48" title="pgvector (PostgreSQL vector search)" alt="pgvector (PostgreSQL vector search)"></a>
 <a href="https://www.trychroma.com"><img src="assets/stack/icons/chromadb.svg" width="48" height="48" title="ChromaDB" alt="ChromaDB"></a>
 <a href="https://huggingface.co/BAAI"><img src="assets/stack/icons/bge-embeddings.svg" width="48" height="48" title="BGE Embeddings (BAAI)" alt="BGE Embeddings (BAAI)"></a>
@@ -119,7 +113,6 @@ Architected the agent-based backend, where AI agents orchestrate workflows and t
 <a href="https://render.com"><img src="assets/stack/icons/render.svg" width="48" height="48" title="Render" alt="Render"></a>
 <a href="https://pytest.org"><img src="assets/stack/icons/pytest.svg" width="48" height="48" title="pytest" alt="pytest"></a>
 <a href="https://docs.astral.sh/uv/"><img src="assets/stack/icons/uv.svg" width="48" height="48" title="uv" alt="uv"></a>
-<a href="https://langfuse.com"><img src="assets/stack/icons/langfuse.svg" width="48" height="48" title="Langfuse" alt="Langfuse"></a>
 <a href="https://mlflow.org"><img src="assets/stack/icons/mlflow.svg" width="48" height="48" title="MLflow" alt="MLflow"></a><br>
 <a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?theme=dark&i=aws" width="48" height="48" title="AWS" alt="AWS"></a>
 <a href="https://azure.microsoft.com"><img src="https://skillicons.dev/icons?theme=dark&i=azure" width="48" height="48" title="Microsoft Azure" alt="Microsoft Azure"></a>
