@@ -67,22 +67,17 @@ Architected the agent-based backend, where AI agents orchestrate workflows and t
 <a href="https://opencv.org"><img src="https://skillicons.dev/icons?theme=dark&i=opencv" width="48" height="48" title="OpenCV" alt="OpenCV"></a>
 </td></tr>
 <tr><td><b>AI Engineering</b><br><sub>LLMs, agents and RAG</sub></td><td>
-<a href="https://huggingface.co"><img src="assets/stack/icons/hugging-face.svg" width="48" height="48" title="Hugging Face" alt="Hugging Face"></a>
-<a href="https://www.anthropic.com/claude"><img src="assets/stack/icons/claude.svg" width="48" height="48" title="Claude" alt="Claude"></a>
-<a href="https://gemini.google.com"><img src="assets/stack/icons/gemini.svg" width="48" height="48" title="Gemini" alt="Gemini"></a>
 <a href="https://www.llama.com"><img src="assets/stack/icons/llama.svg" width="48" height="48" title="Llama" alt="Llama"></a>
 <a href="https://mistral.ai"><img src="assets/stack/icons/mistral.svg" width="48" height="48" title="Mistral" alt="Mistral"></a>
 <a href="https://openrouter.ai"><img src="assets/stack/icons/openrouter.svg" width="48" height="48" title="OpenRouter" alt="OpenRouter"></a>
-<a href="https://openai.com"><img src="assets/stack/icons/openai.svg" width="48" height="48" title="OpenAI" alt="OpenAI"></a>
 <a href="https://groq.com"><img src="assets/stack/icons/groq.svg" width="48" height="48" title="Groq" alt="Groq"></a><br>
 <a href="https://www.langchain.com"><img src="assets/stack/icons/langchain.svg" width="48" height="48" title="LangChain" alt="LangChain"></a>
 <a href="https://www.langchain.com/langgraph"><img src="assets/stack/icons/langgraph.svg" width="48" height="48" title="LangGraph" alt="LangGraph"></a>
 <a href="https://n8n.io"><img src="assets/stack/icons/n8n.svg" width="48" height="48" title="n8n" alt="n8n"></a>
 <a href="https://www.langchain.com/langsmith"><img src="assets/stack/icons/langsmith.svg" width="48" height="48" title="LangSmith" alt="LangSmith"></a>
 <a href="https://openclaw.ai"><img src="assets/stack/icons/openclaw.svg" width="48" height="48" title="OpenClaw" alt="OpenClaw"></a>
-<a href="https://github.com/pgvector/pgvector"><img src="assets/stack/icons/pgvector.svg" width="48" height="48" title="pgvector (PostgreSQL vector search)" alt="pgvector (PostgreSQL vector search)"></a>
 <a href="https://www.trychroma.com"><img src="assets/stack/icons/chromadb.svg" width="48" height="48" title="ChromaDB" alt="ChromaDB"></a>
-<a href="https://huggingface.co/BAAI"><img src="assets/stack/icons/bge-embeddings.svg" width="48" height="48" title="BGE Embeddings (BAAI)" alt="BGE Embeddings (BAAI)"></a>
+
 </td></tr>
 <tr><td><b>AI Coding Tools</b><br><sub>Agentic development</sub></td><td>
 <a href="https://code.visualstudio.com"><img src="assets/stack/icons/vs-code.svg" width="48" height="48" title="VS Code" alt="VS Code"></a>
@@ -108,14 +103,11 @@ Architected the agent-based backend, where AI agents orchestrate workflows and t
 <a href="https://www.docker.com"><img src="assets/stack/icons/docker.svg" width="48" height="48" title="Docker" alt="Docker"></a>
 <a href="https://github.com/features/actions"><img src="assets/stack/icons/github-actions.svg" width="48" height="48" title="GitHub Actions" alt="GitHub Actions"></a>
 <a href="https://fastapi.tiangolo.com"><img src="assets/stack/icons/fastapi.svg" width="48" height="48" title="FastAPI" alt="FastAPI"></a>
-<a href="https://www.gradio.app"><img src="assets/stack/icons/gradio.svg" width="48" height="48" title="Gradio" alt="Gradio"></a>
 <a href="https://huggingface.co/spaces"><img src="assets/stack/icons/hugging-face-spaces.svg" width="48" height="48" title="Hugging Face Spaces" alt="Hugging Face Spaces"></a>
 <a href="https://render.com"><img src="assets/stack/icons/render.svg" width="48" height="48" title="Render" alt="Render"></a>
 <a href="https://pytest.org"><img src="assets/stack/icons/pytest.svg" width="48" height="48" title="pytest" alt="pytest"></a>
-<a href="https://docs.astral.sh/uv/"><img src="assets/stack/icons/uv.svg" width="48" height="48" title="uv" alt="uv"></a>
 <a href="https://mlflow.org"><img src="assets/stack/icons/mlflow.svg" width="48" height="48" title="MLflow" alt="MLflow"></a><br>
 <a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?theme=dark&i=aws" width="48" height="48" title="AWS" alt="AWS"></a>
-<a href="https://azure.microsoft.com"><img src="https://skillicons.dev/icons?theme=dark&i=azure" width="48" height="48" title="Microsoft Azure" alt="Microsoft Azure"></a>
 <a href="https://www.cloudflare.com"><img src="https://skillicons.dev/icons?theme=dark&i=cloudflare" width="48" height="48" title="Cloudflare" alt="Cloudflare"></a>
 <a href="https://vercel.com"><img src="https://skillicons.dev/icons?theme=dark&i=vercel" width="48" height="48" title="Vercel" alt="Vercel"></a>
 <a href="https://www.linux.org"><img src="https://skillicons.dev/icons?theme=dark&i=linux" width="48" height="48" title="Linux (VPS)" alt="Linux (VPS)"></a>
