@@ -30,7 +30,7 @@ I am in my third year of a Bachelor of Computer Science, specialising in Artific
 <table>
 <tr><th width="18%"><img src="assets/table/th-project.svg" width="100%" height="32" alt="Project"></th><th width="62%"><img src="assets/table/th-what-it-is.svg" width="100%" height="32" alt="What it is"></th><th width="20%"><img src="assets/table/th-stack.svg" width="100%" height="32" alt="Stack"></th></tr>
 <tr><td><a href="https://github.com/esammostafa9-cloud/nabily-explanation-">Nabily</a> <i>(co-founder, pre-launch)</i></td><td>Startup helping students find local offers and understand the fine print before using them. A LangGraph workflow finds public promotion pages, extracts offer terms with their source quotations, checks eligibility, branches, dates and hours, and sends every offer to a human reviewer before it is published. In private beta.</td><td>Python, LangGraph, OpenRouter, PostgreSQL + PostGIS</td></tr>
-<tr><td><b>Varro RAG</b> <i>(private)</i></td><td>Research assistant for your own documents, run on your own machine. Every answer cites its passages, and a citation opens the PDF page with the passage highlighted. Hybrid BM25 and BGE search with a cross-encoder reranker, an agent that drafts tasks for a person to approve, and prompt-injection screening. In testing it cited every needed page on 51 of 51 answerable questions, refused 11 of 11 unanswerable ones and resisted 34 of 34 planted injections.</td><td>Python, FastAPI, LangChain, Chroma, BGE, Groq (GPT-OSS 120B)</td></tr>
+<tr><td><a href="https://github.com/esammostafa9-cloud/Varro-Agentic-RAG-System2">Varro RAG</a><br><sub><a href="https://esammostafa9-cloud.github.io/Varro-Agentic-RAG-System2/">Live site</a></sub></td><td>Research assistant for your own documents, run on your own machine. Every answer cites its passages, and a citation opens the PDF page with the passage highlighted. Hybrid BM25 and BGE search with a cross-encoder reranker, an agent that drafts tasks for a person to approve, and prompt-injection screening. In testing it cited every needed page on 51 of 51 answerable questions, refused 11 of 11 unanswerable ones and resisted 34 of 34 planted injections.</td><td>Python, FastAPI, LangChain, Chroma, BGE, Groq (GPT-OSS 120B)</td></tr>
 <tr><td><b>Collabwisely</b> <i>(group capstone, private)</i></td><td>Multiplayer AI workspace where a team and its AI agents plan, build and review together, with a verifiable record of who did what. In active development.</td><td>Next.js, FastAPI, LangGraph, PostgreSQL</td></tr>
 <tr><td><a href="https://github.com/6rzan/The-Council">The Council</a> <i>(team of 4)</i></td><td>Google and Kaggle AI Agents capstone. Recruits an expert panel, runs a structured debate, fact-checks claims through MCP and synthesizes a verdict.</td><td>Python, Google ADK, Gemini, MCP, FastAPI</td></tr>
 <tr><td><b>Hypothena</b> <i>(private, in planning)</i></td><td>AI copilot that investigates service incidents the way a junior SRE would: it gathers metrics, logs, traces and deploys, tests candidate root causes against the data, cites its evidence, and waits for a person before running a fix from an allowlist. Research and roadmap are done; the build is starting.</td><td>Python, LangGraph, FastAPI, pgvector, scikit-learn (planned)</td></tr>
@@ -40,10 +40,25 @@ I am in my third year of a Bachelor of Computer Science, specialising in Artific
 <tr><td><a href="https://github.com/esammostafa9-cloud/wate-classification-">EcoClean Waste Classifier</a></td><td>Sorts waste photos into organic and recyclable with VGG16 transfer learning and fine-tuning, at 83% test accuracy.</td><td>Python, TensorFlow, Keras</td></tr>
 </table>
 
-## Experience & Education
+## Experience, Leadership & Education
+
+### Experience
 
 **Co-founder** · Nabily · *Sep 2026 – present*<br>
 Architected the agent-based backend: a LangGraph workflow that discovers public promotion pages, extracts offer terms with source evidence, checks them with fixed rules and hands them to human reviewers, on PostgreSQL with PostGIS for location-aware checks. Nabily is in private beta.
+
+### Leadership
+
+**Hackathon Team Lead** · Team of 4<br>
+Led a four-person team through AI hackathons, from idea to working submission:
+
+- [The Council](https://github.com/6rzan/The-Council) *(co-led)*: Google and Kaggle AI Agents Intensive capstone.
+- [StaleGuard](https://github.com/esammostafa9-cloud/StaleGuard): HackCulture and Tavily hackathon.
+
+**Group Leader** · University projects and assignments · *2 years*<br>
+Led student groups on university projects and assignments at Taylor's University, dividing the work and coordinating each group through to submission.
+
+### Education
 
 **Bachelor of Computer Science (Artificial Intelligence & Data Science)** · Taylor's University, Kuala Lumpur · *Third year* <!-- TODO: add expected graduation year -->
 
